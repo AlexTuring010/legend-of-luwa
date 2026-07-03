@@ -48,5 +48,4 @@ NOTES
   That returns the game to exactly how it was.
 
 
-cnc-ddraw is by FunkyFr3sh (open source). The game itself is NOT included
-in this pack - you must already own / have it installed.
+cnc-ddraw is by FunkyFr3sh (open source). 
