@@ -1,0 +1,42 @@
+Legend of LuWa  -  Install + Lag Fix
+====================================
+
+HOW TO INSTALL (the easy way)
+-----------------------------
+Just double-click:
+
+        Install Legend of LuWa with Fix.bat
+
+It will:
+  1. Run the game's setup wizard (complete it normally).
+  2. Automatically apply the lag fix right after.
+
+You'll see ONE Windows admin prompt at the start - click "Yes".
+(If Windows SmartScreen shows a blue "Windows protected your PC"
+box, click "More info" -> "Run anyway". The script just runs the
+installer and copies the fix files.)
+
+That's it. Launch the game afterwards and the animation will be smooth.
+
+
+WHAT IS THE FIX?
+----------------
+The old game uses DirectDraw, which modern Windows (10/11) runs
+slowly, causing choppy/stuttering movement. The fix is "cnc-ddraw",
+an open-source DirectDraw wrapper that swaps in a proper GPU
+renderer with vsync. Source: https://github.com/FunkyFr3sh/cnc-ddraw
+
+Windows Defender may flag the fix's ddraw.dll as a false positive -
+this is normal for game graphics wrappers and it is safe.
+
+
+PREFER TO DO IT MANUALLY?
+-------------------------
+1. Run setup.exe and install the game normally.
+2. Open the "_fix" folder and copy everything inside it
+   (ddraw.dll, ddraw.ini, Shaders, cnc-ddraw config.exe)
+   into the game folder, next to Luwa.exe
+   (usually C:\Program Files\LegendOfLuwa).
+
+To uninstall the fix later, delete those same files from the
+game folder.

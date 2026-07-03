@@ -1,0 +1,11653 @@
+﻿4	V1Hs001
+171	doorT
+191	Village1
+203	V1V001
+262	Hero
+392	BenchX
+433	Bench
+474	Bench
+515	Bench
+556	Lamp
+744	BenchF
+785	BenchF
+826	BedAN
+866	Benchh
+944	BenchD
+985	Bench
+1026	Benchc
+1067	Bench
+1108	Bench
+1145	$$n0
+1151	LuWa opened the drawer.
+1176	$$n1
+1182	LuWa got 20 gold coin!
+1296	Bench_
+1337	Bench
+1378	Lamp
+1418	Lamp
+1680	V1Hs002
+1773	urS
+1885	door@
+1905	Village1
+1917	V1V001
+1939	BenchS
+1980	Bed2
+2019	ShellC
+2061	Chair:
+2102	Table
+2143	Bench
+2591	ChairX
+2706	Bench
+2895	Table
+2936	Table
+2977	Chair
+3018	Chair\
+3059	ShellC(
+3101	ShellC-
+3143	ShellC(
+3185	ShellC*
+3227	ShellC
+3269	ShellC
+3311	ShellC
+3353	Boy|
+3388	$$n0
+3394	Our village used to
+3415	be the best place on
+3437	the world with Green
+3459	Angel's protection.
+3480	$$n0
+3486	Life became very hard
+3509	since Green Angel was
+3532	taken away several 
+3553	years ago.
+3565	$$n0
+3571	Quite a few people went
+3596	to save Green Angel, but
+3622	none of them returned.
+3692	ShellC
+3930	V1Hs003
+4060	npc
+4131	$$n0
+4137	I appreciate your 
+4157	courage. Take this
+4177	Bolus Hulu with you.
+4199	$$h0
+4205	LuWa get the Bolus
+4225	Hulu.
+4274	$$n0
+4280	I have no more Bolus
+4302	Hulu.
+4359	BedA
+4399	Bench:
+4440	Bench"
+4481	Table6
+4566	Benchr
+4607	BedA
+4647	Bench
+4890	Village1
+4902	V1V001
+5109	Bench,
+5335	Bench
+5413	Bench
+5454	Bench
+5495	Bench
+5536	Table:
+5621	Benchh
+5662	Bench
+5703	Bench
+5744	Table
+5829	Table:
+5914	TableY
+5999	BedAn
+6039	BedA
+6079	BedA
+6119	BenchA
+6160	BedA
+6200	Benchn
+6241	old
+6276	$$n0
+6282	There are three things
+6306	you must keep in mind
+6329	when playing this game:
+6354	$$n0
+6360	Talk to people;
+6377	Check the map;
+6393	Save the progress!
+6459	BedA
+6499	Bench
+6756	V1Hs004
+6886	npc
+6921	$$n0
+6927	Although Big Monkey is
+6951	driven away, Green Angel
+6977	is still jailed in Xuan
+7002	Tower.
+7010	$$n0
+7016	To enter Xun Tower, you
+7041	must have Xuan Sword.
+7110	BedA
+7150	Bench:
+7191	Bench'
+7232	Table6
+7317	Benchr
+7358	BedA
+7398	Bench
+7641	Village1
+7653	V1V001
+7860	Bench,
+8086	Bench
+8164	Bench
+8205	Bench
+8246	Bench
+8287	Table:
+8372	Benchh
+8413	Bench
+8454	Bench
+8495	Table
+8580	Table:
+8665	TableY
+8750	BedAn
+8790	BedA
+8830	BedA
+8870	BenchA
+8911	BedA
+8951	Benchn
+8992	npc
+9027	$$n0
+9033	Ah, it is you. Thank you
+9059	for saving me.
+9075	$$n0
+9081	When I was jailed in the
+9107	Dungeon, I heard that Xuan
+9135	Sword is broken into five
+9162	pieces of Xuan Iron. They
+9189	scattered around the world.
+9266	Bench
+9307	BedA
+9563	V1HsHotel 
+9695	npcx
+9738	Fine
+9746	$$n0
+9752	Come again.
+9795	Leave#
+9804	$$n0
+9810	Come again when you
+9831	need it.
+9863	$$n0
+9869	Take a rest and cure
+9891	your would.
+9950	Bed
+9989	Bed
+10028	Bench
+10069	BenchK
+10110	Bed
+10149	npc
+10188	Bench
+10229	Bed
+10396	Village1
+10408	V1V001
+10652	BedSleep
+10881	Bench
+11033	Bench?
+11074	BenchP
+11115	Bench
+11156	Bench
+11197	Bench
+11238	npcF
+11277	npc
+11316	npcd
+11355	Benchi
+11581	npc
+11624	Buy torch
+11637	$$n0
+11643	Thank you.
+11685	Leave
+11694	$$n0
+11700	What a pity.
+11736	$$n0
+11742	Torch for sale. 5 coins
+11767	for one torch.
+11831	npcT
+11870	npcm
+11909	npcc
+11948	npcr
+11987	npcK
+12026	npcT
+12065	npc
+12104	Bench
+12145	Bench
+12186	Benchl
+12227	BenchD
+12268	Bench<
+12309	Bench
+12350	Bench
+12391	BenchZ
+12432	Bench
+12473	Bench|
+12514	Bench
+12555	Bench
+12596	Bench
+12637	Bench
+12678	Bench
+12719	Bench
+12760	Bench
+12801	Bench
+12842	npch
+12877	$$n0
+12883	Want to buy darts!
+12903	Only if you know how
+12925	to use them!
+12989	Buy darts
+13002	$$n0
+13008	Thank you.
+13050	Leave
+13059	$$n0
+13065	What a pity.
+13101	$$n0
+13107	Have some darts? 5 coins
+13133	for 10.
+13502	V1HsMed
+13706	doorh
+13726	Village1
+13738	V1V001
+13760	doc0
+13795	$$n0
+13801	You must have Bolus Hulu
+13827	to hold my Med Bolus.
+13902	Buy Med Bolus
+13919	$$n0
+13925	Thank you.
+13967	Leave
+13976	$$n0
+13982	What a pity.
+14018	$$n0
+14024	Each Med Bolus costs 
+14047	5 coins. It will cure
+14070	all wounds.
+14133	Bench]
+14174	counterAq
+14218	counterA
+14262	BottleC
+14305	Bench
+14346	Bench
+14387	BenchT
+14428	ShellC
+14662	Bench2
+14740	ShellC&
+14819	Bench
+14971	dr6
+15009	Bench#
+15161	ShellC
+15203	ShellC
+15245	ShellC
+15331	ShellC
+15417	ShellC
+15503	BenchZ
+15544	Bench
+15585	Bench
+15626	Bench(
+15667	Bench,
+15708	Bench2
+15749	oldi
+15788	ShellC
+15874	ShellC
+15960	ShellC
+16046	BottleC
+16089	doc
+16124	$$n0
+16130	It is said that Joy
+16151	Fountain is far more
+16173	effective than any
+16193	medicine.
+16466	V1HsWeap
+16597	boy
+16632	$$n0
+16638	My father knows the 
+16660	secret to work with 
+16682	Xuan Iron.  He will
+16703	teach me the secret
+16724	when I am older.
+16786	$$n0
+16792	We have had a peaceful
+16816	life after you drove 
+16839	Big Monkey away.
+16857	$$n0
+16863	But a few days ago, some
+16889	monsters took my dad away
+16916	to make weapons for them.
+16995	Tell him the old Smith's willG
+17028	$$n0
+17034	Oh, this book is the 
+17057	secret of Xuan Iron.
+17079	Thank you very much.
+17133	Leave3
+17142	$$n0
+17148	The secret of Xuan Iron
+17173	is lost from now on.
+17217	$$n0
+17223	Oh, no, dad passed away...
+17251	$$n0
+17257	Did he say anything before
+17285	he died?
+17347	Yes
+17354	$$n0
+17360	Although dad told me 
+17383	not to make weapons,
+17405	I will make Xuan 
+17424	Sword for you and
+17443	help you to defeat
+17463	WuXing!
+17472	$$n0
+17478	Give me the broken pieces
+17505	of Xuan Iron.
+17520	$$n0
+17526	Please wait...
+17542	$$n0
+17548	Here you are.  What do
+17572	you think?
+17584	$$h0
+17590	LuWa got the Xuan Sword!
+17656	Leave$
+17665	$$n0
+17671	How can I revenge for
+17694	my dad?
+17725	$$n0
+17731	Is it true that you need
+17757	Xuan Sword to enter the
+17782	Xuan Tower?  Do you need
+17808	me to make Xuan Sword for
+17835	you?
+17885	$$n0
+17891	I do believe you will
+17914	succeed.
+17972	BedA
+18012	Bench
+18053	Bench
+18094	Bench
+18135	BedA
+18303	Village1
+18315	V1V001
+18781	Bench
+18822	BenchK
+18863	BenchK
+18904	Bench
+18945	Bench
+18986	Bench'
+19027	Bench(
+19068	Bench+
+19109	Bench
+19150	BenchW
+19191	Bench
+19232	Bench
+19273	Bench
+19314	Bench
+19355	Shell
+19396	BenchP
+19437	Bench
+19478	Shell
+19519	Shell
+19560	Shell
+19601	Shell
+19642	Shellg
+19683	Bench
+19724	Bench
+19765	Bench
+19806	Shell
+19847	Shell
+19888	Shell
+19929	Shell
+20206	V1V001@
+20298	bushu(
+20339	bushl(
+20380	Tree
+20420	door
+20440	World
+20449	WX7Y4
+20516	House4
+20538	Village1
+20550	V1HsMed
+20573	House2
+20595	Village1
+20607	V1Hs002
+20630	House3x
+20652	Village1
+20664	V1HsHotel
+20689	House1x
+20711	Village1
+20723	V1Hs001
+20746	House58
+20768	Village1
+20780	V1Hs004
+20799	$$h0
+20805	The door cannot open.
+20876	Tomb
+20916	Tomb
+20956	Tomb
+20996	Road8
+21036	Road
+21076	Road8
+21116	RoadH
+21156	Name
+21192	$$n0
+21198	YunFu Village
+21259	TombMan|
+21298	$$n2
+21304	My son went to fight Big
+21330	Monkey years ago but never
+21358	returned.
+21369	$$n2
+21375	You may take his Practice
+21402	Sword.
+21410	$$h0
+21416	LuWa got the Practice
+21439	Sword.
+21489	$$n1
+21495	Please revenge for my son.
+21565	$$n0
+21571	Thank you for taking 
+21594	revenge on Big Monkey.
+21618	$$n1
+21624	One needs mighty strength
+21651	to use the Bravery Sword.
+21678	Going to west, you may find
+21707	Dali Bolus that gives you 
+21735	powerful strength.
+21803	npc
+21838	$$n0
+21844	My son, there are lots
+21868	of monsters outside.
+21890	You cannot go out bare-
+21915	handed.
+21966	$$n0
+21972	Be careful!
+22033	smith@
+22070	$$n0
+22076	My son is taken away
+22098	by the Big Monkey.
+22160	$$n0
+22166	Thank you for saving
+22188	my son.
+22197	$$n0
+22203	I will do my best if
+22225	I can be any help.
+22339	House6
+22361	Village1
+22373	V1HsWeap
+22397	Well
+22417	CaveD
+22426	CaveD301
+22496	boy
+22531	$$n0
+22537	My grandpa is known
+22558	as the Wise Oldman
+22578	in the village.
+22595	$$n0
+22601	But he does not want
+22623	to live in the village.
+22648	He lives in the north
+22671	woods instead.
+22733	TreesD
+22775	TombJ
+22815	TreesD
+22857	TreesD
+22899	TreesDD
+22941	TreesD
+22983	TreesD
+23025	TreesD
+23067	Road
+23107	Road
+23147	TreesDx
+23189	TreesD
+23231	TreesDx
+23273	TreesD
+23315	TreesD
+23357	TreesD
+23399	TreesD
+23441	TreesD
+23483	TreesD^
+23525	TreesDh
+23567	TreesDd
+23609	Road
+23649	Road
+23689	TreesDx
+23731	TreesD
+23773	TreesD
+23815	TreesDd
+23857	Road
+23897	TreesD
+23939	TreesD
+23981	TreesD
+24023	TreesD
+24065	TreesD@
+24107	TreesD
+24149	TreesD(
+24191	TreesD
+24277	TreesD
+24319	ggogo
+24372	TreesD
+24414	Road8
+24454	Road
+24494	TreesD
+24536	TreesD
+24578	TreesD<
+24620	TreesD
+24662	TreesD
+24704	TreesDP
+24746	House1
+24768	Village1
+24780	V1Hs003
+24803	TreesD
+24845	TreesD
+24887	TreesD
+24929	TreesD
+24971	TreesD
+25013	TreesD
+25055	TreesD
+25097	TreesDx
+25139	TreesD
+25181	TreesD
+25223	TreesD
+25265	TreesD(
+25307	TreesD
+25349	TreesD
+25391	TreesD
+25433	TreesDx
+25475	TreesD(
+25517	TreesDD
+25559	TreesDX
+25601	TreesD
+25643	TreesD
+25685	TreesD
+25727	TreesDx
+25769	TreesD
+25811	TreesD
+25853	TreesDd
+25895	TreesD
+25937	TreesD
+25979	TreesD
+26021	TreesD
+26063	TreesDD
+26105	TreesDx
+26147	TreesD
+26189	TreesD
+26231	TreesD
+26273	TreesD
+26315	TreesDD
+26357	TreesDD
+26399	TreesD
+26441	TreesDx
+26483	TreesD4
+26525	TreesD
+26567	TreesD
+26609	TreesD(
+26651	TreesDd
+26693	TreesD
+26735	Road
+26775	Road
+26815	TreesD
+26857	TreesD
+26899	TreesD
+26941	TreesD
+26983	TreesD
+27025	TreesD
+27067	TreesD
+27637	WX10Y1
+27729	Bush
+27769	Bush
+27809	Bush 
+27849	BushP
+27889	Bush
+27929	BushP
+27969	rabbit
+28007	$$n0
+28013	LuWa got the Silver
+28034	Rabbit.
+28089	Bush
+28129	Bushp
+28169	Bush
+28209	Bush
+28249	BushX
+28289	Bush
+28329	Bush
+28369	Bush
+28409	Bush
+28449	Bush
+28489	Bush
+28629	WX10Y2
+28721	Bush
+28761	Bush
+28801	BushP
+28841	Bush
+28881	Bush0
+28921	Bush
+28941	Village6
+28953	V6V001
+28975	BushP
+29015	Bush
+29055	Bushl
+29095	Bush
+29179	Bush
+29219	Bush
+29259	Bush
+29299	Bush\
+29339	Bush
+29379	Bush,
+29419	Bush
+29459	Bush
+29499	Bush
+29539	BushP
+29579	BushP
+29619	Bush
+29659	Bush
+29699	Bush
+29739	Bush
+29779	Bush
+29819	Bush
+29859	Bush
+29899	Bush
+29939	BushH
+29979	Bush,
+30019	Bush,
+30059	Bush,
+30099	Bush
+30139	Bush
+30179	BushD
+30219	BushT
+30259	BushD
+30299	Bush
+30339	Bush
+30379	Bush$
+30419	Bushp
+30459	Bush
+30499	BushH
+30539	Bush
+30579	Bush
+30619	Bush
+30659	Bush|
+30699	Bush
+30739	Bush
+31007	WX10Y3
+31099	Bush
+31139	Bush
+31179	Bush
+31219	Bush
+31259	Bushp
+31299	Bush
+31339	Bush
+31379	Bush
+31419	Bush
+31459	Bush`
+31499	Bush
+31539	BushP
+31579	BushP
+31619	Bushx
+31659	BushD
+31699	Bush
+31739	Bush
+31779	Bush0
+31819	Bush
+31859	Bush
+31899	Bush
+31939	BushH
+31979	BushH
+32019	Bush
+32059	BushH
+32099	Bushp
+32139	Bush
+32179	Bush
+32219	Bush\
+32259	Bush
+32299	Bush
+32339	Bush
+32379	Bush
+32579	WX10Y4
+32671	Bush
+32711	BushP
+32751	BushX
+32771	Dun6
+32779	Dun6001
+32802	Bush(
+32842	Bush
+32882	Bush
+32922	BushH
+32962	Bush
+33002	Bush(
+33042	BushP
+33082	Bushp
+33122	Bush
+33162	Bush4
+33202	Bush4
+33242	Bush
+33282	Bush
+33322	Bush
+33362	Bush
+33402	Bush
+33442	Bush0
+33482	Bush
+33522	Bush
+33562	Bush
+33602	Bush|
+33642	Bush
+33682	Bushh
+33722	Bush
+33762	Bush
+33802	Bush
+33842	Bush
+33882	Bush
+33922	Bush
+33962	Bush
+34002	Bush
+34042	Bush
+34082	Bush
+34122	Bush
+34338	WX10Y5
+34874	Door
+36962	WX10Y6
+37145	Dun5
+37153	Dun5001
+39080	CaveE
+39089	CaveE101
+39150	Bush
+39190	Bush
+39247	Dun5
+39255	Dun5007
+39574	Bush
+39614	Bush
+40098	Bush
+40945	WX10Y7
+42869	WX10Y8
+43812	Door
+43852	Door
+43929	Bush_
+43949	World
+43958	WX9Y8
+45143	WX10Y9
+45622	Village5
+45634	V5V001
+47532	WX11Y1
+47624	Bush
+47664	Bush
+47704	BushL
+47744	Bush
+47784	BushX
+47824	Bush
+47864	Bush
+47904	Bush
+47944	Bush
+47964	WHouse
+47974	WHF01
+47995	Bush
+48035	Bush
+48075	Bush 
+48115	Bush
+48155	Bushl
+48195	BushP
+48235	Bush
+48275	BushP
+48315	Bush 
+48355	Bush
+48395	Bushh
+48435	Bush
+48475	Bush<
+48515	Bush
+48555	Bushd
+48595	Bush
+48635	Bush
+48807	WX11Y2
+48899	Bush
+48939	Bush(
+48979	Bush
+49019	Bush
+49059	Bush4
+49099	Bush
+49139	Bush
+49179	BushD
+49219	Bushl
+49259	Bush
+49299	Bush
+49339	Bush
+49379	BushD
+49419	Bush
+49459	Bush
+49499	Bush
+49539	Bush
+49579	Bush
+49619	Bush
+49659	BushP
+49699	BushP
+49739	Bush
+49779	BushP
+49819	BushP
+49859	Bush
+49899	Bush
+49939	Bush
+49979	Bush8
+50019	Bush
+50059	Bush
+50099	Bush,
+50139	Bush8
+50179	Bush
+50219	Bush<
+50259	Bushd
+50299	Bush
+50339	Bush
+50555	WX11Y3
+50647	Bush
+50687	Bush@
+50727	Bush
+50767	Bush
+50807	Bush
+50847	Bush
+50887	Bush
+50927	Bush
+50967	Bush
+51007	Bush
+51047	Bush
+51087	Bush`
+51127	BushP
+51167	BushT
+51207	Bush
+51247	Bushp
+51287	Bush4
+51327	Bush
+51367	Bush
+51407	Bush
+51447	Bush
+51487	Bush
+51527	Bush
+51687	WX11Y4
+51779	Bush
+51819	BushP
+51859	Bush
+51879	CaveF
+51888	CaveF301
+51912	Bush(
+51952	Bush
+51992	Bush
+52032	Bush
+52072	Bushh
+52112	Bush
+52152	Bush
+52192	Bush
+52232	Bush
+52272	Bush
+52312	Bush
+52352	Bush
+52392	Bush
+52432	Bush
+52472	Bush
+52512	Bush
+52552	Bush@
+52592	Bush|
+52632	Bush
+52672	Bush
+52712	BushH
+52752	Bush,
+52792	Bush
+52832	Bush
+52872	Bush
+52912	BushX
+52952	Bush
+52992	Bush|
+53032	Bush
+53072	Bush
+53112	Bush
+53152	Bushh
+53192	Bush0
+53232	Bush
+53272	Bush
+53312	Bush(
+53352	BushT
+53392	Bush|
+53432	BushT
+53472	Bush@
+53512	Bush
+53552	BushT
+53592	Bush
+53844	WX11Y5
+54027	CaveE
+54036	CaveE301
+54134	Door
+54174	Door
+55500	WX11Y6
+56682	World
+56691	WX12Y6
+56730	World
+56739	WX12Y6
+57407	World
+57416	WX12Y6
+57610	World
+57619	WX12Y6
+57702	World
+57711	WX12Y6
+57794	World
+57803	WX12Y6
+57886	World
+57895	WX12Y6
+57978	World
+57987	WX12Y6
+58070	World
+58079	WX12Y6
+58162	World
+58171	WX12Y6
+58254	World
+58263	WX12Y6
+58346	World
+58355	WX12Y6
+58438	World
+58447	WX12Y6
+58530	World
+58539	WX12Y6
+58622	World
+58631	WX12Y6
+58714	World
+58723	WX12Y6
+58806	World
+58815	WX12Y6
+58898	World
+58907	WX12Y6
+58990	World
+58999	WX12Y6
+59082	World
+59091	WX12Y6
+59174	World
+59183	WX12Y6
+59266	World
+59275	WX12Y6
+59694	WX11Y7
+61249	WX11Y8
+62763	WX11Y9
+63575	WHouse
+63585	WHE01
+64165	WX12Y2
+64257	Bush
+64297	Bush
+64317	CaveF
+64326	CaveF101
+64350	Bush
+64390	Bush(
+64430	Bushx
+64470	Bush
+64510	Bush
+64550	Bush
+64590	BushH
+64630	Bush
+64670	Bush
+64710	Bush
+64750	Bush
+64790	Bush
+64830	BushH
+64870	BushP
+64910	Bush
+64950	BushP
+64990	BushP
+65030	Bush<
+65070	Bush(
+65110	Bush
+65150	Bush
+65190	Bush
+65230	Bush
+65270	Bush
+65310	Bush\
+65350	Bush
+65390	BushH
+65430	Bush
+65470	Bush
+65510	BushH
+65550	Bush
+65590	Bush
+65630	Bush8
+65670	Bush8
+65710	Bush
+65750	Bush@
+65790	Bush|
+65830	Bush
+65870	Bush
+65910	BushD
+65950	Bush
+65990	Bush
+66030	Bush0
+66070	Bush
+66110	Bush
+66150	Bush
+66190	BushX
+66230	Bush
+66270	Bush
+66310	Bush
+66350	Bush
+66390	BushL
+66430	Bush8
+66470	Bush
+66510	Bush$
+66550	Bush
+66590	Bush
+66630	Bush\
+66670	Bush
+66710	Bush\
+66750	Bushp
+66790	BushR
+67114	WX12Y3
+67206	Bush
+67246	Bush(
+67286	Bush
+67326	Bush
+67366	Bushx
+67406	BushT
+67426	CaveF
+67435	CaveF401
+67459	Bush(
+67499	Bush
+67539	Bush
+67579	Bush
+67619	BushX
+67659	Bush
+67699	BushX
+67739	Bush
+67779	BushX
+67819	Bush
+67859	Bush
+67899	Bush
+67939	BushH
+67979	Bush
+68019	Bush
+68059	Bush
+68099	Bush
+68139	Bush
+68179	Bush9
+68219	Bush
+68259	BushH
+68299	Bush4
+68479	WX12Y6
+68645	Door
+68924	World
+68933	WX11Y6
+69473	token11
+69550	$$n0
+69556	LuWa got another half
+69579	of the Ex-Jade. He
+69599	combined the two and
+69621	got the whole Ex-Jade.
+69693	token1
+69767	$$n0
+69773	LuWa got half of the
+69795	Ex-Jade.
+70190	WX12Y7
+71827	WX12Y8
+73423	WX12Y9
+74773	WX1Y1
+74864	Bush$
+74904	Bush
+74944	Bush
+74984	Bush
+75024	Bush
+75082	CaveB
+75091	CaveB101
+75115	Bush@
+75155	Bush|
+75195	Bush
+75235	Bush
+75275	Bush
+75315	Bushh
+75355	Bush
+75395	Bush
+75435	Bush
+75475	Bush
+75515	Bush
+75555	Bush
+75595	Bush
+75635	Bush
+75675	Bush
+75715	Bush
+75755	Bush
+75795	Bush
+75835	Bushd
+75875	Bush
+75915	Bush
+75955	Bushh
+75995	Bush|
+76035	Bush0
+76075	Bush
+76115	Bush
+76155	Bush
+76195	Bush
+76235	Bushh
+76275	Bush
+76315	Bush|
+76355	Bush
+76395	Bush
+76435	Bush
+76475	Bush
+76515	Bush
+76555	Bush&
+76595	BushH
+76635	Bush
+76675	Bush
+76715	BushH
+76755	Bushh
+76832	Bush
+76872	Bush4
+76912	Bush
+76952	Bush
+76992	Bush
+77032	Bushd
+77402	WX1Y2
+77493	Bush
+77533	BushL
+77573	Bush
+77613	BushP
+77653	BushP
+77693	Bush
+77733	Bush@
+77773	Bush
+77813	Bush
+77853	Bush
+77893	Bush
+77933	Bush
+77973	BushT
+78013	Bush
+78053	Bush
+78093	Bush
+78133	Bush
+78173	Bush|
+78213	Bush
+78253	Bush
+78293	Bush
+78333	Bush
+78373	Bush
+78413	Bush4
+78453	Bush
+78493	Bush
+78533	Bush,
+78573	Bush
+78613	Bush
+78653	Bush&
+78693	Bush
+78733	Bush
+78773	BushH
+78813	Bush
+78853	Bush
+78893	Bush
+78933	Bush
+78973	BushL
+79013	Bush$
+79053	Bush
+79093	BushL
+79133	Bushd
+79173	Bush
+79213	Bush
+79253	Bushp
+79293	Bush$
+79333	Bush
+79373	Busht
+79413	Bushl
+79453	Bush|
+79493	Bushh
+79587	WHouse
+79597	WHB02
+79618	Bush
+79695	Bush4
+79735	Bush
+79775	Bush
+79815	Bush
+79929	Bush
+79969	BushX
+80009	Bushl
+80049	Bush
+80377	WX1Y3
+80468	Bush
+80508	Bush
+80548	Bush
+80588	BushP
+80628	Bush
+80668	Bush
+80708	Bush
+80748	Bush\
+80788	Bush(
+80828	Bush(
+80868	Bush`
+80908	BushP
+80948	Bushd
+80988	Bush
+81028	Bush
+81068	Bush\
+81108	Bush
+81148	Bushh
+81188	Bush
+81228	Bush
+81268	Bush
+81308	Bush
+81348	Bush
+81388	Bush0
+81428	Bush
+81468	BushD
+81508	Bush
+81548	Bush
+81588	BushH
+81628	Bushp
+81668	Bush
+81708	Bush
+81748	Bush|
+81788	Bushn
+81828	Bushx
+81868	BushP
+81908	Bush
+81948	Bush
+81988	Bushd
+82028	Bush
+82068	Bush$
+82108	Bush8
+82148	BushL
+82188	Bush
+82228	BushT
+82268	Bush
+82308	Bush
+82348	Bush
+82388	Bush
+82428	Bushp
+82468	Bush
+82508	Bush4
+82548	Bush 
+82588	Bush 
+82628	Bush\
+82668	BushD
+82708	BushD
+82748	Bush
+82788	Bush
+82828	Bush
+82868	Bush
+82908	Bush
+82948	Bush\
+82988	Bush
+83028	Bush
+83068	Bush
+83108	Bush
+83148	Bush
+83188	Bush0
+83228	Bush
+83268	Bush
+83308	Bush 
+83348	Bush
+83388	Bush(
+83916	WX1Y4
+84007	Bush
+84047	Bushx
+84124	Bush
+84164	Bush
+84204	Bush(
+84244	Bush(
+84284	Bush`
+84324	Bush
+84364	Bush
+84404	Bush`
+84444	Bush
+84484	Bush4
+84524	Bush|
+84564	Bush
+84604	Bush
+84644	Bush 
+84684	Bush\
+84724	Bush
+84764	BushL
+84804	BushT
+84844	Bush
+84884	Bush
+84924	Bush@
+84964	Bush,
+85004	Bush
+85044	Bush
+85084	Bush
+85124	Bush
+85164	Bush
+85204	Bush
+85244	BushG
+85284	Bush
+85324	Bush
+85364	Bush
+85404	Bush$
+85444	Bush
+85484	Bush
+85524	Bush>
+85564	Bush
+85604	Bush
+85644	Bush
+85684	Bushx
+85724	Bush
+85764	Bush
+85804	Bush<
+85844	Bushd
+85884	Bush(
+85924	Bush(
+85964	Bush
+86004	Bushd
+86044	Bushd
+86084	Bush
+86124	Bushd
+86164	Bushx
+86204	Bush
+86244	Bush(
+86284	Bush
+86324	Bush
+86364	BushP
+86404	Bush(
+86444	Bush
+86484	Bush
+86524	Bushx
+86564	Bush<
+86604	Bushd
+86644	Bush
+86684	Bush
+86724	Bush
+86764	Bush
+86804	Bushx
+86844	Bush
+87254	Bush
+87294	Bush
+87334	Bush
+87374	Bush
+87414	Bush
+87454	Bush
+87494	Bush
+87682	Bush~
+88126	WX1Y5
+88402	Bush 
+90005	WaterA
+90047	Bush
+90087	Bush
+90642	WX1Y6
+90750	Village3
+90762	V3V001
+92579	WX1Y7
+93538	CaveC
+93547	CaveC201
+93859	WX1Y8
+97668	WX1Y9
+101108	WX2Y1
+101199	Bush(
+101239	Bush
+101279	BushP
+101319	Bush(
+101359	Bush
+101399	Bush
+101439	Bush 
+101479	Bush(
+101519	Bush
+101559	Bushl
+101599	Bush
+101639	BushP
+101679	Bush
+101719	Bush
+101759	Bush
+101799	Bush
+101839	Bush
+101879	Bushd
+101919	Bush,
+101959	Bushd
+101999	Bush0
+102039	Bush
+102079	BushH
+102119	Bushh
+102159	Bush4
+102199	Bush
+102239	Bush
+102279	Bush`
+102319	Bush
+102359	Bush
+102399	Bush
+102439	Bush
+102479	Bush`
+102519	Bush
+102559	Bush
+102599	Bush
+102639	Bushp
+102679	Bushl
+102719	Bush
+102759	Bush
+102799	Bush
+102839	Bush
+102879	Bush
+102919	Bush
+102959	Bush
+102999	Bush
+103039	Bush
+103079	Bush
+103119	Bushx
+103159	Bush
+103199	Bush
+103239	Bush 
+103279	Bush
+103319	Bush
+103359	Bush8
+103399	Bush
+103439	Bush
+103479	Bush
+103519	Bush
+103559	Bush
+103599	Bush
+103639	Bush
+103679	Bush
+103719	Bush
+103759	Bush
+103799	Bush
+103839	Busht
+103879	Bush
+103956	Bush
+103996	Bush
+104036	Bush@
+104076	Bush
+104227	Bush
+104603	WX2Y2
+104694	Bush(
+104734	Bush 
+104774	Bush
+104814	Bush
+104854	Bush
+104894	Bush
+104934	Bush
+104974	Bush
+105014	Bushp
+105054	BushH
+105094	Bush
+105134	BushH
+105174	Bush
+105214	Bush
+105254	Bush
+105294	Bush(
+105334	Bush
+105374	BushX
+105414	Bush
+105454	Bush
+105494	Bush
+105534	Bushh
+105574	Bush
+105614	Bush
+105654	Bush
+105694	BushH
+105734	Bush
+105774	Bush
+105814	Bushp
+105854	BushL
+105894	Bush$
+105934	BushL
+105974	Bush
+106014	Bush
+106054	Bush
+106094	Bush
+106134	Bushp
+106174	Bush
+106214	Bush 
+106254	Bush
+106294	Bush
+106334	Bush
+106374	Bush
+106414	Bush
+106454	Busht
+106494	Bushp
+106534	Bush
+106574	Bush8
+106614	Bush
+106654	Bush
+106694	Bush8
+106734	BushL
+106774	Bush
+106814	Bush8
+106854	Bush
+106894	BushL
+106934	Bushp
+106974	Bush
+107014	Bush
+107054	Bush@
+107094	Bush
+107134	Bush(
+107174	Bushd
+107214	Bush(
+107254	Bush@
+107294	BushP
+107334	Bush
+107374	Bush
+107414	Bush
+107454	Bush
+107494	Bush\
+107534	Bush
+107574	Bush|
+107614	Bush
+107654	Bush
+107694	Bush
+107734	BushY
+107774	Bush
+107814	Bush
+107854	Bush,
+107894	Bush
+107934	Bush
+107974	Bushd
+108014	Bush
+108054	Bush,
+108094	Bush
+108134	Bushh
+108174	Bush
+108214	Bush
+108254	Bush
+108294	Bush(
+108334	Bush@
+108374	Bush
+108414	Bush
+108454	BushD
+108494	Bushp
+108534	Bush
+108574	Bush
+108614	Bush
+108654	Bush
+109122	WX2Y3
+109213	Bush
+109253	Bush
+109293	Bush
+109333	Bushl
+109373	Bush
+109413	Bush
+109453	Bush
+109493	Bush
+109533	Bush\
+109573	Bush
+109613	Bush
+109653	Bush|
+109693	Bush`
+109733	Bush
+109773	Bush
+109813	Bush8
+109853	Bush
+109893	Bush
+109933	Bush
+109973	Bush
+110013	Bush
+110053	Bush
+110093	Bush 
+110133	BushL
+110173	Bush@
+110213	Bush
+110253	Bush
+110293	Bush
+110333	Bush
+110373	Bush
+110413	Bush|
+110453	Bush
+110493	Bush
+110533	Bush 
+110573	Bush4
+110613	Bush
+110653	Bush
+110693	BushL
+110733	Bush
+110773	Bush
+110813	Bush
+110853	Bush4
+110893	Bushh
+110933	Bushh
+110973	Bush|
+111013	Bush0
+111053	Bushr
+111147	CaveB
+111156	CaveB201
+111180	Bush
+111220	BushL
+111260	Bush
+111300	Bush
+111340	BushH
+111380	Bush
+111420	Bush\
+111460	Bush
+111500	Bush 
+111540	Bush
+111580	Bushh
+111620	Bush
+111660	Bush`
+111700	Bush|
+111740	BushT
+111780	Bush
+111820	Bush
+111860	Bush
+112319	WX2Y4
+112410	Bush
+112450	Bush
+112490	Bush
+112530	Bush(
+112570	Bush0
+112610	Bush
+112650	Bush
+112690	Bushh
+112730	Bush
+112770	Bush
+112810	Bush
+112850	Bush
+112890	Bush
+112930	Bush
+112970	Bush
+113010	BushX
+113050	Bush
+113090	Bush
+113130	Bush<
+113170	Bush(
+113210	Bush8
+113250	Bush
+113290	Bushd
+113330	Bushx
+113370	Bush
+113410	Bush
+113450	Bush
+113490	Bush\
+113530	Bush4
+113570	BushH
+113610	Bush
+113650	Bush
+113690	Bush
+113730	BushH
+113770	Bush
+113810	Bush
+113850	Bush
+113890	Bush
+113930	BushL
+113970	Bush`
+114010	BushL
+114050	BushL
+114090	BushH
+114130	Bush
+114170	Bush
+114210	Bush|
+114250	Bushr
+114290	Bush
+114330	Bush
+114370	Bush|
+114410	Bush
+114450	Bush
+114490	Bush,
+114530	BushT
+114570	Bushh
+114610	Bush
+114650	Bushp
+114690	Bush\
+114730	Bush@
+114770	Bush
+114810	Bushd
+114850	Bushx
+114890	Bush
+114930	Bush
+114970	Bush
+115010	Bush
+115050	Bush8
+115090	Bush8
+115130	Bush8
+115170	Bush
+115210	Bush
+115250	Bush8
+115290	Busht
+115330	Bush
+115370	Bush$
+115410	BushL
+115450	BushL
+115490	Bush8
+115530	Bush`
+115570	Bush8
+115610	Bush8
+115650	BushL
+115690	Bush$
+115730	Bush8
+115770	Bush8
+115810	Busht
+115850	Bush
+115890	Bush
+115930	BushX
+115970	Bush
+116010	Bush0
+116050	Bush
+116090	Bush
+116130	BushD
+116170	Bush
+116210	Bush
+116250	Bush
+116290	Bushz
+116330	Bush8
+116370	Bush$
+116410	Bush
+116450	Bush
+116490	Busht
+116530	Bush8
+116570	Bush(
+116610	Bushx
+116650	Bush(
+116690	Bushx
+116730	Bush
+116770	Bush(
+116884	Bush
+116904	CaveB
+116913	CaveB401
+117499	WX2Y5
+117590	Bush
+117630	BushX
+117670	Bush
+117710	Bush
+117750	Bush
+117790	Bush
+117830	Bush
+117870	Bush
+117910	Bush
+117950	Bush
+117990	Bushh
+118030	Bushh
+118070	Bush
+118110	Bushl
+118150	Bush
+118190	Bush0
+118230	Bush
+118270	Bush
+118290	WHouse
+118300	WHB03
+118321	Bush
+118361	Bush
+118401	Bush
+118441	Bush
+118481	Bush|
+118521	Bush
+118561	Bush
+118601	Bush
+118641	Bush(
+118681	Bush
+118721	Busht
+118761	Bushp
+118801	Bush
+118841	Bush`
+118881	BushL
+118921	Bush`
+118961	Busht
+119001	Bush
+119041	Bush$
+119081	BushL
+119121	Bush8
+119161	BushL
+119201	Bush
+119241	Bush|
+119281	Bushl
+119321	Bush0
+119361	Bush
+119401	Bush
+119441	Bush
+119481	Bush
+119521	Bush
+119561	Bush@
+119601	Bush
+119641	Bush
+119681	Bushl
+119721	Bush
+119761	Bush
+119801	Bush
+119841	Bush
+119881	Bush
+119921	Bush
+119961	Bush\
+120001	Bush
+120041	Bush\
+120081	Bush4
+120121	Bush 
+120161	Bushp
+120201	Bush
+120241	BushL
+120281	BushL
+120321	Bush
+120361	Bush
+120401	Bush
+120441	Bush$
+120481	Bush
+120521	Bush
+120561	Bushf
+120601	Bush
+120641	Bush`
+120681	Bushh
+120721	Bushl
+120835	Bushx
+120875	Bushx
+120915	Bushx
+120955	Bush
+120995	Bush
+121035	Bush
+121075	Bush
+121115	Bush
+121155	Bush$
+121306	Bush
+121383	WaterA
+121425	WaterA,
+121467	WaterA
+121509	WaterA|
+121551	WaterA
+122021	WX2Y6
+124231	WX2Y7
+124894	WHouse
+124904	WHC02
+126411	WX2Y8
+126778	CaveC
+126787	CaveC101
+128347	WX2Y9
+130046	Dun3
+130054	Dun3001
+130077	Bush
+130117	Bush 
+130369	WX3Y1
+130460	Bush
+130500	Bush
+130540	Bush
+130580	Bush
+130620	Bush
+130660	Bush
+130700	Bush
+130740	Bush
+130780	Bush`
+130820	Bush
+130860	Bush
+130900	BushL
+130940	Bush
+130980	BushL
+131020	Bush
+131060	Bush
+131100	Bush(
+131140	Bushx
+131180	Bush@
+131220	Bushh
+131260	Bush
+131300	Bush
+131340	Bush
+131380	Bushp
+131420	Bush
+131460	Bush
+131500	Bush
+131540	Bush
+131580	Bush
+131620	Bush8
+131660	Bush
+131700	Bush 
+131740	BushX
+131780	Bush
+131820	Bush
+131860	BushD
+131900	Bush
+131940	Bush
+131980	Bush
+132020	Bush(
+132060	Bush`
+132100	Busht
+132140	BushL
+132180	Bush
+132220	Bush
+132260	Bush
+132300	Bush
+132340	Bush
+132380	Bush
+132420	Bush
+132460	Bush
+132500	Bush
+132540	Bushh
+132580	Bush
+132620	BushP
+132660	Bush
+132737	Bush
+132777	Bush
+132817	Bush
+132857	Bush\
+132897	Bush
+132937	Bush
+132977	Bush
+133017	Bush
+133057	Bush$
+133097	Bush
+133174	Bush
+133251	Bush
+133291	BushH
+133331	Bush
+133371	Bush
+133411	Bush\
+133451	Bush
+133491	Bush
+133531	Bushd
+133911	WX3Y2
+134002	Village2
+134026	Village2
+134038	V2V001
+134060	Bush
+134100	Bush8
+134140	Bush
+134180	Bush
+134220	Bush8
+134260	BushH
+134300	Bush
+134340	Bush
+134380	Bush
+134420	BushH
+134460	BushX
+134500	Bush(
+134540	Bush
+134580	Bush
+134620	Bush
+134660	Bush
+134700	Bushh
+134740	BushH
+134780	Bush
+134820	Bush
+134860	Bush
+134900	Bush
+134940	Bush(
+134980	BushX
+135020	Bush
+135060	Bush
+135100	Bushh
+135140	Bushx
+135180	Bush(
+135220	Bushh
+135260	Bush
+135300	Bushx
+135340	Bushx
+135380	Bushx
+135420	Bushh
+135460	Bush
+135500	Bush
+135540	BushH
+135580	BushH
+135620	Bush
+135660	Bush
+135700	Bush
+135740	Bush
+135780	Bush
+135820	Bush
+135860	BushD
+135900	Bush
+135940	Bush
+135980	Bush
+136020	Bush$
+136060	Bush
+136100	Bushd
+136140	Bushh
+136180	Bushh
+136220	Bush
+136260	Bushn
+136300	Bush
+136340	Bush
+136380	Bush
+136420	Bush\
+136460	Bush
+136500	BushX
+136540	Bush
+136580	Bush
+136620	Bush
+136660	Bush
+136700	Bush
+136740	Bush(
+136780	Bush
+136820	Bush6
+136860	Bush
+136900	Bush
+136940	Bushx
+136980	Bush
+137020	Bush
+137060	Bush
+137100	BushH
+137140	Bush\
+137180	Bush`
+137220	Bush
+137260	Bush
+137300	Bush
+137340	Bush(
+137380	Bush(
+137420	Bush(
+137460	Bush
+137500	Bush@
+137540	Bush
+137964	WX3Y3
+138055	BushP
+138095	BushP
+138135	Bush<
+138175	Bush
+138215	Bush
+138255	Bush
+138295	Bushp
+138335	Bush(
+138375	Bushx
+138415	Bush
+138455	Bush
+138495	Bush
+138535	Bush
+138575	Bush|
+138615	Bush 
+138655	BushD
+138695	Bush 
+138735	Bush
+138775	Bush
+138815	Bush
+138855	Bush
+138895	Bush@
+138935	Bush
+138975	Bush\
+139015	Bush
+139055	Bush
+139095	Bush
+139135	Bush
+139175	Bush4
+139215	Bushd
+139255	Bush
+139295	Bush
+139335	Bushp
+139375	Bush
+139415	Bush
+139455	Bushd
+139495	Bush
+139535	Bush
+139575	BushD
+139615	Bush
+139655	Bush0
+139695	Bush
+139735	Bush
+139775	Bush4
+139815	Bush
+139855	Bush
+139895	Bush
+139935	Bush
+139975	Bush 
+140015	Bush<
+140055	Bush
+140095	BushP
+140135	Bush
+140175	Bush
+140215	Bush
+140255	Bush
+140295	Bush
+140335	Bush0
+140375	Bush
+140415	Bush
+140455	Bush
+140549	CaveB
+140558	CaveB301
+140582	Bush
+140622	Bush
+140662	Bush<
+141076	WX3Y4
+141167	BushP
+141207	Bush
+141247	Bush(
+141287	Bush(
+141327	Bush(
+141367	Bush(
+141407	Bush(
+141447	Bush(
+141487	Bush
+141527	Bush0
+141567	Bush
+141607	Bush
+141647	Bush
+141687	Bush
+141727	Bush
+141767	Bush@
+141807	BushL
+141847	Bush
+141887	BushX
+141927	Bush
+141967	Bushl
+142007	Bush
+142047	Busht
+142087	Bush
+142127	Bush
+142167	Bush>
+142207	BushH
+142247	Bush
+142287	Bush
+142327	Bush
+142367	Bush4
+142407	Bush
+142447	Bush
+142487	Bush
+142527	Bush
+142567	Bush
+142607	Bushh
+142647	Bush
+142687	Bush
+142727	Bush
+142767	Bush
+142807	BushD
+142847	Bush0
+142887	Bushl
+142927	Bushb
+142967	Bush4
+143007	Bushd
+143047	Bushx
+143087	Bush
+143127	Bush
+143167	Bush
+143207	Bush
+143247	Bushd
+143287	BushT
+143327	Bush
+143367	Bush|
+143407	Bush
+143447	Bush
+143487	Bush
+143527	Bush
+143567	Bush
+143607	Bush 
+143647	Bush\
+143687	Bushp
+143727	Bush4
+143767	Bushp
+143807	Bush\
+143847	Bush
+143887	Bush
+143927	Bush
+143967	Bush
+144007	Bush
+144047	Bush
+144087	Bush
+144127	Bush
+144167	Bushd
+144207	Bush
+144247	Bush
+144287	Bush
+144327	Bush
+144367	Bush
+144407	Bush
+144447	Bush
+144487	Bush
+144527	Bush
+144567	Bush
+144607	Bush
+144647	Bushd
+144687	Bush
+144727	Bushd
+144767	Bush
+144807	Bush
+144847	Bush 
+144887	Bush
+144927	Bush8
+144967	Bush
+145007	Bush
+145047	Bush
+145087	Bush
+145127	BushL
+145167	Bush
+145207	Busht
+145247	Bush
+145287	Bush
+145381	CaveB
+145390	CaveB501
+145488	Bush
+145528	Bushd
+146036	WX3Y5
+146127	Bush
+146167	Bush(
+146207	Bush`
+146247	Bush(
+146287	Bush@
+146327	Bush
+146367	BushH
+146407	BushD
+146447	Bush
+146487	BushP
+146527	Bush(
+146567	Bush(
+146607	Bush
+146647	Bush
+146687	Bush
+146727	Bush
+146767	Bush0
+146807	Bush\
+146847	Bush$
+146887	Bush
+146927	Bush
+146967	Bush
+147007	Bush
+147047	Bush
+147087	Bush$
+147127	Bush
+147167	Bush
+147207	Bush
+147247	Bushl
+147287	Bush
+147327	Bush
+147367	BushX
+147407	Bush0
+147447	Bush
+147487	Bush
+147527	BushX
+147567	Bush
+147607	Bush\
+147647	Bush0
+147687	Bush
+147727	Bush
+147767	Bush
+147807	Bush0
+147847	Bush
+147887	Bush,
+147927	Bushl
+147967	BushX
+148007	Bush
+148047	Bush
+148087	Bush
+148127	Bush
+148167	Bush
+148207	Bush
+148247	Bush8
+148287	Bush`
+148327	Bush
+148367	Bush
+148407	Bush[
+148447	Bush
+148487	Bush
+148527	BushH
+148567	Bush
+148607	Bush
+148647	Busha
+148687	Bush
+148727	Bush*
+148767	Bush
+148807	Bush`
+148847	Bushv
+148961	Bush(
+149075	Bush
+149443	WX3Y6
+151401	CaveC
+151410	CaveC301
+152568	WX3Y7
+157402	WX3Y8
+160581	CaveC
+160590	CaveC501
+161183	WX3Y9
+163926	WX4Y1
+164017	Bush
+164057	Bush
+164097	Bush
+164137	Bush
+164177	Bush<
+164217	Bush
+164257	BushP
+164297	Bushl
+164337	Bush
+164377	Bush
+164417	Bush
+164457	Bushx
+164497	Bush
+164537	Bush
+164577	Bushl
+164617	Bush(
+164657	Bush(
+164697	Bush
+164737	BushX
+164777	Bush
+164817	Bush
+164857	House
+164878	WHouse
+164888	WHB01
+164909	Bush
+164949	Bush
+164989	Bush
+165029	Bushh
+165069	Bush
+165109	Bush
+165149	Bush
+165189	Bush
+165229	Bush
+165269	Bush
+165309	BushL
+165349	Bush
+165389	Bushh
+165429	Bush
+165469	Bush
+165509	Bush
+165549	Bush
+165589	Bush8
+165629	Bush
+165669	BushL
+165709	Bushp
+165749	BushL
+165789	Bush
+165829	Bush|
+165869	Bush
+165909	Bush 
+165949	Bush
+165989	Bush
+166029	Bushh
+166069	Bush
+166109	Bush
+166553	WX4Y2
+166644	Bush
+166684	Bush
+166724	Bush
+166764	Bush
+166804	Bush
+166844	TunelH
+166865	CaveA
+166874	CaveA401
+166898	Bush
+166938	hsD
+167014	BushH
+167054	hs@
+167168	hs,
+167206	Bush
+167398	hs4
+167436	hsT
+167702	hsH
+167740	hs,
+167816	hs|
+167854	hs0
+167930	hs|
+167968	hs0
+168006	hs 
+168158	hs|
+168196	hsh
+168348	hs|
+168500	Bush$
+168540	Bush$
+168732	hsh
+168770	Bush4
+168924	hs`
+168962	Bush
+169002	Bush4
+169080	hsh
+169118	hsx
+169156	Bush
+169488	WX4Y3
+169579	Bush
+169619	Bush
+169659	Bush
+169699	Bush
+169739	Bush
+169779	Bush
+169819	Bush
+169859	Bush
+169899	Bush
+169939	BushL
+169979	Bush
+170019	Bush
+170059	Bush
+170099	Bush
+170139	Bush
+170179	Bush
+170219	Bush0
+170259	Bush
+170299	Bushh
+170339	Bush4
+170379	Bush4
+170419	Bush8
+170459	Bush
+170499	Bush
+170539	Bush
+170579	Bushx
+170619	BushX
+170659	Bush
+170699	Bushp
+170739	BushO
+170779	Bush
+170819	Bush
+170859	Bushl
+170899	Bush
+170939	Bush
+170979	Bush|
+171019	Bush
+171059	Bush
+171099	Bush
+171139	Bush
+171179	Bush
+171219	Bush
+171259	Bushh
+171299	Bush
+171339	Bush
+171379	Bush
+171419	Bush
+171459	Bush
+171499	Bush
+171539	Bush`
+171579	BushV
+171656	Bush`
+171770	Bush
+171847	Bushx
+171887	Bushx
+172191	WX4Y4
+172282	Busht
+172322	Bush
+172362	Bush
+172402	BushP
+172442	Bush(
+172482	BushP
+172522	Bush<
+172562	Bush
+172602	Bush(
+172642	Bush(
+172682	Bush(
+172722	Bushd
+172762	Bush
+172802	Bush
+172842	Bush
+172882	Bush
+172922	Bush
+172962	Bush
+173002	Bush
+173042	Bush
+173082	Bush
+173122	Bush
+173162	Bushd
+173202	Bushd
+173242	Bushd
+173282	Bush
+173322	Bushp
+173362	Bush
+173402	Bush
+173442	Bush
+173482	Bush\
+173522	Bush,
+173562	Bush
+173602	Bush
+173642	Bush
+173682	Bush@
+173722	Bush`
+173762	Bush
+173802	Bush
+173842	Bushh
+173882	Bush,
+173922	Bush@
+173962	Bush@
+174002	Bush
+174042	Bush
+174082	Bush
+174122	Bush
+174162	Bush
+174202	BushT
+174242	Bush1
+174282	Bush
+174322	Bush
+174362	Bush
+174402	Bush
+174442	Bush
+174482	Bush4
+174522	Bush4
+174562	Bush
+174602	Bushc
+174642	Bush
+174682	Bush
+174722	Bush
+174762	Bush
+174802	Bushd
+174842	Bush
+174882	Bush
+174922	Bush
+174999	Bush
+175039	Bush
+175113	$$n0
+175119	I am BeiWu. BeiNi wants
+175144	to replace me and be the
+175170	Master of Arrow Tribe.
+175194	$$n0
+175200	He got Monster Dirt's help
+175228	and I was trapped by them.
+175256	If you came later, I would
+175284	have died.
+175296	$$n0
+175302	I have to hurry back to see
+175331	what is going on with our
+175358	Tribe.
+175604	Bush
+175644	Bush
+175684	Bush
+175724	Bush
+175764	Bush
+175804	Bushp
+175844	Bush
+175884	Bush
+175924	Bush
+175964	Bush
+176004	Bush
+176044	Bushh
+176084	Bushh
+176124	Bush
+176164	Bush
+176204	Bush,
+176244	BushL
+176330	Bush
+176370	Bush(
+176814	WX4Y5
+176905	Bush
+176945	Bush
+176985	Bush(
+177025	Bush
+177065	Bush
+177105	Dun2p
+177125	Dun2
+177133	Dun2001
+177156	Bush
+177196	BushP
+177236	BushX
+177276	Bush
+177316	Bush
+177356	Bush(
+177396	Bushx
+177436	Bush
+177476	Bush
+177516	Bush
+177556	Bush
+177596	Bush
+177636	Bush
+177676	Bush
+177716	Bush
+177756	Bush
+177796	Bush
+177836	Bush
+177876	Bush
+177916	Bush
+177956	Bush
+177996	Bush
+178036	Bush
+178076	Bush
+178116	Bush
+178156	Bush
+178196	Bush
+178236	Bush
+178276	Bush
+178316	Bush
+178356	Bush
+178396	Bush
+178436	Bush
+178476	Bush
+178516	Bush
+178556	Bush
+178596	Bush{
+178636	BushS
+178676	Bushh
+178716	Bush
+178756	Bush,
+178796	Bush
+178836	Bushd
+178876	Bush
+178916	Bush
+178956	Bush
+178996	Bush@
+179036	Bush
+179076	Bush
+179116	BushD
+179156	Bush
+179196	Bush
+179236	Bush
+179276	Bush
+179316	Bush
+179356	Bush
+179396	Bush
+179436	Bush
+179476	Bush
+179516	Bush
+179556	Bush
+179596	Bush\
+179636	Bushh
+179676	Bush
+179716	Bush,
+179756	Bush
+179796	Bush
+179836	Bush
+179876	Bush(
+179916	Bush\
+179956	Bush
+179996	Bush@
+180036	Bush
+180076	Bush
+180190	Bush(
+180230	Bush
+180270	Bush
+180310	Bush
+180350	Bush
+180390	Bush
+180430	Bush0
+180544	BushP
+180584	BushB
+180624	BushH
+180664	BushL
+180684	Dun2
+180692	Dun2017
+180761	Bush`
+180801	Bush`
+181257	WX4Y6
+185230	WX4Y7
+189408	WX4Y8
+191144	CaveC
+191153	CaveC401
+192902	WX4Y9
+195156	WHouse
+195166	WHC03
+196558	WX5Y1
+196649	water
+196690	Bush
+196730	BushX
+196770	BushX
+196810	mF8
+196959	Bush
+196999	waterx
+197040	mFh
+197078	water(
+197119	Bush
+197139	WHouse
+197149	WHG01
+197170	batX
+197255	Bush
+197332	bat
+197467	WX5Y2
+197558	water
+197599	WaterAh
+197641	mF8
+197753	Bush
+197793	waterx
+197834	WaterA
+197876	water
+197917	WaterAx
+197959	water(
+198000	WaterA(
+198079	bat
+198164	bat
+198600	CaveA
+198609	CaveA601
+198884	WX5Y3
+198975	hbP
+199013	WaterA
+199055	WaterA
+199097	WaterA
+199139	Tunel
+199160	CaveA
+199169	CaveA401
+199241	hbP
+199279	hb0
+199393	hsh
+199507	ttH
+199545	ttT
+199735	ttT
+199811	tth
+199849	TreeAR
+199890	hb0
+199928	TreeA
+199969	TreeA
+200010	TreeA
+200051	TreeA
+200092	TreeA
+200323	TreeA
+200364	TreeA3
+200443	tt 
+200481	ttp
+200519	TreeA
+200560	tt4
+200598	ttL
+200712	WaterA
+200754	WaterA
+200796	WaterA
+200838	TreeAp
+200879	TreeA
+200920	TreeA0
+200961	TreeA
+201002	TreeA
+201043	TreeA 
+201084	TreeA\
+201125	TreeAp
+201204	Tunel@
+201245	Tunel
+201286	Tunel
+202107	WX5Y4
+202235	TreeAb
+202256	WHouse
+202266	WHC01
+202287	mC@
+202401	mCl
+202477	mC 
+202819	mCX
+203079	WX5Y5
+203170	monutF
+203212	monutF
+203254	monutF(
+203296	monutF(
+203338	TreeAX
+203379	TreeAX
+203420	TreeA
+203461	TreeA@
+203562	WX5Y6
+205335	CaveC
+205344	CaveC601
+207630	WX5Y7
+208161	$$h0
+208167	The bridge is broken.
+208244	$$h0
+208250	LuWa repaired the broken
+208276	bridge with Cheng Wood.
+208325	$$h0
+208331	Here is the broken
+208351	bridge again.
+212194	WX5Y8
+213116	CaveD
+213125	CaveD701
+213638	WX6Y1
+213746	Tower
+213755	Tower01
+213862	mF\
+214086	Bush
+214126	Bush
+214166	BushD
+214434	mF(
+214548	mF8
+214700	bat|
+214785	bath
+214870	bat
+214955	bat8
+214994	bat
+215033	bat
+215072	bat
+215111	bat8
+215150	Bush
+215350	WX6Y2
+215441	Bush8
+215481	WaterA(
+215523	WaterA
+215565	Bush
+215643	BridgeX
+215685	mF(
+215723	mFh
+215873	Bushd
+215913	water(
+215954	BridgeX
+215996	water
+216037	mF(
+216113	mFh
+216189	Bush
+216229	mF(
+216395	mF$
+216433	mF8
+216471	mF8
+216547	Bush
+216587	BushH
+216627	Bush
+216667	Bush
+216707	Bushp
+216747	Bush
+216787	Bush$
+216827	Bush
+216867	mF 
+216905	Bush
+216945	bat
+217030	mF(
+217068	Bush
+217108	batX
+217147	Bush
+217187	Bush
+217227	Bush
+217267	Bush
+217340	$$n0
+217346	No entrance to Xuan Tower!
+217374	We'll rip you off if you
+217400	dare to come closer!
+217470	Bush
+217510	Bush
+217766	WX6Y3
+217857	WaterA(
+217899	WaterA
+217941	WaterAH
+217983	WaterA
+218025	WaterA
+218067	WaterA
+218109	WaterA
+218151	WaterA
+218193	WaterA
+218235	WaterA
+218277	WaterA
+218319	WaterA
+218361	WaterA
+218403	WaterA
+218445	WaterAH
+218487	WaterA
+218529	bridgeX
+218571	WaterA
+218613	WaterA
+218655	WaterA
+218697	WaterA
+218739	WaterA
+218781	WaterAh
+218823	WaterAh
+218865	WaterAh
+218907	WaterA(
+218949	WaterA(
+218991	WaterAh
+219033	WaterAh
+219075	WaterAh
+219117	WaterAh
+219159	WaterA(
+219201	WaterA(
+219243	WaterA
+219285	WaterA
+219327	xaX
+219403	xaD
+219517	xa0
+219707	xa0
+219783	xa|
+219821	WaterA
+219863	xal
+219901	bat\
+219986	bat
+220198	bridgeX
+220240	WaterA
+220282	WaterA
+220707	WX6Y4
+220798	TreeA4
+220839	TreeA
+220880	WaterH
+220921	Water
+220962	TreeA
+221003	hbP
+221041	TreeA
+221082	TreeAX
+221103	CaveA
+221112	CaveA501
+221136	TreeAL
+221177	TreeA`
+221218	TreeA8
+221259	TreeA
+221300	TreeA
+221341	TreeA
+221382	TreeAt
+221423	TreeA
+221464	TreeA
+221505	TreeA0
+221546	TreeA4
+221587	TreeAL
+221628	TreeA
+221669	TreeA
+221710	TreeA
+221751	TreeA
+221792	TreeA
+221833	TreeA`
+221874	TreeAp
+221915	TreeA
+221956	TreeA@
+221997	TreeA
+222038	TreeAT
+222079	TreeA
+222120	TreeA
+222161	TreeA
+222202	TreeA
+222243	TreeA
+222284	TreeA
+222325	TreeA
+222366	TreeAH
+222407	TreeA
+222448	TreeA
+222489	TreeA
+222530	TreeA
+222571	TreeA
+222612	TreeA
+222653	TreeA
+222694	TreeAL
+222735	TreeA
+222776	TreeA\
+222817	TreeA 
+222858	TreeA
+222899	TreeA8
+222940	TreeA
+222981	TreeA
+223022	TreeA
+223063	xa,
+223101	TreeA
+223142	Water(
+223183	Water
+223224	Water(
+223265	Water
+223306	Waterx
+223347	Waterx
+223388	TreeA
+223429	TreeA
+223470	TreeA0
+223511	TreeA
+223552	TreeA
+223593	TreeA
+223634	TreeA 
+223675	TreeA
+223716	TreeA
+223757	hbP
+223795	TreeA
+223836	TreeA
+223877	TreeA
+223918	TreeAp
+223997	TreeA 
+224038	TreeAX
+224079	bat
+224164	bat,
+224867	WX6Y5
+224958	Dungeon1
+224982	Dun1
+224990	Dun1001
+225013	Bush
+225053	HillAd
+225094	HillA
+225135	HillAP
+225176	HillA
+225217	HillAP
+225258	HillA
+225299	HillA(
+225340	HillA
+225381	HillAh
+225422	BushP
+225462	HillA
+225503	Bush
+225543	Bush
+225583	HillA$
+225624	HillA8
+225665	BushL
+225705	HillA8
+225746	HillA
+225787	Bush
+225827	HillAL
+225868	BushL
+225908	Busht
+225948	HillA
+225989	HillA
+226030	HillA
+226071	HillA
+226112	HillAd
+226153	HillAT
+226194	HillA
+226235	HillAd
+226276	HillA
+226317	Bush
+226357	Bushx
+226397	Bushx
+226437	HillA(
+226478	HillA
+226519	HillA
+226560	HillA
+226601	Bush
+226641	Bush
+226681	Bush
+226721	Bushd
+226761	Bush
+226801	Bush
+226841	HillA
+226882	HillA
+226923	Bush\
+226963	Bush
+227003	Bush`
+227043	Bush
+227083	Bush*
+227123	HillAl
+227164	Bush|
+227204	BushT
+227244	Bush
+227284	Bushl
+227324	HillA0
+227365	HillA
+227406	Bush
+227446	HillA
+227487	Bushl
+227527	HillAp
+227568	Bush
+227608	Bush
+227648	HillA`
+227689	HillA
+227730	HillA
+227771	Bush\
+227811	HillA
+227852	HillA4
+227893	Bush
+227933	Bush
+227973	Bush
+228013	HillA
+228054	BushP
+228094	Bush,
+228134	Bush`
+228174	HillAl
+228215	HillA
+228256	Bush$
+228296	Bushp
+228336	Bush
+228376	Bush
+228416	HillA
+228457	HillA0
+228498	Bush
+228538	Bush
+228578	Bush
+228618	Bush
+228658	Bush$
+228735	Bush
+228775	Bush 
+228815	Bush
+228855	HillA
+228896	Bush
+228936	HillA`
+228977	Dungeon14
+229021	Dungeon1
+229065	Dungeon1H
+229109	Bush
+229149	Bush
+229189	Bush
+229229	HillA
+229270	Bush
+229310	Bush8
+229350	Bush 
+229390	Bush
+229430	HillA
+229471	Bush$
+229511	Bush
+229531	Dun1
+229539	Dun1005
+229608	Bush 
+229694	Bush
+229780	Bush
+229866	Bush
+229952	Bush
+230038	BushH
+230124	HillA
+230165	HillA
+230206	HillAL
+230247	HillA
+230288	Bush
+230328	Busht
+230368	HillA
+230446	bat,
+230531	bat
+230743	bat
+231642	WX6Y6
+231992	Village4
+232004	V4V001
+234945	CaveD
+234954	CaveD401
+235801	WX6Y7
+238219	$$n0
+238225	No entrance!  The gold
+238249	mine is closed for new
+238273	comers.
+238282	$$n0
+238288	By the way, for your
+238310	goodness, better save
+238333	before you enter the
+238355	northern village.
+238424	Yes#
+238431	$$n0
+238437	Give me the permit and
+238461	pass.
+238506	$$n0
+238512	You cannot pass!
+238554	$$n0
+238560	You have to have miner's
+238586	permit to enter the gold
+238612	mine.  Do you have the
+238636	permit?
+238689	$$n0
+238695	You have to have miner's
+238721	permit to enter the gold
+238747	mine.
+239902	WX6Y8
+242024	$$n0
+242030	LuWa got the Dragon
+242051	Sword!
+242142	lake
+242457	lake
+243684	WX6Y9
+244623	WX7Y1
+244714	Bushh
+244754	Bush
+244794	Bush
+244834	Bush
+244985	Bush
+245025	WaterA
+245067	water8
+245108	WaterA(
+245150	WaterA(
+245192	WaterA
+245234	Bush
+245274	BushX
+245314	Bush
+245354	Bush
+245394	Bushh
+245434	Bush
+245474	Bush
+245514	BushH
+245554	Bush
+245594	Bush
+245634	bat|
+245719	bat|
+245804	bat
+245843	bath
+245882	bat|
+245921	Bush
+245941	CaveA
+245950	CaveA701
+245974	Bush
+246014	Bush)
+246054	Bush$
+246094	Bush.
+246134	Bush$
+246174	Bush$
+246382	WX7Y2
+246473	WaterA(
+246515	WaterA(
+246557	Bushh
+246597	Bushx
+246637	Bush(
+246677	Bush
+246828	water(
+246869	WaterA
+246911	WaterA
+246953	water8
+246994	Bush
+247034	Bushd
+247074	Bushx
+247114	Bush
+247154	Bush
+247194	Bush
+247234	Bush
+247311	Bush
+247351	BushH
+247391	Bush
+247431	Bush
+247471	Bush
+247511	Bush4
+247551	Bushp
+247591	Bush
+247631	bat
+247716	batX
+247755	bat@
+247794	bat
+247833	Bush
+247873	Bush
+247913	Bush
+247953	Bush
+248169	WX7Y3
+248260	WaterA
+248302	WaterA(
+248344	WaterAx
+248386	House
+248407	WHouse
+248417	WHA01
+248438	WaterA(
+248480	WaterAx
+248522	WaterAx
+248564	WaterA(
+248644	TreeA
+248723	TreeA
+248764	TreeA0
+248805	TreeA8
+248846	TreeAL
+248887	TreeA
+248928	TreeA
+248969	TreeA
+249010	TreeA
+249051	TreeA`
+249092	TreeA
+249133	TreeAf
+249174	TreeA
+249215	TreeA
+249256	TreeA\
+249297	TreeA
+249338	TreeAR
+249379	TreeA
+249420	TreeA$
+249461	TreeAH
+249502	TreeA
+249543	TreeA
+249584	TreeAp
+249625	TreeA
+249666	TreeA
+249707	TreeAH
+249748	TreeAl
+249789	TreeA
+249830	TreeA
+249871	TreeAD
+249912	TreeA
+249953	TreeAl
+249994	TreeA
+250035	TreeA
+250076	TreeAN
+250117	TreeA
+250158	TreeA|
+250199	TreeA
+250240	TreeA
+250281	TreeAv
+250322	TreeA,
+250363	TreeA
+250404	TreeAh
+250445	TreeA
+250486	TreeA
+250527	TreeA
+250568	WaterAx
+250610	WaterA(
+250652	WaterAx
+250694	WaterA(
+250736	WaterA
+250778	TreeA
+250819	TreeA@
+250860	TreeA
+250901	TreeA
+250942	TreeA
+250983	TreeA
+251024	TreeA`
+251065	TreeA
+251106	TreeA
+251147	TreeAp
+251188	TreeA
+251229	TreeA
+251270	TreeA
+251311	TreeA
+251352	TreeA
+251393	WaterA
+251435	WaterA
+251477	WaterA
+251519	bat
+251604	bat
+251689	bat@
+252155	bat
+252240	Bush
+252280	Bush
+252320	Bush
+252360	Bush
+252400	Bush
+252440	Bush
+253007	WX7Y4
+253098	Village1
+253122	Village1
+253134	V1V001
+253156	treeP
+253196	WaterA
+253238	WaterA
+253280	WaterA(
+253322	WaterAcdl
+253367	WaterA
+253409	Treet
+253450	Treet
+253491	Treet|
+253532	TreetD
+253573	Treet
+253614	TreetT
+253655	tree
+253695	tree
+253735	tree@
+253775	tree,
+253815	treel
+253855	Treet
+253896	Treet
+253937	tree
+253977	treeT
+254017	Treet|
+254058	Treet
+254099	Treet
+254140	Treet
+254181	Treet
+254222	tree|
+254262	tree
+254302	tree
+254342	tree
+254382	tree(
+254422	treeX
+254462	tree
+254502	treed
+254542	Treetx
+254583	Treet
+254624	Treet,
+254665	Treet0
+254706	tree4
+254746	tree
+254786	treeP
+254826	tree
+254866	Treet
+254907	tree
+254947	treex
+254987	tree
+255027	Treet
+255068	Treetd
+255109	Treet 
+255150	Treetp
+255191	tree
+255231	tree
+255271	Treet
+255312	Treet
+255353	tree4
+255393	Treet
+255434	tree\
+255474	tree
+255514	tree
+255554	tree
+255594	tree
+255634	WaterA
+255676	WaterA
+255718	WaterA8
+255760	Treet
+255801	Treet@
+255842	Treet
+255883	Treet
+255924	Treeth
+255965	tree
+256005	tree
+256045	tree
+256085	treeL
+256125	tree
+256165	tree
+256205	tree
+256245	WaterAt
+257499	WX7Y5
+257590	CaveA4
+257611	CaveA
+257620	CaveA101
+257644	TreeA
+257685	TreeATL
+257727	TreeAT
+257845	TreeAP
+257886	hbP
+257962	Bush
+258040	hbp
+258078	hb`
+258116	TreeAT
+258158	TreeATL
+258200	hbp
+258276	hbt
+258314	TreeAT$
+258356	TreeAT
+258436	hbH
+258474	hbL
+258550	hb(
+258588	hb@
+258626	hb\
+258702	TreeATd
+258744	TreeATH
+258786	Bushl
+258864	Bush<
+258904	TreeATd
+258946	Bush
+258986	Bush
+259026	TreeAT
+259068	Bush 
+259108	Bush
+259148	TreeAT
+259190	TreeATL
+259232	TreeATh
+259274	TreeAT
+259316	TreeAP
+259357	TreeA
+259398	Bush
+259438	Bush
+259478	TreeAT
+259520	Bush(
+259560	BushH
+259600	Bush
+259640	Bush*
+259680	TreeA
+259721	Bush4
+259761	Bush 
+259801	Bushp
+259841	hbL
+259879	Bush
+259919	hb(
+259957	Bush
+259997	Bush
+260113	Bush
+260153	BushT
+260193	Bush
+260233	hbD
+260271	Bush
+260311	Bush
+260397	Bush
+260437	Bush
+260477	Bush
+260517	Bush
+260557	Bush4
+260597	BushD
+260637	Bush
+260677	Bushp
+260999	$$n0
+261005	You cannot pass!
+261065	$$n0
+261071	I cannot believe it!
+261093	You defeated my boss!
+261991	WX7Y6
+264117	CaveD
+264126	CaveD101
+264204	CaveD
+264213	CaveD201
+266247	WX7Y7
+269711	WX7Y8
+272946	WX7Y9
+273646	CaveD
+273655	CaveD601
+274513	WX8Y2
+274604	HillA
+274645	HillA
+274686	water
+274765	mountp
+274806	mount
+274847	mount
+275002	water
+275043	water
+275084	water
+275163	mount
+275356	hs$
+275432	hs$
+275546	hsp
+275584	hs 
+275622	hsl
+275660	hs 
+275736	hsL
+275774	hsh
+275926	hs8
+276154	hsL
+276274	hs\
+276312	hsp
+276350	hsz
+276464	hsL
+276502	hs8
+276578	HillA
+276733	Door
+276887	HillA0
+276928	mount0
+276969	mount
+277010	mount
+277089	Door
+277129	Door
+277165	$$h1
+277171	The waterfall is so
+277192	strong that LuWa can
+277214	not pass.
+277317	Door
+277337	CaveF
+277346	CaveF701
+277370	water(
+277411	water(
+277452	waterx
+277493	waterx
+277534	bat
+277746	bat 
+278282	WX8Y3
+278373	WaterA(
+278415	WaterA
+278457	HillA(
+278498	WaterA(
+278540	WaterA
+278582	bridgeX
+278624	bridgeX
+278666	HillA(
+278707	Bush
+278747	Bush(
+278787	Bush
+278827	Bush
+278867	BushP
+278907	Bush
+278947	Bush8
+278987	Bushd
+279027	Bush$
+279067	Bush
+279107	Bush8
+279147	Bush
+279187	Bush
+279227	Bush
+279267	Bush
+279307	Bush
+279347	Bush8
+279387	Bush
+279427	Bush
+279467	Bush
+279507	Bush
+279547	BushL
+279587	Bush
+279627	Bush
+279667	Bush
+279707	Bush
+279747	Bush
+279787	Bushx
+279827	Bush
+279867	Bush
+279907	BushT
+279947	Bush
+279987	Bush
+280027	Bush
+280067	BushT
+280107	Bush
+280147	Bush
+280187	Bush
+280227	Bush
+280267	Bushl
+280307	Bushp
+280347	Bush
+280387	Bush
+280427	Bush$
+280467	Bush
+280507	Bush
+280547	Bush
+280587	Bush
+280627	Bush
+280667	Bush
+280707	Bush
+280747	Bush
+280787	BushH
+280827	BushH
+280867	Bush
+280907	Bush
+280947	Bush
+280987	Bush
+281027	Bushx
+281067	Bush
+281107	Bush
+281147	Bush\
+281187	Bush
+281227	Bush
+281267	Bush
+281307	Bush
+281347	Bush0
+281387	Bush
+281427	BushH
+281467	Bush
+281507	Bush
+281547	Bushd
+281587	Bush
+281627	Bushd
+281667	HillA8
+281708	Bush
+281748	BushL
+281788	Bush
+281828	Bush
+281868	Bush
+281908	Bush
+281948	WaterA
+281990	Bush8
+282030	HillAX
+282071	Bush
+282111	Bush
+282151	Bush0
+282191	Bush
+282231	HillA
+282272	BushX
+282312	Bush
+282352	Bush,
+282372	CaveA
+282381	CaveA201
+282405	BushX
+282445	Bush
+282485	WaterAT
+282527	WaterA
+282569	WaterA
+282611	bath
+282696	bat
+282781	bat
+283120	bat
+283205	bat,
+283290	Bush^
+283330	BushY
+283370	Bushh
+283410	Bush,
+284335	WX8Y4
+284426	WaterA(
+284468	WaterA8
+284510	WaterA
+284552	bridgeAX
+284595	WaterA
+284637	Bush(
+284677	Bush
+284717	Bush
+284757	Bush(
+284797	WaterA
+284839	WaterAh
+284881	WaterAh
+284923	WaterA
+284965	WaterAX
+285007	WaterAX
+285049	WaterA
+285091	WaterAh
+285133	WaterAX
+285175	WaterA
+285217	WaterA
+285259	WaterA
+285301	WaterA
+285343	WaterA
+285385	WaterA
+285427	WaterA
+285469	WaterAh
+285511	WaterAh
+285553	WaterAh
+285595	WaterA
+285637	WaterAX
+285679	WaterAX
+285721	WaterAX
+285763	WaterA
+285805	WaterA
+285847	WaterA
+285889	WaterA
+285931	WaterAX
+285973	Bush
+286013	Bush
+286053	Bushd
+286093	WaterA
+286135	WaterA8
+286177	Bush<
+286217	Bush
+286257	Bush
+286297	Bush@
+286337	Bush
+286377	Bush
+286417	Bush
+286457	Bush
+286497	Bush
+286537	Bush
+286577	Bushp
+286617	BushH
+286657	Bush
+286697	Bushx
+286737	Bush4
+286777	BushH
+286817	Bush
+286857	BushP
+286897	Bush
+287177	Bush
+287217	Bush
+287257	Bush
+287297	Bush
+287337	Bush
+287377	Bush
+287417	Bush
+287457	Bush
+287497	Bush
+288123	WX8Y5
+288214	Bush
+288254	Bushd
+288294	BushP
+288334	Bush(
+288374	Bush
+288414	Bush
+288454	Bush(
+288494	Bush(
+288534	Bush(
+288574	Bushd
+288614	Bush
+288654	Bush,
+288694	Bushx
+288734	Bush
+288754	CaveA
+288763	CaveA301
+288787	Bush
+288827	Bush
+288867	Bushx
+288907	Bush
+288947	Bush@
+288987	Bush
+289027	Bush
+289067	Bush
+289107	Bush<
+289147	Bush(
+289187	Bushx
+289227	Bush<
+289267	Bush,
+289307	Bush
+289347	Bush
+289387	Bush
+289427	Bush
+289467	Bush
+289507	Bush
+289547	Bush
+289587	Bush
+289627	Bush
+289667	Bush
+289707	Bush
+289747	Bush
+289787	Bush
+289827	Bush
+289867	Bush
+289907	Bush8
+289947	Bush8
+289987	BushP
+290027	Bush
+290067	Bush
+290107	Bush
+290147	Bush
+290187	Bush8
+290227	Bush8
+290267	Bush
+290307	Bush
+290347	Bush
+290387	Bush
+290427	BushH
+290467	Bush
+290507	Bush
+290547	Bush
+290587	Bush
+290627	BushN
+290667	Bush
+290707	BushX
+290747	Bush$
+290787	Bush
+290827	Bush
+290867	Bush
+290887	World
+290896	WX9Y5
+290913	$$h0
+290919	Where is the boatman?
+290990	Bush
+291030	Bush8
+291050	WHouse
+291060	WHA02
+291081	Bush
+291121	BushT
+291161	BushT
+291201	Bush
+291241	BushH
+291281	bat
+291366	bat
+291578	bat\
+291663	bat
+291748	Bush
+291788	Bush
+291828	Bush
+291868	Bush
+291908	Bush
+291948	Bush
+291988	Bush
+292793	WX8Y6
+295210	WHouse
+295220	WHD02
+295509	WX8Y7
+298466	CaveD
+298475	CaveD501
+299306	WX8Y8
+302885	WX9Y2
+302976	Bush
+303016	BushP
+303056	Bush
+303096	Bush
+303136	Bush
+303176	Bush|
+303216	BushP
+303256	BushP
+303296	Bush
+303316	CaveF
+303325	CaveF701
+303413	WX9Y3
+303504	Bush
+303544	Bush
+303584	BushH
+303624	Bush@
+303664	Bush$
+303704	Bush
+303744	Bush
+303784	Bush
+303824	Bush@
+303864	Bush
+303904	Bush
+303944	BushD
+303984	Bush
+304024	Bush
+304064	Bush
+304104	Bush,
+304144	Bush$
+304184	Bush
+304224	Bush
+304264	Bush
+304304	BushT
+304344	Bushh
+304384	Bush|
+304424	Bush@
+304444	CaveF
+304453	CaveF501
+304477	Bush
+304517	Bush(
+304557	Bush
+304597	Bush
+304637	Bushl
+304677	Bush\
+304717	Bush 
+304757	Bush
+304797	Bush$
+304837	Bush 
+304877	BushL
+304917	Bush
+304957	Bush
+304997	Bush
+305037	BushL
+305077	Bush
+305117	BushH
+305157	Bush
+305197	Bush
+305237	Bush@
+305277	Bush
+305317	Bush@
+305357	Bush
+305397	Bush
+305657	WX9Y4
+305748	Bush
+305788	Bush
+305828	Bush
+305868	Bush
+305908	Bushx
+305948	Bush
+305988	Bush
+306028	Bush
+306068	Bush@
+306108	Bush
+306148	Bush(
+306188	Bush,
+306228	BushT
+306268	Bush
+306308	Bush
+306348	Bushx
+306388	BushT
+306428	Bush
+306468	BushH
+306508	Bush
+306548	Bush
+306588	Bush,
+306628	Bush
+306668	Bushx
+306708	Bush(
+306748	Bush(
+306788	Bush@
+306828	Bush
+306868	Bush
+306908	Bush
+306948	Bush
+306988	Bush
+307028	Bush
+307068	Bush
+307108	Bush8
+307148	Bush
+307188	Bush4
+307228	Bush.
+307248	CaveF
+307257	CaveF601
+307281	Bush
+307505	WX9Y5
+309927	Bush_
+309947	World
+309956	WX8Y5
+310132	Bush
+310172	Bush
+310212	Bush
+310560	WX9Y6
+310705	CaveE
+310714	CaveE401
+315243	WX9Y7
+315647	CaveE
+315656	CaveE201
+318204	WX9Y8
+318719	WHouse
+318729	WHD01
+319749	Bush
+319769	World
+319778	WX10Y8
+319796	$$h0
+319802	Where is the boatman?
+321742	WX9Y9
+322183	Dun4
+322191	Dun4003
+322399	Bush@
+322439	Bush
+322575	Dun1001
+322890	DoorUX
+322931	GateX
+322951	World
+322960	WX6Y5
+323019	m18
+324174	map1L
+324210	$$n0
+324216	LuWa got the Dungeon
+324238	Map!
+324328	m1 
+324562	Dun1002
+324877	DoorUX
+324918	DoorDX
+325443	m1X
+325519	m1h
+325845	Dun1003
+326160	DoorDX
+326201	DoorR
+326242	bagX
+326277	$$n0
+326283	LuWa got a bag of
+326302	Dart.
+327395	bag
+327434	bag4
+327473	bag
+327512	bag
+327551	bagX
+327590	m2$
+327666	m2l
+327742	m28
+327780	bagl
+328039	Dun1004
+328300	DoorUX
+328341	DoorR
+328415	$$n0
+328421	How dare you little
+328442	fellow to fight with
+328464	me?  I'll send you to
+328487	hell!
+328542	mkheart
+328581	$$n0
+328587	LuWa got the Heart
+328607	of Bravery.
+328943	Dun1005
+329221	DoorDX
+329262	brickAH
+329304	Jail
+329344	boy
+329379	$$n0
+329385	I am going home to
+329405	my dad.
+329460	girl
+329496	$$n0
+329502	It is true I can go
+329523	home now?
+329534	How Great!  Thank you
+329557	very much.
+329615	oldm
+329651	$$n0
+329657	I am very grateful,
+329678	my son.  See you again
+329702	in the village.
+329765	JailDoor
+329809	JailDoor
+329853	JailDoor
+329897	JailDoor
+329941	Jail
+329981	Jail
+330021	Jail
+330061	Jail
+330101	Jailt
+330141	Jail
+330181	JailT
+330221	Jail
+330261	JailT
+330301	Jailt
+330341	Jail
+330381	brickA
+330423	gate
+330443	World
+330452	WX6Y5
+330473	JailDoor
+330517	brickAH
+330559	brickA
+330749	oldm
+330785	$$n0
+330791	You are such a nice
+330812	young fellow.  Come
+330833	to my home in ShangWu
+330856	Village.
+330866	$$n0
+330872	There are four big trees
+330898	nearby.  The tunnel to
+330922	ShangWu Village is under
+330948	the north tree.
+331306	Dun1006
+331547	DoorUX
+331588	BoxT
+331623	$$n0
+331629	LuWa got the Leather
+331651	Armor!
+331659	$$h0
+331665	Put it on and see...
+331735	Brick
+331776	Brick
+331854	BrickX
+331933	Brickx
+331974	Brick
+332015	Brick
+332056	Brick
+332245	Brick
+332286	Brick
+332327	Brick
+332368	Brick
+332409	Brickp
+332450	Brick8
+332491	Brick
+332532	Box
+332571	Box8
+332610	Box
+332649	Box
+332688	Box
+332809	Brickh
+332850	Brick
+332891	Brick
+332932	Brick 
+332973	Brick
+333014	m10
+333090	m2t
+333128	Brick
+333169	Brick
+333406	Dun1007
+333721	DoorDX
+333762	DoorR
+333878	m1 
+333916	Box,
+333955	Boxh
+333994	Box,
+334033	Box
+334072	Box,
+334111	Box
+334150	Box
+334189	Boxh
+334228	Box
+334600	BoxJ
+334639	Boxp
+334678	Box8
+334717	BoxH
+334756	BoxX
+334795	Boxh
+334834	Box
+334869	$$n0
+334875	LuWa got a Key.
+334979	m1d
+335091	Box
+335130	Box
+335169	Box
+335208	Boxp
+335247	Box
+335286	Boxp
+335325	Box
+335440	m1 
+335478	Boxx
+335749	Dun1008
+336064	DoorL
+336105	DoorR
+336146	m1|
+336184	m2|
+336222	med
+336298	DoorDX
+336433	Brickh
+336622	Brick
+336700	Brick
+336741	Brick
+336782	Brick 
+336823	Brick
+336864	Brick
+336905	Brick
+336946	Brick
+337024	Brick8
+337065	Brickx
+337106	Brick
+337147	Brick
+337188	Brick
+337229	Brick
+337270	Brick
+337311	Brick8
+337352	Brick
+337393	Brickx
+337434	Brick
+337475	Brick
+337516	Brick 
+337557	Brick
+337598	Brick
+337639	Brick0
+337680	Brick0
+337721	Brick
+337762	Brick
+337803	Brick0
+337844	Brick
+337885	Brick
+337926	med
+337965	med
+338004	med
+338043	med
+338082	med
+338121	medB
+338160	med
+338199	medH
+338238	Brick
+338355	DoorDX
+338672	Dun1009
+338950	DoorL
+339505	$$n0
+339511	Cannot pull the sword
+339534	out.
+339582	$$n1
+339588	LuWa got the Bravery
+339610	Sword!
+339670	m2T
+339826	I fought with Big Monkey
+339852	and lost.
+339867	I hope my followers
+339888	can notify my father.
+339911	Those have magical 
+339932	strength may get
+339950	the Sword.
+340045	m14
+340083	m24
+340121	m1T
+340159	m1T
+340197	m24
+340235	m24
+340273	bigmed
+340500	DoorLX
+341291	Dun1010
+341458	DoorUX
+341499	DoorL
+341762	swordx
+341803	sword
+341844	swordh
+341885	sword
+341926	swordx
+342078	swordL
+342119	sword
+342391	Dun1011
+342706	DoorDX
+342747	DoorL
+342788	Box
+342823	$$n0
+342829	LuWa got a bag of
+342848	Dart.
+342905	Brick
+342946	Box
+342985	Brick
+343026	Gbin
+343104	Brick
+343145	Brick
+343186	Brick
+343227	BrickH
+343268	Brick
+343309	Brick
+343350	Brick
+343391	Brick
+343432	Brick
+343473	Brick
+343514	Brick
+343555	Brick8
+343596	BrickH
+343637	Brick
+343678	Brick8
+343867	Box
+343906	Box
+343945	Box
+343984	Box
+344023	Box
+344062	Box
+344101	Box8
+344140	Box
+344179	Gbin
+344257	m2|
+344295	Box
+344542	CaveA101 
+344636	BrickD
+344678	BrickD
+344720	BrickD
+344762	BrickD
+344804	StepAD
+344826	CaveA
+344835	CaveA102
+344859	StepAUd
+344881	World
+344890	WX7Y5
+344911	BrickD
+344953	BrickD
+344995	BrickD
+345037	BrickD,
+345079	BrickD
+345121	BrickD|
+345163	BrickD
+345205	BrickD
+345247	BrickD
+345327	Xad
+345545	CaveA102 
+345639	BrickD
+345681	BrickD
+345723	StepAU
+345745	CaveA
+345754	CaveA101
+345778	BrickD
+345820	BrickD
+345862	BrickD
+345904	BrickD<
+345946	BrickD
+345988	BrickD
+346064	$$n0
+346070	I won't let you pass!
+346139	BrickD
+346181	BrickD
+346223	BrickD,
+346265	BrickD,
+346307	BrickDl
+346349	BrickD
+346391	BrickD0
+346433	BrickD
+346475	BrickD
+346517	BrickD
+346559	BrickD
+346601	BrickDP
+346643	BrickD
+346685	key
+346720	$$n0
+346726	LuWa got a key.
+346822	$$n0
+346828	LuWa got the Heart
+346848	of Luck.
+347163	CaveA201 
+347257	BrickD
+347299	BrickD
+347341	BrickD
+347383	BrickD
+347425	StepAUP
+347447	World
+347456	WX8Y3
+347477	BrickD@
+347519	BrickD
+347561	BrickD
+347603	BrickD
+347645	BrickD
+347687	BrickDl
+347729	BrickD
+347771	BrickD|
+347813	BrickD
+347855	XaP
+347893	Xa@
+347931	StepAD,
+348005	$$n0
+348011	LuWa got a Bolus Hulu.
+348081	BrickD
+348123	BrickD
+348165	BrickD
+348207	BrickD
+348249	BrickD|
+348291	BrickD
+348537	CaveA301 
+348631	BrickD
+348673	BrickD
+348715	BrickD
+348757	BrickD
+348799	StepAUd
+348821	World
+348830	WX8Y5
+348851	BrickDT
+348893	BrickD
+348935	BrickDx
+348977	BrickD<
+349019	BrickD
+349061	BrickD
+349099	$$n0
+349105	LuWa got a Bag of
+349124	Arrow Bomb.
+349183	BrickDD
+349225	BrickD
+349267	BrickD
+349347	XaP
+349561	CaveA401 
+349655	BrickD
+349697	BrickD
+349739	BrickD
+349781	StepAUP
+349803	World
+349812	WX4Y2
+349909	StepAU
+349931	World
+349940	WX5Y3
+349961	BrickD
+350063	CaveA501
+350157	BrickD
+350199	BrickD
+350241	BrickD
+350283	StepAUd
+350305	World
+350314	WX6Y4
+350335	BrickD
+350377	BrickD<
+350419	BrickD|
+350461	Xad
+350537	BrickDx
+350647	CaveA601 
+350741	BrickD
+350783	BrickD
+350825	StepAU
+350847	World
+350856	WX5Y2
+350877	BrickD
+350919	BrickDP
+350961	BrickD
+351036	$$h0
+351042	LuWa got a key.
+351232	BrickD
+351274	BrickDO
+351316	BrickD
+351358	BrickD?
+351400	BrickDP
+351442	itemP
+351478	$$n0
+351484	LuWa got a piece of
+351505	broken heart!
+351566	BrickDX
+351608	BrickD,
+351742	CaveA701 
+351836	BrickD
+351878	BrickD
+351920	StepAU@
+351942	World
+351951	WX7Y1
+352010	BrickD
+352052	BrickD
+352094	BrickD
+352136	BrickDX
+352178	BrickDP
+352220	BrickD
+352262	BrickD
+352337	$$n0
+352343	LuWa got a piece of
+352364	broken heart!
+352427	StepAU
+352449	CaveA
+352458	CaveA702
+352482	Xad
+352520	BrickD|
+352562	BrickD
+352604	BrickD
+352646	BrickD
+352688	Xah
+352726	XaD
+353045	CaveA702 
+353139	BrickD
+353181	BrickD
+353223	StepAU
+353245	CaveA
+353254	CaveA701
+353278	BrickDD
+353320	BrickD<
+353362	BrickD<
+353404	BrickD
+353446	Xa|
+353484	BrickD
+353526	BrickD
+353568	BrickD
+353610	BrickD<
+353652	BrickD
+353694	BrickD
+353736	BrickD
+353778	key
+353813	$$n0
+353819	LuWa got a key.
+353882	BrickD<
+353924	BrickDD
+354066	WHA01
+354231	doorh
+354251	World
+354260	WX7Y3
+354281	BedA
+354321	Bench<
+354362	OldClevern
+354403	$$n0
+354409	Let me teach you to fly
+354434	darts.  It is very useful
+354461	for some monsters.
+354481	$$h0
+354487	LuWa learned flying darts
+354514	and got a dart bag.
+354577	$$n0
+354583	The dart cannot do
+354603	everything.  You must
+354626	use it wisely.
+354688	KidClever
+354729	$$n0
+354735	Inside the dungeon,
+354756	sometimes you have 
+354777	to kill all monsters
+354799	to find items or to
+354820	open doors.
+354881	Benchi
+354922	Bench
+354963	Benchx
+355042	dlh
+355118	dl"
+355194	dl(
+355308	dl<
+355536	dlN
+355574	Bench
+355615	Bench
+355656	BedA
+355696	Benchw
+355881	WHA02@
+356009	door
+356029	World
+356038	WX8Y5
+356059	BedA2
+356099	Bench
+356140	Bench
+356219	Bench
+356260	dl6
+356298	dl<
+356490	Yes 
+356497	$$n0
+356503	Okay. For you it is
+356524	free.
+356561	No)
+356567	$$n0
+356573	Come again when you
+356594	want to cross.
+356632	$$n0
+356638	Oh it is you. Wanna
+356659	cross the river?
+356851	WHB01
+356979	door
+356999	World
+357008	WX4Y1
+357029	Bench<
+357070	Kid,
+357113	Give me one!|
+357129	$$h0
+357135	LuWa ate the Bolus but
+357159	nothing happened.
+357178	$$h1
+357184	Is it true DaLi Bolus?
+357208	$$n0
+357214	Sure it is true...
+357234	Oh, I got to leave.
+357285	Leave
+357294	$$n0
+357300	What a pity!
+357336	$$n0
+357342	Do you want DaLi Bolus?
+357367	20 coins each.
+357475	Bench7
+357516	Bench<
+357557	Bench(
+357598	Bench
+357639	Benchh
+357680	BenchT
+357721	Bench(
+357762	Bench(
+357803	Bench(
+357844	Bench
+357885	Bench
+357926	Bench(
+357967	Bench
+358008	Bench
+358086	Bench
+358127	Bench
+358168	Bench6
+358325	WHB02D
+358490	door,
+358510	World
+358519	WX1Y2
+358540	Bench
+358581	Bench|
+358622	Bench:
+358733	$$n0
+358739	LuWa got a piece of
+358760	broken heart!
+359598	Bench(
+359639	Bench
+359832	WHB03
+359997	doorT
+360017	World
+360026	WX2Y5
+360047	BedN
+360086	ShellC
+360128	Chair'
+360169	Table
+360395	TableA
+360436	Table
+360477	Chairc
+360555	BrickD
+360593	$$n0
+360599	LuWa got a Bag of
+360618	Arrow Bomb.
+360677	BrickD
+360830	ShellC
+360988	WHC01
+361079	urh
+361191	door
+361211	World
+361220	WX5Y4
+361241	Bench(
+361282	Bed2
+361321	TableY
+361658	ShellC
+361700	ShellC
+361742	ShellC
+361784	TreeA,
+361821	$$n0
+361827	Here is another guy
+361848	begging for a Wood
+361868	Lotus!  Go away!
+361936	Give her the Gold Pin
+361961	$$n0
+361967	You mean you saved my
+361990	dad? Should I believe
+362013	you or not? But you've
+362037	got the Gold Pin...
+362058	$$n0
+362064	All right, here is a 
+362087	Wood Lotus.  I have to
+362111	go home right now.
+362131	$$h0
+362137	LuWa got the Wood
+362156	Lotus.
+362196	Leave
+362205	$$n0
+362211	Give me the Gold Pin!
+362256	$$n0
+362262	Here is another guy
+362283	wanting a Wood Lotus!
+362306	$$n0
+362312	What is that?  Gold
+362333	Pin!  Where do you get
+362357	it?  Show it to me!
+362617	WHC02
+362708	urD
+362820	door
+362840	World
+362849	WX2Y7
+362870	BenchX
+362911	Bed2
+363317	$$n0
+363323	It is not easy to beat
+363347	the owl.
+363357	$$n0
+363363	You must learn to master
+363389	your breath if you want
+363414	to learn better KongFu.
+363481	$$n0
+363487	It is not easy to beat
+363511	the owl.
+363521	$$n0
+363527	Although you learned to 
+363553	master your breath, your
+363579	breath is not strong enough
+363608	to learn better KongFu.
+363677	$$n0
+363683	You must have unusual 
+363707	encounter. Let me teach
+363732	you the Power Magic.
+363754	$$n0
+363760	When your breath full,
+363784	your sword will have
+363806	extrodinary power.
+363826	$$n0
+363832	Some sword may even
+363853	fire Sword Bullets.
+363874	$$h0
+363880	LuWa Learned the Power
+363904	Magic.
+363956	$$n0
+363962	Now go and fight!
+364027	BedAP
+364212	$$n0
+364218	My master says his 
+364239	KungFu will only pass
+364262	to special people.
+364324	$$n0
+364330	The sword itself is so
+364354	strong when using Power
+364379	Magic, but the Sword
+364401	Bullets are sometimes
+364424	more useful.
+364598	WHC03
+364763	Bench
+364874	$$n0
+364880	LuWa got a piece of
+364901	broken heart!
+365665	Bench(
+365817	Bench
+365858	Bench
+365899	door
+365919	World
+365928	WX4Y9
+365949	Benchl
+365990	Benchl
+366191	WHD01@
+366319	door
+366339	World
+366348	WX9Y8
+366369	BedA2
+366409	Bench
+366450	Bench
+366529	Bench
+366570	dl6
+366608	dl<
+366800	Yes(
+366807	$$n0
+366813	Okay. For you there
+366834	is no charge.
+366879	No)
+366885	$$n0
+366891	Come again when you
+366912	want to cross.
+366950	$$n0
+366956	Ah, it is you.  Wanna
+366979	cross the river?
+367173	WHD02
+367264	urh
+367376	door
+367396	World
+367405	WX8Y6
+367426	Bed2
+367576	ShellC
+367655	owl
+367690	$$n0
+367696	I have heard your good
+367720	name. I will teach you
+367744	to fly knives. Hope you
+367769	will bring peace to
+367790	QingLong Village.
+367809	$$h0
+367815	LuWa learned flying
+367836	knife and got a Knife
+367859	Bag.
+367907	$$n0
+367913	Miners may kill each
+367935	other for some gold.
+367957	Don't they know no
+367977	one takes away money 
+368000	when he die?
+368056	$$n0
+368062	You are rich, my boy.
+368085	Using your gold wisely.
+368154	$$n0
+368160	One does not bring money
+368186	with him when he was
+368208	born, neither when he
+368231	dies.
+368358	WHE01
+368449	urS
+368561	door@
+368581	World
+368590	WX11Y9
+368612	BenchS
+368653	Bed2
+368692	Chair:
+368733	Table
+369255	Bench
+369444	Table:
+369485	Table
+369526	Chair
+369567	ShellC(
+369609	ShellC
+369684	$$n0
+369690	Last year, I tried 
+369711	to save someone who
+369732	went into the maze
+369752	to search for treasure
+369776	but badly wounded.
+369796	$$n0
+369802	He died at last and 
+369824	said "...in the water"
+369848	before he died.  No
+369869	one yet know what he
+369891	meant.
+369941	$$n0
+369947	Oh, it was the 
+369964	Ex-water Jade!
+370030	ShellC
+370072	ShellC
+370278	WHF01
+370369	urS
+370481	door@
+370501	World
+370510	WX11Y1
+370532	BenchS
+370573	Bed2
+370612	Chair:
+370653	Table
+371175	ChairX
+371290	Bench
+371479	Table
+371520	Table
+371561	Chair
+371602	Chair\
+371643	ShellC(
+371685	ShellC-
+371727	ShellC(
+371769	ShellC
+371811	ShellC*
+371853	ShellC
+371895	ShellC
+371937	ShellC
+372013	$$n0
+372019	Who are you?  My daught
+372044	must be your age if she
+372069	is still alive...
+372132	$$n0
+372138	You want Green Bolus?
+372161	I need Silver Rabbit
+372183	to make Green Bolus.
+372205	I cannot catch the 
+372226	rabbit myself now.
+372298	Give her the Silver Rabbitd
+372328	$$n0
+372334	Wait a while...
+372351	$$n0
+372357	OK, here is the Green Bolus.
+372387	Take it.
+372397	$$n1
+372403	LuWa got the Green Bolus.
+372462	Leave;
+372471	$$n0
+372477	The Green Bolus has
+372498	no good for young
+372517	man like you.
+372554	$$n0
+372560	As I told you, I cannot
+372585	make Green Bolus without
+372611	Silver Rabbit.
+372627	$$n0
+372633	Oh, you already got the
+372658	Silver Rabbit. Will you
+372683	give it to me then?
+372748	$$n0
+372754	Anything else you need
+372778	from me?
+372873	ShellC
+372915	ShellC
+373165	WHG01
+373293	door
+373313	World
+373322	WX5Y1
+373343	Bench7
+373384	Bench<
+373425	Bench
+373466	Bench
+373507	Benchh
+373548	BenchT
+373589	Bench2
+373630	Bench
+373671	Bench
+373712	Bench(
+373753	Bench
+373794	Bench
+373872	tsmithJ
+373914	smith
+373959	Yes
+373966	$$n0
+373972	Give this book to my
+373994	son and tell him not
+374016	to make weapons
+374033	anymore.
+374043	$$n0
+374049	Thank you, I cannot
+374070	pay you back myself
+374091	...
+374096	$$h0
+374102	LuWa took the book
+374122	from the old Smith.
+374179	$$n0
+374185	How can I die like
+374205	this!
+374234	$$n0
+374240	The monsters forced me
+374264	to make weapons. They
+374287	beat me so hard. I am
+374310	afraid I'm going to die.
+374336	$$n0
+374342	Would you pass a message
+374368	to my son?
+374424	$$h0
+374430	The old Smith died.
+374576	$$n0
+374582	LuWa found a Bag of
+374603	FireBomb. It must be
+374625	the last invention of
+374648	the old Smith.
+374756	Bench
+374797	Bench6
+374946	Dun2001
+375197	GateX
+375217	World
+375226	WX4Y5
+375247	DoorR
+375288	BrickA
+375330	BrickAH
+375372	BrickA
+375414	BrickA
+375456	BrickA
+375498	BrickA
+375540	BrickA
+375582	BrickA
+375624	BrickA
+375666	BrickA
+375708	BrickA8
+375750	BrickA
+375792	BrickAx
+375834	BrickA
+375913	BrickA
+375955	BrickA
+375997	map24
+376033	$$n0
+376039	LuWa got the Dungeon
+376061	Map!
+376150	BrickAH
+376382	BrickAx
+376462	BrickA(
+376672	Dun2002
+376997	DoorL
+377038	DoorR
+377207	BrickA8
+377249	BrickA8
+377287	$$n0
+377293	LuWa got a key.
+377358	Medx
+377435	BrickA
+377477	BrickAh
+377519	BrickA
+377561	BrickA
+377603	BrickAh
+377645	BrickAh
+377687	BrickA
+377729	BrickAX
+377771	BrickA
+377813	BrickA
+378003	BrickA
+378045	BrickA8
+378087	BrickA
+378129	BrickAX
+378171	BrickA
+378213	BrickA
+378255	BrickA
+378297	BrickAH
+378339	BrickAh
+378381	BrickA
+378423	BrickA
+378465	BrickA
+378507	BrickA
+378549	BrickAH
+378591	BrickA
+378633	BrickAx
+378751	m1L
+378827	DoorL
+379092	Dun2003
+379444	DoorUX
+379485	DoorR
+379564	MedH
+379647	BrickA
+379723	$$n0
+379729	Get out of here, you
+379751	kid!
+379803	m2t
+379879	BrickA
+379921	BrickA
+379963	BrickA8
+380005	BrickA
+380047	BrickAH
+380089	BrickA
+380131	BrickAh
+380173	BrickA
+380215	BrickAx
+380257	BrickA
+380299	BrickA
+380341	BrickAT
+380383	BrickA
+380425	BrickA
+380467	BrickAx
+380509	BrickA
+380551	BrickA
+380593	BrickA8
+380635	BrickA
+380677	BrickAH
+380719	clothb8
+380757	$$n0
+380763	LuWa got the Bronze
+380784	Armor.
+380838	BrickA
+380880	BrickA(
+380922	BrickA
+380964	BrickA(
+381006	BrickA8
+381048	BrickA
+381090	BrickAX
+381132	BrickA
+381174	BrickA
+381216	BrickA
+381258	BrickAH
+381300	BrickA
+381342	BrickAh
+381384	BrickAX
+381426	BrickA
+381468	BrickA
+381510	BrickAH
+381552	BrickA
+381594	BrickA
+381636	BrickA
+381678	BrickA
+381872	DoorR
+382189	Dun2004
+382541	DoorL
+382582	DoorR
+382623	MedbX
+382707	BrickA
+382749	BrickA
+382791	BrickA
+382833	BrickAH
+382875	BrickA
+382917	BrickA
+382959	BrickAh
+383001	BrickA
+383043	BrickA
+383085	BrickA
+383127	BrickA
+383169	BrickA
+383211	BrickA
+383253	BrickA
+383295	BrickA
+383337	BrickA
+383379	BrickAh
+383421	BrickAH
+383463	BrickA
+383505	BrickAH
+383695	BrickA
+383737	BrickA
+383779	BrickA
+383821	BrickA
+383863	BrickAh
+383905	BrickA
+383947	BrickA
+383989	BrickA
+384031	BrickA
+384073	BrickA
+384115	BrickAh
+384157	BrickA
+384199	BrickA
+384241	BrickA
+384283	BrickA
+384325	BrickA
+384367	BrickAH
+384409	BrickA
+384451	BrickA
+384493	BrickA
+384535	BrickA
+384577	BrickAH
+384619	BrickA
+384661	BrickA
+384703	BrickA
+384745	BrickA
+384787	BrickAH
+384829	BrickA
+384871	BrickA
+384913	BrickAh
+384955	BrickAH
+384997	BrickA
+385039	BrickA
+385081	BrickAh
+385123	BrickA
+385165	BrickA
+385207	BrickA
+385249	BrickA
+385291	BrickA
+385333	BrickA
+385375	BrickA
+385417	BrickA
+385459	BrickA
+385501	BrickA
+385543	BrickA
+385585	BrickA
+385627	BrickA
+385669	BrickA
+385711	m1X
+385749	m2,
+385787	BrickA
+385867	m1`
+385905	m1x
+385943	DoorLX
+386368	Dun2005
+386683	DoorUX
+386724	DoorL
+386765	BrickA
+386888	BrickAX
+386930	BrickA
+386972	BrickA
+387014	BrickA
+387056	BrickA
+387098	BrickAh
+387140	BrickAh
+387182	BrickA
+387224	BrickA
+387266	BrickA
+387308	BrickA
+387350	BrickA
+387392	BrickA8
+387434	BrickA
+387476	BrickAX
+387518	m2X
+387594	Key`
+387629	$$n0
+387635	LuWa got a key.
+387700	slid`
+387999	BrickA
+388041	BrickA
+388083	BrickA
+388125	BrickA
+388167	BrickA
+388209	BrickA
+388251	BrickAh
+388293	BrickAh
+388411	BrickA
+388640	cat
+388961	Dun2006
+389239	BrickA
+389281	ArrowBag@
+389321	$$n0
+389327	LuWa got a bag of
+389346	Arrow.
+389404	BrickA0
+389446	BrickA
+389488	BrickA
+389530	BrickA
+389572	BrickA0
+389614	BrickA 
+389656	BrickA
+389698	BrickAh
+389740	BrickA
+389782	BrickA
+389824	BrickA(
+389866	BrickA
+389908	BrickA8
+389950	BrickA
+389992	BrickAH
+390034	m2x
+390110	m1,
+390186	BrickA
+390228	arr
+390490	m10
+390528	ArrowBag
+390744	Dun2007
+390958	DoorL
+390999	BrickA
+391041	BrickA
+391083	BrickA
+391125	BrickAh
+391167	BrickA
+391209	BrickAx
+391251	BrickA
+391293	BrickA8
+391335	BrickA8
+391377	BrickA
+391419	BrickA8
+391461	BrickA
+391503	BrickA
+391545	BrickA
+391587	BrickA8
+391629	Meds
+391745	tunnelz
+391767	Dun2
+391775	Dun2010
+391798	m2h
+391836	BrickA(
+391952	BrickA
+391994	m2X
+392032	m2t
+392264	Dun2008
+392505	DoorDX
+392546	BrickAx
+392588	m1H
+392626	BrickA
+392668	BrickA
+392748	BrickA
+392790	BrickAx
+392832	BrickA
+392874	BrickAh
+392916	BrickA
+392995	BrickA(
+393037	BrickA(
+393079	BrickA
+393121	m24
+393197	DBag
+393233	$$n0
+393239	LuWa got a bag of
+393258	Dart.
+393315	m1p
+393515	Dun2009
+393757	DoorDX
+393892	BrickA
+393934	m2 
+393972	BrickAX
+394014	BrickAH
+394056	BrickAH
+394098	BrickAx
+394140	BrickA
+394182	BrickA(
+394224	BrickA
+394266	BrickA(
+394308	BrickA
+394350	BrickA
+394392	BrickA
+394434	BrickA
+394476	BrickA
+394518	BrickA(
+394560	BrickA
+394602	BrickAh
+394644	BrickA
+394686	m2t
+394762	BrickA(
+394804	ur(
+394842	BrickAX
+394884	BrickA
+394926	BrickAX
+395086	DoorDX
+395127	BrickAx
+395169	BrickA
+395211	BrickA
+395253	BrickA
+395295	m2$
+395371	m1\
+395409	meds4
+395449	DoorDX
+395690	Dun2010
+395783	ul(
+395969	DoorDX
+396048	BrickA
+396090	BrickA
+396132	BrickA
+396174	BrickA
+396216	BrickA
+396258	Med
+396297	Tun 
+396316	Dun2
+396324	Dun2007
+396347	BrickA(
+396389	BrickA
+396431	BrickA
+396473	BrickAH
+396515	BrickA
+396557	BrickA
+396599	BrickA
+396641	BrickAT
+396683	BrickAT
+396725	BrickA
+396805	BrickAT
+396847	BrickA
+396889	m1@
+396927	m1X
+397041	abagt
+397077	$$n0
+397083	LuWa got a bag of
+397102	Arrow.
+397356	Dun2011
+397634	BrickA
+397676	m2T
+397714	BrickA
+397756	BrickA
+397798	BrickA
+397840	BrickA0
+397882	BrickA
+397924	BrickA0
+397966	BrickA@
+398008	BrickA
+398050	BrickA
+398092	BrickA
+398134	BrickA
+398176	BrickA@
+398218	BrickA
+398260	BrickA
+398302	BrickA
+398344	BrickA
+398386	BrickA
+398428	BrickA
+398508	Medsx
+398548	bag
+398583	$$n0
+398589	LuWa got a bag of
+398608	Dart.
+398665	BrickA,
+398893	BrickA
+398935	BrickA 
+398977	BrickA 
+399019	BrickA0
+399061	BrickA
+399254	BrickA
+399500	Dun2012
+399778	DoorL
+399819	BrickA
+399861	BrickA
+399903	BrickA
+399945	BrickA(
+399987	BrickA
+400029	BrickA
+400071	BrickA
+400113	BrickA
+400155	BrickA
+400197	BrickA
+400239	BrickAx
+400357	Med
+400396	Med
+400435	BrickA
+400457	Dun2
+400465	Dun2014
+400488	m1p
+400526	BrickA
+400568	BrickA 
+400610	BrickA
+400652	BrickA
+400694	BrickA
+400736	BrickA
+400778	BrickA
+400820	BrickA(
+400862	BrickAx
+400904	BrickA`
+400946	Medp
+400985	BrickA
+401027	BrickAp
+401107	m1`
+401325	Dun2013
+401603	DoorUX
+401644	DoorR
+401761	BrickA
+401803	BrickAX
+401845	BrickA
+401887	BrickAh
+401929	BrickA
+401971	BrickA
+402013	BrickAX
+402055	BrickA
+402097	BrickA
+402139	BrickAh
+402181	BrickA
+402223	BrickA
+402265	BrickA
+402307	BrickAX
+402387	m24
+402425	Meds|
+402613	BrickAx
+402655	BrickA
+402697	BrickAx
+402739	BrickAx
+402781	BrickAx
+402823	BrickAx
+402865	BrickA
+402944	DoorUX
+402985	BrickA
+403215	Dun2014
+403530	DoorL
+403571	DoorR
+403612	BrickA
+403654	BrickAH
+403696	BrickA
+403738	BrickA,
+403780	BrickA
+403822	BrickA
+403864	BrickAx
+403906	BrickA
+403948	BrickA
+403990	BrickA
+404032	BrickA
+404074	BrickA
+404116	BrickA
+404158	BrickA
+404200	BrickA8
+404242	BrickA,
+404284	BrickA,
+404326	BrickA
+404368	BrickA
+404410	BrickA
+404452	BrickA
+404494	BrickA
+404536	BrickA,
+404578	BrickA8
+404620	BrickAh
+404662	BrickA
+404704	m2p
+404818	Med
+404857	tun
+404876	Dun2
+404884	Dun2012
+404907	BrickA8
+404949	BrickA
+404991	blood1
+405181	BrickA
+405223	BrickA
+405485	Dun2015
+405763	DoorL
+405804	BrickA 
+405846	Medb
+405886	BrickA
+405928	BrickAX
+405970	BrickA
+406012	BrickAp
+406054	BrickA4
+406096	BrickAx
+406138	BrickA4
+406180	BrickA
+406222	BrickA$
+406264	BrickA
+406306	BrickA$
+406348	BrickA
+406390	BrickA
+406432	BrickAX
+406474	BrickA
+406516	BrickA
+406558	BrickA
+406600	BrickA
+406642	BrickAx
+406684	Med
+406723	BrickA
+406841	BrickA
+407069	m2D
+407107	hrt
+407142	$$n0
+407148	LuWa got a piece of
+407169	broken heart!
+407268	m1x
+407498	Dun2016
+407702	DoorU
+407743	DoorDX
+407818	$$n0
+407824	The trouble between
+407845	BeiWu and I is none
+407866	of your business!
+407885	Look the arrows!
+407949	heart2
+407987	$$n0
+407993	LuWa got the Heart
+408013	of Power.
+408072	BrickA
+408114	BrickA
+408266	$$n0
+408272	Damn, why do you kill
+408295	him!  Now, you'll fill
+408319	his place!
+408416	BrickAh
+408458	BrickAh
+408500	BrickA
+408542	BrickA
+408584	BrickA
+408626	BrickA
+408705	BrickA
+408747	BrickA0
+408789	BrickA
+408831	BrickA
+408910	BrickAh
+408952	BrickA
+408994	BrickA
+409036	BrickA
+409222	Dun2017
+409500	DoorD
+409615	BrickA
+409637	World
+409646	WX4Y5
+410592	BrickA
+410630	$$n0
+410636	LuWa got a piece of
+410657	Xuan Iron.
+410715	BrickAH
+410929	V2Hs001
+411022	urS
+411134	door@
+411154	Village2
+411166	V2V001
+411188	BenchN
+411229	woman
+411266	$$n0
+411272	Are you from Greenfield?
+411298	$$n0
+411304	A few years ago, a young
+411330	man from Greenfield came
+411356	here. He said he was going
+411384	to North Mountains to look
+411412	for a strange bolus.
+411480	Bed2
+411519	ShellC
+411561	Chair:
+411602	Table
+411643	Bench
+412165	ChairX
+412280	Bench
+412469	Table
+412510	Table
+412551	Chair
+412592	Chair\
+412633	ShellC(
+412675	ShellC-
+412717	ShellC(
+412759	ShellC
+412801	ShellC*
+412843	ShellC
+412885	ShellC
+412927	ShellC
+413043	ShellC
+413342	V2Hs002
+413435	urS
+413547	door@
+413567	Village2
+413579	V2V001
+413601	Bed2
+413640	ChairX
+413681	TableI
+414129	Bench
+414170	ChairN
+414211	ChairS
+414252	ShellC(
+414294	ShellC-
+414336	ShellC(
+414378	ShellC*
+414420	ShellC
+414462	ShellC
+414504	ShellC
+414546	OldClever@
+414587	$$n0
+414593	Nice to see you again.
+414617	Thank you for saving me
+414642	from the dungeon.
+414661	$$n0
+414667	Let me teach you the Drop
+414694	Magic. It may help you on
+414721	your journey.
+414736	$$n0
+414742	Wave your sword towards
+414767	enemy's bullets and most
+414793	bullets will drop.
+414813	$$h0
+414819	LuWa learned the Drop
+414842	Magic.
+414894	$$n0
+414900	Practice will make you
+414924	the master of Drop Magic.
+415145	TableQ
+415186	ShellC
+415228	ShellC
+415270	Table6
+415311	Tablem
+415352	TableS
+415393	Chair
+415434	Chair
+415667	V2Hs003 
+415797	Chair
+415838	Table
+415879	Chair
+415920	Bench
+415961	Bench
+416002	Bench
+416060	Village2
+416072	V2V001
+416353	ShellC
+416469	Chairw
+416510	Bench(
+416551	ShellC2
+416593	BedP
+416743	ShellC
+416785	Chair+
+416826	Bench
+416867	ShellC
+416909	ShellCl
+416951	ShellC;
+416993	ShellCo
+417035	ShellC=
+417077	Bench
+417118	Bench-
+417159	Bench(
+417200	Bench+
+417241	Bench
+417282	Chair
+417323	Chair
+417364	Chair
+417405	Chair
+417446	Chair
+417487	oldD
+417522	$$n0
+417528	What are you doing
+417548	here?
+417607	Talk with him3
+417624	$$n0
+417630	Haha, I am rich!
+417648	$$h1
+417654	LuWa lost some coins.S
+417707	Leave
+417716	$$n0
+417722	Bye.
+417750	$$n0
+417756	Hello.
+417812	oldD
+417847	$$n0
+417853	I have nothing more
+417874	to say.
+417933	Talk with himT
+417950	$$n0
+417956	What a nice day today.
+417980	I will give you some
+418002	money.
+418010	$$h0
+418016	LuWa got 20 coins.S
+418066	Leave
+418075	$$n0
+418081	Bye.
+418109	$$n0
+418115	Hello.
+418171	oldD
+418206	$$n0
+418212	Go outside and pay
+418232	the door-woman again!
+418305	Talk with himW
+418322	$$n0
+418328	You look so friendly.
+418351	I will give you a 
+418371	good thing.
+418384	$$h0
+418390	LuWa got a Woodcat.S
+418441	Leave
+418450	$$n0
+418456	Bye.
+418484	$$n0
+418490	Hello.
+418546	Chair
+418885	V2Hs004
+419089	doorh
+419109	Village2
+419121	V2V001
+419143	Boy
+419178	$$n0
+419184	Thank you for saving my
+419209	life. When I arrived at
+419234	the village, BeiNi has
+419258	run away.
+419269	$$n0
+419275	In fact I could not beat
+419301	him because of my wound.
+419371	$$n0
+419377	You have special talent.
+419403	But to defeat BeiNi, you
+419429	must know Drop Magic and
+419455	find the Bravery Sword.
+419522	$$n0
+419528	Only you can defeat
+419549	Beini. I'll teach you
+419572	to fly arrows which 
+419594	will help you to win.
+419617	$$h0
+419623	LuWa learned to fly
+419644	arrows and got a bag
+419666	of Arrows.
+419724	$$n0
+419730	If you see my daughter,
+419755	tell her to come home.
+419779	$$n0
+419785	But she may not listen
+419809	to you...OK, take this
+419833	Gold Pin with you.
+419853	Seeing the Pin is like
+419877	seeing myself.
+419893	$$h0
+419899	LuWa got the Gold Pin.
+419965	$$n0
+419971	Take care!
+420027	$$n0
+420033	Thank you very much.
+420055	My daughter has come
+420077	back.
+420132	Bed2
+420171	ShellC
+420257	Chair
+420298	Bench"
+420339	Bench
+420417	dr(
+420455	Chair<
+420496	Chair
+420537	Chair
+420578	ChairX
+420619	Chair
+420660	Chair
+420701	Chair
+420742	Chair
+420783	ChairN
+420824	Chair
+420865	Chair
+420906	Table
+420947	Boy
+420986	Chair
+421027	Bench
+421106	Chair
+421147	Chair
+421188	Chair6
+421229	Chair2
+421270	Chair
+421311	Chair
+421352	Chair
+421393	Chair;
+421434	Chairn
+421475	Chair
+421516	Bench
+421557	Benchd
+421598	Benchl
+421639	Bench:
+421680	girl
+421716	$$n0
+421722	It was really you who
+421745	saved my dad! I am 
+421766	very grateful.
+421782	$$n0
+421788	I'll give you a bag of
+421812	DirtBomb. It is very 
+421835	powerful. But dad said
+421859	bombing is not real
+421880	KongFu.
+421889	$$h0
+421895	LuWa got a bag of
+421914	DirtBomb.
+421969	$$n0
+421975	Better save the bomb
+421997	until you really need
+422020	it.
+422071	Bench
+422112	Bench
+422153	Bench
+422406	V2Hs005
+422610	doorh
+422630	Village2
+422642	V2V001
+422664	Boy
+422699	$$n0
+422705	BeiWu disappeared for so
+422731	long. It is time we elect
+422758	my ShiFu BeiNi to be the 
+422785	new master.
+422840	$$n0
+422846	Our ShiFu ran away when
+422871	he heard that Master BeiWu
+422899	was coming back. I wonder
+422926	why?
+422980	Bed
+423019	ShellC+
+423105	Chair+
+423146	Bed]
+423185	jar
+423335	SepBI
+423375	SepB
+423415	SepB
+423455	SepB
+423495	SepB
+423535	SepB
+423575	SepBx
+423615	SepB
+423655	SepB2
+423695	SepB
+423735	ShellC2
+423777	Bench
+423818	jarq
+423857	jar
+423896	jar
+423935	Bed
+423974	Bench
+424015	Bench
+424056	Bench
+424097	Bench
+424138	ShellCI
+424180	Bench
+424221	Bed
+424260	Bed
+424299	Boy
+424334	$$n0
+424340	We are expert of arrows.
+424366	Shall we compete?
+424427	$$n0
+424433	Something must be wrong.
+424507	Boy|
+424542	$$n0
+424548	I am BeiNi. I don't 
+424570	necessarily have to be
+424594	the master, but what 
+424617	BeiWu has done really
+424640	spoil our tribe's fame.
+424665	$$n0
+424671	We should get rid of him!
+424792	SepB
+424832	Boy|
+424917	SepB
+425194	V2Hs006
+425361	doorh
+425381	Village2
+425393	V2V001
+425415	Bench#
+425456	Boy,
+425491	$$n0
+425497	The monsters would not
+425521	know how to use arrows
+425545	if BeiWu had not told
+425568	them.
+425617	$$n0
+425623	It turns out Master
+425644	BeiWu was innocent.
+425665	$$n0
+425671	But I still do not
+425691	understand how the
+425711	monsters learned to
+425732	use arrows.
+425793	Bench
+425834	Benchx
+426208	ShellC
+426250	Bench
+426291	Tablex
+426406	Boy
+426441	$$n0
+426447	I cannot believe our
+426469	ShiFu is in collusion
+426492	with monsters.
+426508	$$n0
+426514	But everybody says
+426534	so. It seems I have
+426555	to believe.
+426610	$$n0
+426616	The rumor disappeared
+426639	when ShiFu returned.
+426746	Bed
+426785	Bench
+426826	Bench
+426867	Bench+
+426908	Bench
+426949	Bench
+426990	Benchq
+427031	Bench
+427072	Bench
+427113	Bench
+427154	Chair2
+427195	Bench
+427236	Bench
+427277	BenchE
+427318	Bench
+427359	Bench
+427400	Bench
+427441	Bench
+427482	Bench
+427523	Benchx
+427564	Bench
+427605	Bench7
+427646	Benchx
+427687	Bench
+427728	Benchx
+427769	Benchd
+427810	Benchn
+427851	Benchr
+427892	Chair
+427933	Bench#
+428214	V2HsHotel 
+428421	door
+428441	Village2
+428453	V2V001
+428475	Boy
+428518	Yes
+428525	$$n0
+428531	Thank you.
+428573	Leave
+428582	$$n0
+428588	Welcome anytime.
+428628	$$n0
+428634	10 coins for a night
+428656	rest?
+428711	ShellCF
+428753	Benchx
+428794	BottleT
+428836	Bottle
+428878	Bottler
+428920	Bottle
+428962	Bottle
+429004	Bench
+429025	Village2
+429037	V2HsHotelB
+429248	Bench&
+429289	Bench
+429330	Bench
+429371	Bench
+429412	Bench
+429453	Table
+429494	Chair
+429535	ChairX
+429576	Bench
+429617	Bedx
+429656	Bench<
+429697	Bench
+429738	Benchx
+429779	Benchd
+429820	Bench
+429861	BedP
+429900	Bedd
+429939	BedY
+429978	Bed1
+430017	Bed
+430056	Bed
+430095	Bed5
+430134	Bed
+430173	Bed
+430212	Chair
+430253	ShellC
+430295	Bed
+430334	Bedx
+430373	Bed
+430412	Bed
+430451	Bottle
+430493	Bottle
+430535	Bottle
+430577	BottleX
+430619	Bottle
+430661	Bottle"
+430703	Bottle
+430745	Bed
+430784	Bed
+430823	npcP
+430858	$$n0
+430864	Everybody says BeiWu
+430886	colluded with Monster
+430909	Dirt. But his daughter
+430933	BeiLian won't believe
+430956	it.
+431003	$$n0
+431009	I didn't believe that
+431032	BeiWu was a bad guy,
+431054	did I?
+431110	npcT
+431145	$$n0
+431151	The Arrow Tribe has
+431172	been famous as KongFu
+431195	experts.
+431205	$$n0
+431211	But Master BeiWu doesn't
+431237	learn good. The Tribe
+431260	may ruin in his hand.
+431325	$$n0
+431331	BeiWu came back and
+431352	BeiNi ran away. What
+431374	is going on with
+431392	Arrow Tribe?
+431454	npc
+431489	$$n0
+431495	BeiWu looks like a decent
+431522	man. Who can imagine he
+431547	gangs up with Monster Dirt!
+431618	$$n0
+431624	I said before BeiWu
+431645	was a decent man. I
+431666	was right as always.
+431736	Bedx
+431775	BedSleep
+431819	Bottle
+432141	V2HsHotelB
+432312	BenchF
+432353	Bed
+432392	Bed
+432431	Bedd
+432470	ShellC,
+432512	Table
+432553	Bench
+432574	Village2
+432586	V2HsHotel
+432611	Bed
+432650	Bed
+432689	Bed
+432728	Bed
+432767	Bed
+432806	Bed<
+432845	Bed
+432884	Bed<
+432923	Bed"
+432962	Bed
+433001	Bed
+433040	Bed
+433079	Bench
+433120	Bench
+433161	Chair
+433202	Bed
+433241	Bench@
+433282	Bed
+433321	BedI
+433360	BedI
+433399	BedI
+433438	Chair
+433479	Chair
+433520	Bench
+433561	Chair
+433602	Chair]
+433643	Chair
+433684	Bed
+433723	Bed
+433762	Bed
+433801	Bed
+433840	Bed+
+433879	BedP
+433918	Bed6
+433957	Bed6
+433996	Bed
+434035	Bed-
+434074	BoyD
+434117	Buy torch
+434130	$$n0
+434136	Thank you.
+434178	Leave=
+434187	$$n0
+434193	It is very dangerous
+434215	to enter cave without
+434238	torches!
+434272	$$n0
+434278	Do you want some torches?
+434305	5 coins each.
+434368	BedP
+434407	Bed
+434711	V2HsMed
+434878	doorh
+434898	Village2
+434910	V2V001
+434932	Bed
+434971	SepA
+435011	Chaird
+435052	Bed
+435091	BedF
+435130	Bottle|
+435172	Bottle
+435214	Chair
+435255	jarh
+435294	Chair
+435335	Chair
+435376	Chair
+435417	Chair(
+435458	Chair
+435499	Chair
+435540	Chair
+435581	Chair
+435622	Chair
+435663	Chair
+435704	Chair
+435745	SepA
+435785	old(
+435824	old7
+435863	old(
+435902	old;
+435941	oldA
+435980	old(
+436019	old(
+436058	Bottle
+436100	Bottle5
+436142	Bottle!
+436184	BottleI
+436226	SepA.
+436266	jar
+436305	jar
+436344	jar
+436383	jar
+436422	jarB
+436461	jar
+436500	jar+
+436539	docx
+436574	$$n0
+436580	You must have Bolus
+436601	Hulu if you want to
+436622	buy Med Bolus.
+436690	Buy Med Bolus
+436707	$$n0
+436713	Thank you.
+436755	Leave
+436764	$$n0
+436770	It is a pity.
+436807	$$n0
+436813	Med Bolus costs 5 coins
+436838	each.
+436895	Chair
+437144	V2HsWeap
+437312	door
+437332	Village2
+437344	V2V001
+437366	Bench
+437555	ShellC
+437597	Bench
+437638	Bench
+437679	Benchx
+437720	Bench2
+437761	Bench;
+437802	Table
+437843	Bench
+437884	Bench
+437925	jar
+437964	Chairx
+438005	Chair-
+438046	Chair
+438087	Chair
+438128	Chaird
+438169	Chair
+438210	jar#
+438249	Chair@
+438290	Boy
+438333	10 darts for $10
+438353	$$n0
+438359	Thank you.
+438401	Leave
+438410	$$n0
+438416	Bye.
+438444	$$n0
+438450	Bullets on sale here.
+438531	10 darts for $10
+438551	$$n0
+438557	Thank you.
+438599	10 arrows for $10
+438620	$$n0
+438626	Thank you.
+438668	Leave
+438677	$$n0
+438683	Bye.
+438711	$$n0
+438717	Bullets on sale here.
+438829	Bench
+438870	Chair
+438911	Chair
+438952	ChairG
+438993	jar#
+439032	jar#
+439235	V2V001@
+439327	bushu(
+439368	bushl(
+439409	Tree
+439449	bushd2
+439491	door4
+439511	World
+439520	WX3Y2
+439541	House4
+439563	Village2
+439575	V2Hs004
+439598	House2
+439620	Village2
+439632	V2Hs006
+439655	House3
+439677	Village2
+439689	V2HsHotel
+439714	House1<
+439736	Village2
+439748	V2Hs001
+439771	House5|
+439793	Village2
+439805	V2Hs005
+439828	Tomb
+439868	Road
+439908	Roadh
+439948	Road
+439988	Road
+440028	Name
+440064	$$n0
+440070	ShangWu Village
+440139	npc
+440174	$$n0
+440180	It's not all BeiLian's
+440204	fault. The rumor of
+440225	her father is too much
+440249	for her.
+440301	$$n0
+440307	I wonder where BeiLian is.
+440379	$$n0
+440385	BeiLian grows to be
+440406	exactly her mother.
+440475	House6
+440497	Village2
+440509	V2HsWeap
+440533	Well
+440573	TreesD
+440615	TreesD
+440657	Roadp
+440697	House07h
+440720	Village2
+440732	V2Hs003
+440755	???
+440808	TreesDx
+440850	Road
+440890	Road
+440930	Road
+440970	TreesD
+441012	TreesDx
+441054	TreesD
+441096	TreesD
+441138	TreesD,
+441180	TreesD
+441222	TreesD
+441264	TreesDL
+441306	TreesDX
+441348	TreesDd
+441390	TreesD
+441432	Road
+441472	TreesD
+441514	TreesD
+441556	TreesD 
+441598	TreesD
+441640	TreesD
+441682	TreesD
+441724	TreesD
+441766	TreesDt
+441808	TreesD8
+441850	TreesD
+441892	TreesDL
+441934	TreesD
+441976	TreesD
+442018	TreesDn
+442060	TreesD
+442102	TreesD
+442144	TreesD
+442186	TreesDx
+442228	TreesDh
+442270	TreesDh
+442312	TreesD
+442354	House2`
+442376	Village2
+442388	V2HsMed
+442411	TreesDx
+442453	TombMan
+442500	Pay 10 coins>
+442516	$$n0
+442522	Go in now. Remember
+442543	you can talk to one
+442564	man at a time.
+442610	Leave
+442619	$$n0
+442625	Why are you so mean?
+442669	$$n0
+442675	The oldman inside are
+442698	weird. No one expect
+442720	what they will do.
+442740	$$n0
+442746	You may pay 10 coins
+442768	and go in to try your
+442791	luck.
+442840	$$n0
+442846	Go ahead.
+442907	TreesDd
+442949	TreesD
+442991	TreesD
+443033	TreesDT
+443075	TreesD
+443117	TreesD
+443159	TreesD
+443201	TreesD
+443243	TreesD
+443285	TreesD
+443327	TreesD
+443369	TreesD@
+443411	TreesD,
+443453	TreesD$
+443495	TreesD
+443537	TreesD
+443579	TreesD
+443621	TreesDx
+443663	TreesDd
+443705	TreesD
+443747	TreesD
+443789	TreesD
+443831	TreesD
+443873	TreesD
+443915	TreesDt
+443957	TreesD
+443999	TreesD
+444041	TreesDd
+444083	TreesD
+444125	TreesD|
+444167	TreesD,
+444209	TreesD
+444251	TreesD
+444293	TreesD
+444335	TreesD
+444377	TreesD
+444419	TreesD
+444461	TreesDx
+444503	House07
+444546	House07
+444589	TreesD
+444631	npc
+444666	$$n0
+444672	Unless BeiWu came back,
+444697	no one else has the 
+444719	strength to push the
+444741	rock away.
+444795	$$n0
+444801	BeiWu is back. Why does
+444826	he not open the road to
+444851	south?
+444903	$$n0
+444909	BeiWu should teach her
+444933	daughter how to be a
+444955	good woman like us.
+445024	House1
+445046	Village2
+445058	V2Hs002
+445081	npc
+445116	$$n0
+445122	BeiLian had such a 
+445143	bad temper. She left
+445165	ShangWu Village which
+445188	is fine.
+445198	$$n0
+445204	But why did she pushed
+445228	a big rock down the
+445249	hill and block the road
+445274	to south?
+445327	$$n0
+445333	I believe that BeiLian
+445357	herself cannot come
+445378	back because of the 
+445400	block.
+445452	$$n0
+445458	BeiLian never learns to
+445483	be polite. She should
+445506	be sitting here chatting
+445532	with us.
+445590	Road
+445630	TreesD
+445672	TreesDx
+445714	Roadp
+445754	TreesD
+445796	Road@
+446316	V3Hs001
+446446	doorh
+446466	Village3
+446478	V3V001
+446500	Chair}
+446541	Bed
+446580	ShellC2
+446666	Chairx
+446707	Benchx
+446748	SepA2
+446788	Bench:
+446829	Boy|
+446864	$$n0
+446870	I have heard of Bounce
+446894	Magic but never had a
+446917	chance to see it with
+446940	my own eyes.
+447000	Table^
+447041	Bench^
+447563	ShellC5
+447679	Bench
+447720	ShellC<
+447762	Chair
+447803	Chair
+447844	ShellCn
+447930	ShellC
+448016	ShellC
+448102	ShellC
+448188	ShellC
+448274	Chair
+448315	Chair<
+448356	Bench}
+448397	Bench@
+448438	Bed
+448477	Benchx
+448518	Bencho
+448559	Benchd
+448600	Bed
+448639	Bed"
+448715	Bed
+448754	Bed
+449021	V3Hs002
+449151	doorh
+449171	Village3
+449183	V3V001
+449205	Boy
+449240	$$n0
+449246	#$%$&...
+449306	Let him eat the Wood Lotus6
+449336	$$n0
+449342	Hmm...hmm...
+449356	$$n0
+449362	Who are you? Seem
+449381	familiar.
+449424	Leave
+449433	$$n0
+449439	#$%$&...
+449471	$$n0
+449477	#$%$&...
+449533	$$n0
+449539	You are great! I hope
+449562	I can go around the
+449583	world like you.
+449648	Bed
+449687	Bench
+449728	Bench@
+449769	Boy
+449804	$$n2
+449810	What a strange disease
+449834	that my son has!
+449894	$$n0
+449900	Oh, Wood Lotus! My son
+449924	is saved! Thank you 
+449946	very very much.
+449963	$$n1
+449969	I have no treasure to
+449992	reward you, but a 
+450012	family magic called
+450033	Bounce Magic.
+450048	$$n1
+450054	Use your sword to hit
+450077	the bullet, some bullets
+450103	may be bounced back to
+450127	the enemy.
+450139	$$h0
+450145	LuWa learned the Bounce
+450170	Magic.
+450222	$$n0
+450228	Thank you for saving
+450250	my child.
+450311	Bed
+450387	Boy+
+450426	Boy
+450465	Boy
+450504	Boy
+450543	Boy
+450582	Boy(
+450621	Boy
+450660	BoyE
+450699	Boy
+450738	Boy<
+450777	Boy
+450816	Boy
+450855	BoyX
+450894	Boy
+450933	Boy
+450972	Boy
+451011	Boy
+451050	Bench
+451091	Boy
+451130	ShellC
+451172	Bed!
+451211	BedP
+451250	Bench
+451291	BenchU
+451332	Bench
+451373	ShellCb
+451415	Benchw
+451456	Bench
+451497	Bench
+451538	Bench!
+451579	BedX
+451618	Bed
+451657	Bench6
+451698	Bench
+451739	Bench#
+451780	Bench#
+451821	Bench#
+451862	Bench
+452119	V3Hs003
+452286	doorE
+452306	Village3
+452318	V3V001
+452340	Boy
+452375	$$n0
+452381	You are such a nice
+452402	young man. Let me
+452421	teach you Breath Dao.
+452444	$$n0
+452450	Breath Dao is the Dao
+452473	of mastering breath. 
+452496	It helps you to save
+452518	breath when running
+452539	and fighting.
+452554	$$h0
+452560	LuWa learned the Breath
+452585	Dao.
+452633	$$n0
+452639	That is all I can tell
+452663	you. You have to find 
+452687	the benifit of Breath
+452710	Dao yourself.
+452771	Bench#
+452812	Benchb
+452853	Table
+452894	ShellC2
+453269	BedN
+453419	Benchi
+453460	Benchl
+453501	Bench
+453616	Bench#
+453657	Bench#
+453698	Benchb
+453883	V3Hs004
+454050	doorh
+454070	Village3
+454082	V3V001
+454104	Chair
+454145	Bed2
+454184	Table
+454225	jar
+454308	ShellC
+454394	SepA
+454434	Boy
+454469	$$n0
+454475	We used to have a kind
+454499	of magic wood called
+454521	Cheng Wood. It can make
+454546	bridge over rapid water.
+454572	$$n0
+454578	But Monster Wood has
+454600	taken all Cheng Wood
+454622	away.
+454629	$$n0
+454635	The bridge to the mine
+454659	is broken for some time
+454684	and cannot be fixed.
+454748	$$n0
+454754	Fixing the bridge is
+454776	easy with Cheng Wood.
+455291	SepAD
+455331	SepA
+455371	SepA
+455411	Bed
+455450	Bed
+455489	Bed
+455528	Bedi
+455567	Bed_
+455606	Chair6
+455647	jarm
+455730	jar
+455813	ShellCS
+455899	ShellC
+455985	Bench
+456026	Bench
+456067	Bench
+456108	Bench
+456149	Chairb
+456190	Chairb
+456231	Chairb
+456272	Chair
+456313	Chair!
+456354	Chairg
+456395	Chairl
+456436	ChairS
+456477	Chair
+456518	ChairF
+456559	Bench
+456600	Bench
+456873	V3Hs005
+457040	doorE
+457060	Village3
+457072	V3V001
+457135	YesM
+457142	$$n0
+457148	If you see him, please
+457172	give him this letter.
+457195	$$h0
+457201	LuWa got a letter.
+457251	No#
+457257	$$n0
+457263	No one ever take pity on
+457289	me?
+457316	$$n0
+457322	My husband went to east
+457347	to dig gold. I have not
+457372	heard from him for two 
+457397	years.
+457405	$$n0
+457411	Can you help me to find
+457436	him?
+457484	$$n0
+457490	You are my only hope.
+457557	$$n0
+457563	My husband came back
+457585	at last. It was very
+457607	kind of you to bring
+457629	the letter to him.
+457699	BedO
+457738	BenchS
+457779	Chair
+457820	ShellC
+458269	Bench
+458310	Bench
+458573	Chair
+458614	BedO
+458653	Bench
+458694	Bench
+458735	Bench
+458813	Bench
+458854	Bench
+458895	BenchO
+458936	Bench
+458977	Bench@
+459018	Bench
+459059	Bench
+459100	Bench
+459141	BenchZ
+459182	Benchm
+459223	Bench2
+459264	Chair
+459305	Chair
+459379	$$n0
+459385	East or west, home is
+459408	best!
+459679	V3HsHotel 
+459774	ur<
+459849	door
+459869	Village3
+459881	V3V001
+459903	BedSleep/
+459947	Boy
+459990	Yes
+459997	$$n0
+460003	Thank you.
+460045	Leave
+460054	$$n0
+460060	What a pity.
+460096	$$n0
+460102	Do you want to take
+460123	a night rest? Only 15
+460146	coins.
+460202	ShellC
+460244	Bench
+460285	Bench7
+460326	Bench
+460367	Bench
+460408	Bench
+460449	Bench
+460490	Table
+460531	Table
+460572	BenchN
+460613	Bench
+460654	ShellC
+461325	ShellC
+461367	Table
+461408	Bench
+461486	Bench
+461527	Bench
+461568	Table
+461609	Bench
+461650	Bench
+461691	BenchN
+461732	Bench
+461773	ShellC{
+461815	ShellC
+461857	ShellC
+461899	ShellC
+461941	ShellC
+461983	ShellC
+462025	ShellCA
+462067	ShellC"
+462109	ShellC
+462227	urq
+462265	ShellC
+462307	Bench
+462348	Table
+462389	Bench
+462430	Chair<
+462471	Chair
+462512	Bench
+462594	Yes
+462601	$$n0
+462607	Thank you.
+462655	$$n0
+462661	Mean.
+462690	$$n0
+462696	Give me 4 coins, OK?
+462764	Boy
+462799	$$n0
+462805	I will give no money
+462827	to beggers.
+462888	ShellC
+462930	npc
+462973	Buy torch, 8 coins each
+463000	$$n0
+463006	Thank you.
+463048	Leave
+463057	$$n0
+463063	What a pity.
+463099	$$n0
+463105	Do you want some
+463123	torches?
+463479	V3HsMed
+463646	doorh
+463666	Village3
+463678	V3V001
+463700	Chaird
+463741	BedF
+463780	Chair
+463821	BottleA
+463896	$$n0
+463902	Only Wood Lotus can
+463923	cure MuRong's son.
+463943	And only BeiLian has
+463965	Wood Lotus.
+463978	$$n0
+463984	But MuRong and BeiLian 
+464009	had some conflict
+464028	before. I don't know
+464050	how to solve this
+464069	problem.
+464495	Bed
+464534	Bed
+464573	Bottle!
+464652	Bottle?
+464694	Bottle&
+464736	Bottle
+464778	jar
+464817	Chair
+464858	jar&
+464897	jar
+464936	jar
+464975	Chair
+465016	BottleF
+465058	BottleA
+465100	Bottle(
+465142	BottleZ
+465184	BottleA
+465226	Chairc
+465267	docx
+465302	$$n0
+465308	Come again when you have
+465334	Bolus Hulu.
+465399	Med Bolus, $10 each
+465422	$$n0
+465428	Thank you.
+465470	Large Med Bolus, $30 each
+465499	$$n0
+465505	Thank you.
+465547	Leave
+465556	$$n0
+465562	You will regret.
+465602	$$n0
+465608	Why don't you buy some
+465632	Med Bolus? They will 
+465655	keep you safe.
+465901	V3HsWeap
+466069	doorh
+466089	Village3
+466101	V3V001
+466123	Bench
+466164	Chair
+466205	Boy
+466248	10 darts for $10
+466268	$$n0
+466274	Thank you.
+466316	10 arrows for $10
+466337	$$n0
+466343	Thank you.
+466385	Leave
+466394	$$n0
+466400	What a pity.
+466436	$$n0
+466442	Bullets on sale here.
+466517	ShellC
+466603	ShellC+
+466645	ShellCP
+466687	Benchl
+466728	jar
+466767	Table
+466808	Chair#
+467256	ShellC
+467298	ShellC2
+467340	ShellC
+467382	ShellCi
+467424	ShellC
+467466	Chair
+467507	Chair
+467548	Chairx
+467589	Chair
+467630	Chair
+467671	Chair7
+467712	Chairr
+468086	jar
+468125	jarb
+468164	ChairE
+468205	Chair
+468246	Chair#
+468515	V3V001
+468624	World
+468633	WX1Y6
+469892	Village3
+469904	V3HsHotel
+469946	Village3
+469958	V3Hs005
+469998	Village3
+470010	V3HsMed
+470050	Village3
+470062	V3Hs002
+470102	Village3
+470114	V3Hs001
+470154	Village3
+470166	V3Hs004
+470206	Village3
+470218	V3HsWeap
+470259	Dun3
+470267	Dun3008
+470290	???
+470413	$$n0
+470419	BaoLin Village
+470794	Village3
+470806	V3Hs003
+472026	Yes
+472033	$$n0
+472039	Thank you.
+472081	Leave!
+472090	$$n0
+472096	You are tight, my 
+472116	friend.
+472147	$$n0
+472153	One coin, may I ask?
+472295	Boy
+472330	$$n0
+472336	MuRong was a strong
+472357	man. He has suffered
+472379	a lot since his son
+472400	was ill.
+472497	Yes
+472504	$$n0
+472510	You are so nice.
+472558	Leave
+472567	$$n0
+472573	Don't be too mean!
+472615	$$n0
+472621	Can you give me two
+472642	coins?
+472737	Yes
+472744	$$n0
+472750	Thank you.
+472792	Leave
+472801	$$n0
+472807	Why are you so mean?
+472851	$$n0
+472857	Give me 4 coins? That
+472880	is nothing to you!
+472979	$$n0
+472985	Be kind to our begging
+473009	brothers.
+473062	$$n0
+473068	You have warm heart.
+473090	I will show you to
+473110	our master.
+473649	Dun3001
+474076	DoorUX
+474117	DoorDX
+474138	World
+474147	WX2Y9
+474242	BrickA
+474284	BrickA
+474360	$$n0
+474366	Here is another stupid
+474390	fellow wanting to be 
+474413	killed.
+474550	BrickA
+474592	BrickA
+474634	BrickA|
+474676	BrickA
+474718	BrickA
+474760	BrickA
+474802	BrickA
+474844	BrickA8
+474886	BrickA
+474928	BrickA
+474970	BrickA
+475012	BrickA8
+475054	blood
+475095	BrickA(
+475137	BrickA
+475179	BrickA(
+475221	map3t
+475257	$$n0
+475263	LuWa got the Dungeon
+475285	Map!
+475337	BrickA
+475379	BrickA
+475459	m1D
+475719	Dun3002
+475850	dl(
+476110	DoorDX
+476262	Key1@
+476298	$$n0
+476304	LuWa got a key.
+476367	m1h
+476405	BrickA
+476447	BrickA
+476489	BrickA
+476531	BrickA
+476573	BrickA
+476615	BrickA
+476657	BrickA
+476699	blood8
+476740	BrickAx
+476782	BrickA
+476824	medsL
+476864	BrickA
+476906	BrickAH
+477024	BrickA
+477066	BrickA
+477108	BrickA
+477150	m1T
+477188	BrickA
+477394	Dun3003
+477618	DoorUX
+477787	blood
+477865	medb
+478019	DoorUX
+478144	Dun3004
+478237	ul(
+478351	dl(
+478685	DoorUX
+478726	BrickA
+478768	BrickA
+478848	m1,
+478886	BrickA
+478928	BrickA
+478970	BrickA\
+479012	BrickA
+479054	BrickA
+479096	BrickA,
+479138	BrickA
+479180	BrickA\
+479222	BrickA
+479264	BrickA
+479306	BrickA
+479348	BrickA,
+479390	BrickA
+479432	BrickA
+479474	BrickA
+479516	BrickA|
+479558	m1X
+479596	BrickA
+479638	meds
+479752	m1D
+479790	m1L
+479828	m1H
+479904	DoorUX
+480145	Dun3005
+480238	ul(
+480352	dl(
+480686	DoorUX
+480727	DoorDX
+480768	DoorL
+480809	DoorR
+480888	KeyD
+480923	$$n0
+480929	LuWa got a key.
+480994	slideD
+481035	slideD
+481076	slideD
+481117	BrickAx
+481159	BrickA
+481201	BrickA
+481243	BrickA8
+481285	BrickA8
+481327	BrickAH
+481369	BrickA
+481411	BrickA
+481453	BrickA
+481495	BrickA
+481537	BrickA
+481579	BrickA
+481621	BrickA
+481663	BrickA
+481705	BrickA
+481747	BrickA
+481789	BrickA
+481831	BrickAh
+481873	BrickA
+481915	BrickA
+481957	BrickAh
+481999	BrickAX
+482041	BrickA
+482083	BrickA
+482125	m1$
+482163	BrickAX
+482205	m1D
+482243	m1D
+482505	Dun3006
+482709	DoorUX
+482750	DoorDX
+482867	bloodb
+482909	BrickAh
+482951	BrickA(
+482993	BrickA
+483148	m1h
+483186	m1l
+483224	m1l
+483262	BrickA
+483404	Dun3007
+483497	ul(
+483611	dl(
+483945	DoorDX
+484098	BrickA@
+484140	BrickA
+484182	BrickA
+484224	BrickA
+484266	BrickA
+484308	ifrog
+484345	$$n0
+484351	The Golden Frog suddenly
+484377	jumped into LuWa's 
+484398	mouth!
+484406	$$h0
+484412	LuWa accidentally
+484431	swallowed the Golden
+484453	Frog. His body was 
+484474	burning inside.
+484491	$$h0
+484497	When LuWa calmed down,
+484521	he found his breath
+484542	became much stronger!
+484611	BrickA
+484653	BrickA@
+484695	DoorDp
+484864	Dun3008
+484957	ul(
+485071	dl(
+485368	DoorR
+485500	Village3
+485512	V3V001
+485534	BrickA
+485576	BrickAx
+485618	BrickA
+485660	BrickAx
+485702	BrickA
+485744	BrickA
+485786	BrickA
+485828	BrickA
+485870	BrickA
+485912	BrickAx
+485954	BrickA
+485996	BrickA
+486034	$$n0
+486040	LuWa got a piece of
+486061	Xuan Iron.
+486119	wood
+486155	$$n0
+486161	LuWa got the Cheng Wood.
+486373	Dun3009
+486466	ul(
+486504	dr(
+486690	DoorL
+486765	$$n0
+486771	How come you got the
+486793	guts to come here!
+486859	heart
+486896	$$n0
+486902	LuWa got the Heart
+486922	of Justice.
+487045	Dun3010
+487138	ul(
+487252	dl(
+487586	DoorR
+487739	BrickA
+487781	BrickA
+487823	BrickA\
+487865	BrickA
+487907	BrickA
+487949	BrickA
+487991	BrickA
+488115	BrickA
+488157	BrickA\
+488199	BrickA
+488241	BrickA
+488283	BrickA
+488325	BrickA
+488367	BrickA,
+488409	iWoodCat
+488497	BrickA|
+488539	BrickA|
+488581	m1L
+488619	m1|
+488657	BrickA|
+488917	Dun3011
+489048	dl(
+489308	DoorL
+489588	medsx
+489666	BrickAh
+489708	BrickAh
+489750	BrickAh
+489792	BrickA
+489834	BrickA
+489876	BrickAx
+489918	BrickAH
+489960	BrickA
+490002	BrickAx
+490061	Dun3
+490069	Dun3018
+490092	BrickA
+490134	BrickA
+490176	BrickA
+490332	BrickA
+490374	BrickAH
+490416	DoorL
+490621	Dun3012
+490714	ul(
+491160	BrickA
+491202	BrickA
+491244	m1p
+491282	BrickAx
+491324	BrickA
+491366	m1x
+491400	$$n0
+491406	LuWa got a bag of
+491425	ArrowBomb.
+491520	BrickAl
+491562	m1H
+491676	slidex
+491717	slide
+491758	bag4h
+491794	$$n0
+491800	LuWa got a bag of
+491819	Arrow.
+491875	slide
+491916	slide
+491957	slide
+491998	slideh
+492187	Dun3013
+492280	ul(
+492394	dl(
+492728	DoorL
+492769	DoorR
+492884	BrickAx
+492926	BrickAX
+492968	BrickA
+493010	BrickA
+493052	BrickA8
+493094	BrickAH
+493136	BrickA
+493178	BrickAh
+493220	BrickA
+493262	m1h
+493338	BrickAh
+493380	BrickAH
+493422	BrickA
+493464	BrickA8
+493506	BrickA
+493548	BrickA
+493590	BrickAX
+493632	BrickA
+493674	BrickA
+493716	BrickA
+493758	BrickAh
+493800	BrickA
+493842	BrickAh
+493884	BrickAh
+493926	BrickA
+493968	BrickAH
+494010	m1X
+494048	m1l
+494672	Dun3014
+494765	ul(
+494879	dl(
+495213	DoorR
+495254	m1p
+495292	bloods
+495462	Dun3
+495470	Dun3018
+495493	BrickAx
+495535	BrickA
+495577	BrickAT
+495619	BrickA4
+495661	BrickA
+495703	BrickA$
+495745	BrickA
+495787	BrickA4
+495829	BrickA
+495871	BrickA
+495913	BrickA
+495955	BrickA
+495997	BrickA
+496039	BrickA
+496081	BrickAD
+496123	BrickA
+496165	BrickA$
+496207	BrickA
+496249	BrickA4
+496291	BrickA
+496333	BrickA
+496375	BrickA
+496417	BrickA
+496459	BrickAD
+496501	BrickAh
+496543	BrickAh
+496585	BrickA
+496627	BrickAx
+496669	bloodb4
+496749	m10
+497015	Dun3015
+497108	ul(
+497222	dlx
+497408	DoorL
+497524	$$n0
+497530	LuWa got a Bolus Hulu.
+497760	BrickAX
+497802	BrickA
+497844	BrickA
+497886	BrickA
+497928	BrickAx
+497970	BrickAx
+498240	slide
+498319	BrickAx
+498361	BrickAX
+498551	Dun3016
+498644	ul(
+498758	dl(
+499092	DoorR
+499301	Dun3
+499309	Dun3018
+499370	BrickAp
+499412	BrickA
+499454	BrickA
+499496	BrickA
+499538	BrickA
+499580	BrickA
+499622	BrickA
+499664	BrickA0
+499706	BrickA
+499748	BrickA
+499790	BrickA
+499832	BrickA
+499874	BrickA
+499916	BrickA 
+499958	BrickAp
+500000	BrickAp
+500042	BrickA
+500084	BrickA0
+500126	BrickA0
+500205	BrickA
+500247	BrickA
+500289	BrickAp
+500331	m1t
+500611	Dun3017
+500790	dl(
+501050	DoorDX
+501091	DoorL
+501207	BrickA
+501249	BrickA
+501291	BrickA
+501333	m1`
+501371	BrickA
+501413	BrickAT
+501455	meds`
+501533	m1H
+501571	m1H
+501609	BrickAx
+501779	Dun3018
+501872	ul(
+501986	dl(
+502320	DoorR
+502435	BrickA
+502477	BrickA
+502519	m1,
+502633	tun
+502652	Dun3
+502660	Dun3021
+502683	BrickA
+502725	BrickA
+502767	BrickAx
+502809	BrickA
+502851	BrickA(
+502893	tun
+502912	Dun3
+502920	Dun3016
+502943	tun
+502962	Dun3
+502970	Dun3014
+502993	tun
+503012	Dun3
+503020	Dun3011
+503273	Dun3019
+503366	ul(
+503480	dl(
+503814	DoorUX
+503855	DoorL
+503970	BrickAx
+504012	BrickA
+504054	BrickA
+504096	BrickA
+504138	BrickA
+504180	BrickA
+504222	m1X
+504298	BrickA
+504340	BrickA
+504382	BrickA
+504424	BrickAT
+504466	BrickA
+504822	Dun3020
+504915	ul(
+505029	dl(
+505363	DoorDX
+505404	DoorR
+505445	m1,
+505520	BrickA
+505562	BrickA 
+505604	BrickA
+505646	BrickA
+505688	BrickA
+505730	BrickA
+505772	BrickA
+505814	BrickA
+505856	BrickA
+505898	BrickA
+506015	BrickA8
+506057	BrickA
+506099	BrickA 
+506141	BrickA
+506183	BrickA
+506225	BrickA8
+506267	BrickA
+506309	medb
+506349	BrickA
+506391	BrickA
+506471	m1t
+506509	bag4
+506545	$$n0
+506551	LuWa got a bag of
+506570	Arrow.
+506626	BrickA0
+506668	BrickA
+506710	BrickA0
+506752	BrickA
+507002	Dun3021
+507095	ul(
+507209	dl(
+507543	DoorL
+507695	BrickA
+507737	BrickA
+507817	m10
+507855	BrickA
+507897	BrickA
+507939	BrickA
+507981	BrickAx
+508023	BrickA
+508065	BrickAh
+508107	BrickA
+508149	BrickAX
+508191	BrickA$
+508237	Pay 10 coinsW
+508253	$$n0
+508259	Hmm, this is not enough
+508284	to say much.
+508298	$$n0
+508304	Sometimes your eyes may
+508329	cheat you
+508372	Pay 20 coinsE
+508388	$$n0
+508394	Monsters are usually
+508416	vunerable to the same
+508439	bullet as his own.
+508489	Pay 30 coins<
+508505	$$n0
+508511	Seeing path may not pass;
+508538	Seeing not path may pass.
+508597	Leave
+508630	$$n0
+508636	I am the monster's
+508656	Fortune Tellor.  Do
+508677	you want to know what
+508700	I can tell you?
+508763	BrickA
+508805	BrickA
+508847	BrickA
+508889	BrickA8
+508931	m1L
+508949	Dun3
+508957	Dun3018
+508980	m1X
+509018	m1l
+509056	m1T
+509270	CaveB101 
+509364	BrickD
+509406	BrickD
+509448	BrickD
+509490	BrickD
+509532	StepAD
+509554	CaveB
+509563	CaveB102
+509587	StepAUd
+509609	World
+509618	WX1Y1
+509639	BrickD
+509681	BrickD
+509723	BrickD
+509765	BrickD
+509807	BrickD
+509849	BrickD
+509891	BrickD
+510009	Xa,
+510085	BrickD
+510127	BrickD
+510169	BrickD
+510211	BrickD|
+510253	BrickD
+510295	BrickD
+510337	BrickDl
+510379	BrickDl
+510421	BrickDl
+510637	CaveB102 
+510731	BrickD
+510773	BrickD
+510815	BrickD
+510857	BrickD
+510899	StepAU
+510921	CaveB
+510930	CaveB101
+510954	BrickD
+510996	BrickD
+511038	BrickD
+511080	BrickD<
+511122	BrickD
+511164	BrickD
+511206	BrickD
+511248	BrickD
+511290	BrickD
+511446	forceboxP
+511486	$$n0
+511492	LuWa got the DaLi Bolus.
+511518	$$h0
+511524	Luwa ate the Bolus and
+511548	his body was filled with
+511574	powerful strength.
+511640	Xax
+511678	BrickD
+511720	BrickD
+511762	BrickD
+511924	BrickD<
+512094	CaveB201 
+512188	BrickD
+512230	BrickD
+512272	BrickD
+512314	BrickD
+512356	StepAUd
+512378	World
+512387	WX2Y3
+512408	BrickD
+512450	BrickD
+512492	BrickD
+512534	BrickD
+512614	Xad
+512728	BrickD
+512770	BrickD
+512812	bloodb|
+512892	BrickDl
+513118	CaveB301 
+513212	BrickD
+513254	BrickD
+513296	BrickD
+513338	BrickD
+513380	StepAU0
+513402	World
+513411	WX3Y3
+513432	BrickDD
+513474	BrickD,
+513516	BrickD
+513558	BrickD<
+513600	BrickD
+513642	BrickD
+513684	BrickD,
+513726	BrickDT
+513768	BrickDl
+513810	XaP
+513848	BrickD
+513890	BrickD
+513932	BrickD
+514012	Xad
+514050	XaP
+514088	Xa|
+514164	BrickD<
+514206	BrickDT
+514248	BrickDl
+514290	BrickD
+514332	XaP
+514370	BrickD
+514412	BrickD
+514454	BrickD,
+514496	BrickD
+514538	BrickD
+514782	CaveB401 
+514876	BrickD
+514918	BrickD
+514960	BrickD
+515002	BrickD
+515044	StepAU
+515066	World
+515075	WX2Y4
+515096	BrickD
+515138	BrickD,
+515180	BrickD
+515222	BrickD
+515264	BrickD
+515306	BrickD
+515348	BrickD
+515390	BrickD
+515432	BrickD
+515550	BrickD
+515592	BrickD
+515794	BrickD
+515836	BrickD,
+515878	meds
+515918	BrickD
+515960	BrickD
+516002	BrickD
+516044	BrickD
+516124	XaX
+516162	Xa0
+516200	meds:
+516396	CaveB501 
+516490	BrickD
+516532	BrickD
+516574	BrickD
+516616	BrickD
+516658	StepAU|
+516680	World
+516689	WX3Y4
+516710	BrickD
+516752	BrickD
+516794	BrickD
+516836	BrickD
+516878	BrickD
+516920	BrickD
+516962	BrickD
+517004	BrickD
+517046	Xad
+517084	Xad
+517122	BrickD
+517164	BrickD
+517244	BrickD
+517286	BrickD@
+517366	BB1
+517443	BrickD
+517485	BB1
+517652	V4Hs001
+517819	doorT
+517839	Village4
+517851	V4V001
+517910	Benchb
+517951	Bench
+517992	Bench
+518033	Bench
+518074	Lamp
+518262	BenchF
+518303	BenchF
+518344	BedAh
+518384	Benchh
+518462	BenchD
+518503	Bench5
+518544	Bench!
+518585	BenchI
+518626	Bench_
+518667	Bench
+518708	Lamp
+518748	Lamp
+518862	Bench
+518899	$$n0
+518905	It is said in acient
+518927	times, an old smith
+518948	made a very powerful
+518970	sword.
+518978	$$n0
+518984	He did not want to 
+519005	give the emperor his
+519027	sword, but the emperor
+519051	forced him.
+519064	$$n0
+519070	Finally, the poor smith
+519095	jumped into QingLong 
+519118	Lake with the sword.
+519297	Bench
+519338	Bench
+519379	Bench
+519420	BenchD
+519572	Benchb
+519801	V4Hs002 
+519931	Chair
+519972	Table 
+520013	Chair
+520054	Bench
+520095	Bench
+520136	Bench
+520177	SepA
+520271	Village4
+520283	V4V001
+520675	Bed
+520714	ShellC
+520830	Chairw
+520871	Bench(
+520912	ShellC2
+520954	BedP
+521178	ShellCv
+521257	ShellC
+521299	Chair+
+521340	Bench
+521381	ShellC
+521423	ShellCl
+521465	ShellC;
+521507	ShellCo
+521549	ShellC=
+521591	Bench
+521632	Bench-
+521673	Bench(
+521714	Bench+
+521755	Bench
+521796	Bench
+521837	Chair
+521878	Chair
+521919	Chair
+521960	Chair
+522001	Chair
+522042	Boy
+522077	$$n0
+522083	I would rather no gold
+522107	mine was ever discovered
+522133	here.
+522182	$$n0
+522188	My son, you brought back
+522214	the peace to our village.
+522293	Boyl
+522328	$$n0
+522334	I think the miners
+522354	are more disgusting
+522375	than Monster Gold.
+522439	$$n0
+522445	I cannot believe there
+522469	are good guys like you
+522493	in the miners!
+522559	Boy
+522594	$$n0
+522600	The miners dig for
+522620	gold everywhere. The
+522642	river bank is almost
+522664	hollow inside.
+522722	$$n0
+522728	If the miners all go
+522750	away, I will go to play
+522775	by the river.
+522836	$$n0
+522842	I can go to play by
+522863	the river now. How
+522883	great!
+523199	V4Hs003
+523292	urS
+523404	door@
+523424	Village4
+523436	V4V001
+523458	BenchS
+523499	Bed2
+523538	ShellC
+523987	ChairN
+524102	Bench
+524291	Chair
+524332	ShellC(
+524374	ShellC-
+524416	ShellC(
+524458	ShellC*
+524500	ShellC
+524542	ShellC
+524584	ShellC
+524626	doc
+524661	$$n0
+524667	The Ex-Jade is in the
+524690	box by my side. Take
+524712	it with you.
+524726	$$n0
+524732	But in fact it is only
+524756	half of the Ex-Jade. A
+524780	few years ago, a pirate
+524805	grabbed the other half
+524829	away.
+524836	$$n0
+524842	I have no idea where 
+524865	the other half of the
+524888	Ex-Jade is.
+524945	$$n0
+524951	It is so nice to come
+524974	home again.
+525033	token1c
+525107	$$n1
+525113	LuWa got a half of
+525133	Ex-Jade.
+525193	token11c
+525270	$$n1
+525276	LuWa got another half
+525299	of the Ex-Jade. He
+525319	combined the two and
+525341	got the whole Ex-Jade.
+525449	$$n0
+525455	Believing my Grandmother
+525481	has a magical item, 
+525503	Monster Gold took her
+525526	away.
+525533	$$n0
+525539	I had a nightmare last
+525563	night. I saw grandmother
+525589	was kept in a dark room
+525614	without doors or windows.
+525641	$$n0
+525647	I am really worried 
+525669	about her.
+525723	$$n0
+525729	It is so nice to have
+525752	Grandma back.
+525815	ShellC
+525857	ShellC
+525899	ShellC
+525941	Chair
+525982	ShellC
+526224	V4Hs004
+526317	urS
+526429	door@
+526449	Village4
+526461	V4V001
+526483	BenchS
+526524	Bed2
+526563	ShellC
+526605	Chair:
+526646	Table
+526687	Bench
+527209	ChairX
+527324	Bench
+527513	Table
+527554	Chair
+527595	Chair\
+527636	ShellC(
+527678	ShellC-
+527720	ShellC(
+527762	ShellC
+527804	ShellC*
+527846	ShellC
+527888	ShellC
+527930	ShellC
+527972	doc
+528015	Yesb
+528022	$$n0
+528028	Just a second...
+528046	$$n0
+528052	OK, here is a complete
+528076	Heart.
+528084	$$n1
+528090	LuWa got the Heart
+528110	of Mature.
+528160	Leave,
+528169	$$n0
+528175	Come again whenever
+528196	you need my help.
+528237	$$n0
+528243	There is nothing in
+528264	the world that I can
+528286	not mend.
+528297	$$n0
+528303	I even mend broken
+528323	pieces of Heart! Do
+528344	you have such pieces?
+528417	Yesf
+528424	$$n0
+528430	Just a second...
+528448	$$n0
+528454	OK, here is a complete
+528478	Heart.
+528486	$$n1
+528492	LuWa got the Heart
+528512	of Perfection.
+528566	Leave+
+528575	$$n0
+528581	Come again in case
+528601	you need my help.
+528642	$$n0
+528648	There is nothing in
+528669	the world that I can
+528691	not mend.
+528702	$$n0
+528708	I even mend broken
+528728	pieces of Heart! Do
+528749	you have such pieces?
+528858	ShellC
+529149	V4HsHotel 
+529281	npc
+529324	Yes
+529331	$$n0
+529337	Thank you.
+529379	Leave!
+529388	$$n0
+529394	No problem. See you
+529415	later.
+529445	$$n0
+529451	Take a rest and cure
+529473	yourself.  One night
+529495	for only 20 coins.
+529561	Bed
+529600	Benchx
+529641	Bed
+529680	Bedq
+529847	Village4
+529859	V4V001
+530103	Bedq
+530142	Bed
+530181	BedSleep
+530225	Bench
+530303	Bench0
+530344	Bench0
+530459	Benchx
+530500	npcF
+530539	npc
+530578	npcd
+530617	BenchP
+530658	npcT
+530697	npc|
+530736	npc
+530775	npch
+530814	npc
+530853	npc
+530892	npc
+530968	npc
+531011	Buy torch
+531024	$$n0
+531030	Thank you.
+531072	Leave
+531081	$$n0
+531087	What a pity.
+531123	$$n0
+531129	Torches are necessary
+531152	for miners.  10 coins
+531175	each.  Won't you have
+531198	some?
+531288	npc0
+531331	Yes
+531338	$$n0
+531344	Great, let me see
+531363	her letter!
+531376	$$n1
+531382	...I am expecting you to
+531408	come back.
+531420	$$n0
+531426	OK, I don't hesitate
+531448	anymore.  I am heading
+531472	home right now!
+531489	$$n0
+531495	This Miner's permit
+531516	is useless to me.  I 
+531539	will give it to you.
+531561	$$h0
+531567	LuWa got the Miner's
+531589	Permit.
+531636	$$n0
+531642	What shall I do?
+531682	$$n0
+531688	I shouldn't come to
+531709	this damn place!  I
+531730	want to go home.
+531748	$$n0
+531754	Have you passed by 
+531775	BaoLin Village?
+531792	Is there any message
+531814	from my wife?
+531921	Bench<
+531962	Bench
+532003	Benchx
+532044	npc
+532079	$$n0
+532085	Digging for gold, my
+532107	friend?
+532166	Give him 50 coinsZ
+532187	$$n0
+532193	That's good.  Thank you.
+532219	$$n0
+532225	I am away from home
+532246	for so long.  Time
+532266	to go back.
+532309	No.
+532315	$$n0
+532321	What do you do with
+532342	that much of money?
+532385	$$n0
+532391	I heard that you had 
+532414	Monster Gold's stock.
+532437	Share some gold with
+532459	me, okay?
+532564	Bench
+532605	Bench
+532646	Bench5
+532687	Bench
+532728	Bench0
+533038	V4HsMed
+533205	doorh
+533225	Village4
+533237	V4V001
+533259	Bed
+533298	SepA
+533338	Chaird
+533379	Bed
+533418	BedF
+533457	Bottle
+533499	jarh
+533538	Chair
+533579	Chair
+533620	Chair
+533661	Chair(
+533702	Chair
+533743	Chair
+533784	Chair
+533825	Chair
+533866	Chair
+533907	Chair
+533948	Chair
+533989	old(
+534028	old7
+534067	old(
+534106	old;
+534145	old(
+534184	old(
+534223	old<
+534262	Bottle
+534304	Bottle?
+534346	Bottle5
+534388	Bottle]
+534430	holeb
+534450	CaveD
+534459	CaveD301
+534527	oldx
+534562	$$n0
+534568	This fellow must have
+534591	a special way to get
+534613	cheap medicine. Maybe
+534636	there is a tunnel going
+534661	somewhere.
+534715	$$n0
+534721	If I could get cheap
+534743	medicine, I would like
+534767	to open a drug store
+534789	myself.
+534844	oldb
+534929	old
+534968	old
+535007	old
+535046	oldl
+535085	docd
+535128	Med Bolus, $10 each
+535151	$$n0
+535157	Thank you.
+535199	Large Med Bolus, $30 each
+535228	$$n0
+535234	Thank you.
+535276	Leave
+535285	$$n0
+535291	What a pity.
+535327	$$n0
+535333	Boluses keep you safe
+535356	on your journey.
+535899	V4HsWeap
+536030	BedAi
+536070	Bench
+536111	ShellF
+536196	npc
+536239	10 darts for $10
+536259	$$n0
+536265	Thank you.
+536307	10 arrows for $10
+536328	$$n0
+536334	Thank you.
+536376	Leave
+536385	$$n0
+536391	What a pity.
+536427	$$n0
+536433	No more bullets?  Why
+536456	not buy some here?
+536526	10 darts for $10
+536546	$$n0
+536552	Thank you.
+536594	10 arrows for $10
+536615	$$n0
+536621	Thank you.
+536663	10 knives for $20
+536684	$$n0
+536690	Thank you.
+536732	Leave
+536741	$$n0
+536747	What a pity.
+536783	$$n0
+536789	No more bullets?  Why
+536812	not buy some here?
+536880	Benchd
+536921	Shell
+537006	Bench
+537047	BedA
+537215	Village4
+537227	V4V001
+537693	Bench
+537734	BenchK
+537775	BenchK
+537816	Bench
+537857	Bench
+537898	Bench
+537939	Bench]
+537980	Bench
+538021	Bench
+538062	Bench
+538103	Bench&
+538144	Bench
+538185	Bench
+538226	Bench
+538267	Shell
+538352	Bench1
+538393	BenchY
+538434	Bench
+538475	Bench
+538516	Bench
+538765	V4V001
+538857	doorD
+538877	World
+538886	WX6Y6
+538907	House4
+538929	Village4
+538941	V4HsMed
+538964	House2
+538986	Village4
+538998	V4Hs002
+539021	House3
+539043	Village4
+539055	V4HsHotel
+539080	House5
+539102	Village4
+539114	V4Hs001
+539137	Road@
+539177	Road
+539217	Road
+539257	Name
+539293	$$n0
+539299	QingLong Village
+539365	House6
+539387	Village4
+539399	V4HsWeap
+539423	TreesD
+539465	TreesD<
+539507	TreesD
+539549	TreesD(
+539591	TreesD
+539633	TreesDd
+539675	Road
+539715	TreesDx
+539757	TreesDx
+539799	TreesD(
+539841	TreesDt
+539883	House1
+539905	Village4
+539917	V4Hs003
+539940	TreesD
+539982	TreesD`
+540024	TreesD`
+540066	TreesDL
+540108	TreesD
+540150	TreesDx
+540192	TreesD
+540234	TreesD
+540276	TreesD
+540318	TreesD(
+540360	TreesD(
+540402	TreesDX
+540444	TreesD
+540486	TreesD
+540528	TreesD
+540570	TreesD
+540612	TreesD
+540654	TreesD
+540696	TreesD
+540738	TreesD
+540780	TreesD
+540822	TreesD
+540864	TreesDH
+540906	TreesD
+540948	TreesDh
+540990	TreesDh
+541032	TreesDh
+541074	TreesDh
+541116	TreesD
+541158	TreesD
+541200	TreesD
+541242	TreesDL
+541284	TreesD
+541326	Road
+541366	TreesDH
+541408	TreesD
+541450	TreesDL
+541492	TreesD<
+541534	TreesDP
+541576	TreesD
+541618	TreesD(
+541660	TreesDP
+541702	TreesDL
+541744	TreesDh
+541786	TreesD8
+541828	TreesD
+541870	TreesD
+541912	TreesD
+541954	TreesDx
+541996	TreesD(
+542038	TreesDP
+542080	TreesD(
+542122	TreesD<
+542164	TreesDP
+542206	House5
+542228	Village4
+542240	V4Hs004
+542263	TreesD
+542305	TreesD
+542347	Road
+542387	Road@
+542427	npc
+542462	$$n0
+542468	The river bank is all
+542491	assigned to the miners.
+542516	You'd rather go home
+542538	right now.
+542600	Give him 50 coins|
+542621	$$n0
+542627	Hmm, you are not too
+542649	stupid.
+542658	$$n0
+542664	Not much interesting
+542686	things to search here.
+542710	I will try my luck
+542730	somewhere else.
+542777	No&
+542783	$$n0
+542789	You will pay for refusing
+542816	me!
+542845	$$n0
+542851	How come you have such
+542875	good luck and so much 
+542899	gold!  Share between
+542921	you and me, OK?
+543032	npc
+543067	$$n0
+543073	Coming for gold, little
+543098	brother?
+543158	Give him 50 coins
+543179	$$n0
+543185	Great.  It is very 
+543206	kind of you.
+543220	$$n0
+543226	I'd better go home
+543246	and do my old job.
+543266	My ferry-boat must be
+543289	covered with dust now.
+543345	No#
+543351	$$n0
+543357	How can I go home like
+543381	this!
+543410	$$n0
+543416	Wow, you have so many
+543439	coins!  I heard you 
+543461	even had Monster Gold's
+543486	gold stock.
+543499	$$n0
+543505	May I have some coins
+543528	of yours?
+543633	TreesD
+543675	TreesD
+543717	TreesD)
+543739	Dun4
+543747	Dun4020
+543816	TreesDH
+543858	TreesD
+543900	TreesD
+543942	TreesD
+543984	TreesDd
+544026	TreesDP
+544068	TreesD
+544110	TreesD
+544152	TreesD<
+544194	TreesD2
+544236	TreesDP
+544278	TreesD
+544320	TreesDn
+544786	CaveD101 
+544880	BrickD
+544922	BrickD
+544964	BrickD
+545006	StepADP
+545028	World
+545037	WX7Y6
+545058	BrickD
+545100	BrickDl
+545142	BrickD<
+545184	BrickD
+545226	BrickD|
+545268	BrickD<
+545310	Xad
+545348	Xax
+545386	BrickD
+545428	BrickD
+545470	BrickDT
+545684	CaveD201 
+545778	BrickD
+545820	BrickD
+545862	BrickD
+545904	StepAD
+545926	World
+545935	WX7Y6
+545956	BrickD
+545998	BrickD
+546040	BrickD<
+546082	BrickD
+546124	BrickD<
+546204	BrickD
+546246	BrickD
+546288	BrickDD
+546330	Xad
+546444	Xal
+546620	CaveD301 
+546714	BrickD
+546756	BrickD
+546798	BrickD
+546840	BrickD
+546882	StepAUP
+546904	Village4
+546916	V4HsMed
+546939	BrickD
+546981	BrickD7
+547023	Xa,
+547061	StepAU
+547083	Village1
+547095	V1V001
+547117	BrickD
+547159	BrickD
+547201	BrickD
+547243	BrickD
+547285	BrickD
+547327	BrickD
+547369	BrickD
+547411	BrickD
+547453	BrickDJ
+547495	BrickDJ
+547537	BrickD
+547579	BrickD>
+547621	BrickD
+547663	BrickDn
+547705	BrickD
+547871	CaveD401 
+547965	BrickD
+548007	BrickD
+548049	BrickD
+548091	BrickD
+548133	StepAU
+548155	World
+548164	WX6Y6
+548185	BrickD
+548227	BrickD
+548269	StepAUP
+548307	$$n0
+548313	LuWa got a bag of
+548332	IceBomb.
+548388	XaX
+548426	BrickD
+548468	BrickD
+548510	BrickD
+548552	BrickD
+548594	BrickD
+548636	BrickD
+548678	BrickD
+548720	BrickD
+548762	StepAUP
+548784	CaveD
+548793	CaveD402
+548817	Xal
+549085	CaveD402
+549179	BrickD
+549221	BrickD
+549263	StepAU
+549285	CaveD
+549294	CaveD401
+549318	BrickDl
+549360	BrickD
+549402	StepAUd
+549424	CaveD
+549433	CaveD403
+549457	BrickD
+549499	BrickD<
+549541	BrickDT
+549583	BrickD
+549625	BrickD,
+549667	BrickD,
+549785	CaveD403
+549879	BrickD
+549921	BrickD
+549963	StepAUP
+549985	CaveD
+549994	CaveD402
+550018	BrickDl
+550060	BrickD
+550102	BrickD<
+550144	BrickD
+550186	BrickDd
+550232	10 ArrowBomb for 10 coins
+550261	$$n0
+550267	Use bombs carefully!
+550319	10 DirtBomb for 10 coins
+550347	$$n0
+550353	Use bombs carefully!
+550405	10 IceBomb for 10 coins
+550432	$$n0
+550438	Use bombs carefully!
+550490	nothing4
+550501	$$n0
+550507	I've heard of FireBomb,
+550532	but I never see them.
+550577	$$n0
+550583	How did you get here?
+550606	I cannot let you go
+550627	bare-handed since you
+550650	found me.  What do you 
+550675	need?
+550788	CaveD501 
+550882	BrickD
+550924	BrickD
+550966	BrickD
+551008	StepAUP
+551030	World
+551039	WX8Y7
+551060	BrickD
+551102	BrickD<
+551144	BrickD
+551186	BrickD<
+551304	BrickD
+551346	BrickD
+551388	BrickD
+551430	BrickD
+551472	BrickD
+551514	BrickDd
+551556	BrickDd
+551598	BrickD<
+551686	BrickDP
+551728	BrickD
+551770	XaX
+551920	CaveD601 
+552014	BrickD
+552056	BrickD
+552098	BrickD
+552140	StepAU
+552162	World
+552171	WX7Y9
+552192	BrickD<
+552234	BrickD
+552276	BrickD
+552318	BrickD
+552360	BrickD
+552440	XaD
+552478	hrt
+552513	$$n0
+552519	LuWa got a piece of
+552540	broken heart!
+552685	BrickD
+552727	BrickD
+552769	BrickD
+552811	BrickD
+552853	BrickD
+552995	CaveD701 
+553089	BrickD
+553131	BrickD
+553173	StepAD
+553195	CaveD
+553204	CaveD702
+553228	StepAUP
+553250	World
+553259	WX5Y8
+553280	BrickD
+553322	BrickD
+553364	Xah
+553458	CaveD702 
+553552	BrickD
+553594	BrickD
+553636	BrickD
+553678	StepADP
+553700	CaveD
+553709	CaveD703
+553733	StepAUP
+553755	CaveD
+553764	CaveD701
+553788	BrickD<
+553830	BrickD
+553910	Xax
+553948	BrickD
+553990	BrickD<
+554032	Xa@
+554188	CaveD703 
+554282	BrickD
+554324	BrickD
+554366	BrickD
+554408	BrickD
+554450	StepAD
+554472	CaveD
+554481	CaveD704
+554505	StepAUP
+554527	CaveD
+554536	CaveD702
+554560	BrickD|
+554602	BrickDx
+554644	BrickD@
+554724	BrickDD
+554842	BrickD
+554884	Xad
+554922	BrickDD
+554964	BrickD
+555006	BrickD|
+555048	BrickD
+555090	BrickD
+555132	BrickD<
+555174	BrickD
+555216	Xa@
+555292	BrickD
+555462	CaveD704 
+555556	BrickD
+555598	BrickD
+555640	BrickD
+555682	StepAU
+555704	CaveD
+555713	CaveD703
+555737	BrickD
+555779	XaK
+555797	CaveD
+555806	CaveD705
+555868	BrickD<
+555910	BrickD
+555952	BrickD
+555994	Xah
+556032	BrickD
+556074	BrickD<
+556116	BrickD
+556158	BrickD0
+556200	BrickD
+556242	BrickD
+556380	CaveD705 
+556474	BrickD
+556516	BrickD
+556558	BrickD<
+556600	StepAUP
+556622	CaveD
+556631	CaveD704
+556655	rOld
+556691	$$n0
+556697	"Zz---"
+556752	BrickD
+556794	rOld
+556880	BrickD
+556922	BrickD
+557028	Dun4001
+557306	DoorR
+557384	m1l
+557418	$$n0
+557424	LuWa got a key.
+557525	Brickh
+557714	Brick
+557792	Brick
+557833	Brick
+557874	Brick
+557915	Brick
+557956	Brick
+557997	Brick
+558038	Brick
+558079	Brick
+558120	Brick
+558161	Brick
+558202	Brick
+558243	Brick
+558284	Brick
+558325	Brickl
+558366	medH
+558405	Brick
+558446	Brick
+558487	Brick
+558528	Brick
+558569	Brick
+558610	Brickh
+558651	Brickh
+559078	Dun4002
+559356	DoorL
+559582	Brick
+559623	Brick
+559664	Brick
+559742	Brick
+559783	Brick
+559824	Brick
+559865	Brick
+559906	Brick0
+559947	Brick
+559988	Brick0
+560029	meds
+560291	DoorLX
+560480	Dun4003
+560795	DoorUX
+560836	GateX
+560856	World
+560865	WX9Y9
+561738	m1,
+561776	m14
+561814	m1p
+561852	m1X
+562058	Dun4004
+562336	DoorR
+562414	Brickh
+562566	Brick
+562607	Brick
+562648	Brick
+562689	Brick
+562730	Brick
+562771	Brick
+562812	Brick
+562853	Brick
+562894	Brick
+562935	Brick
+562976	Brick
+563017	Brick
+563058	Brick
+563099	Brick
+563140	Brickl
+563181	med
+563220	Brick
+563261	Brick
+563302	Brick
+563343	Brick
+563384	Brick
+563425	Brickh
+563466	Brickh
+563577	$$n0
+563583	LuWa got a bag of
+563602	Knife.
+563694	m14
+563732	m14
+563770	m1`
+564038	Dun4005
+564353	DoorL
+564394	DoorR
+564435	medSL
+564512	DoorDX
+564643	m1L
+564681	Brickh
+564870	Brick
+564911	Brick
+564952	Brick 
+564993	Brick
+565034	Brick
+565075	Brick
+565116	Brick
+565194	Brick
+565235	Brick
+565276	Brick
+565317	Brick
+565358	Brick 
+565399	Brick
+565440	Brick
+565481	Brick0
+565522	Brick0
+565563	Brick
+565604	Brick
+565645	Brick0
+565686	Brick
+565727	Brick
+565768	BrickX
+565809	m2t
+565885	m2|
+565961	m1|
+565999	m1D
+566037	DoorDX
+566294	Dun4006
+566572	DoorL
+566613	m1|
+566726	m18
+566950	Brickx
+567028	Brick
+567069	Brickh
+567110	Brick
+567151	BrickX
+567192	Brick
+567233	Brick
+567274	Brick
+567315	BrickH
+567356	Brick
+567397	Brick
+567438	Brick
+567479	m1X
+567513	$$n0
+567519	LuWa got the Dungeon
+567541	Map!
+567593	Brickx
+567634	Brick
+567675	Brickx
+567716	Brick8
+567757	Brick
+567798	Brick
+567839	Brick
+567880	Brick8
+567921	Brickx
+567962	Brickx
+568003	Brick8
+568044	Brickh
+568085	m14
+568123	Brick
+568164	Brick
+568409	Dun4007
+568613	DoorUX
+568654	Med0
+568813	m10
+569036	m10
+569074	DoorUX
+569203	Dun4008
+569444	DoorR
+569560	Brickh
+569786	Brickx
+569827	Brick
+569868	Brick
+569909	Brick
+569950	Brick
+569991	Brick
+570032	Brick8
+570073	Brick
+570114	Brickx
+570155	Brick
+570196	Brick
+570237	Brick
+570278	BrickD
+570319	Brick
+570360	BrickD
+570401	BrickX
+570442	BrickX
+570483	Brick
+570524	Brick
+570565	Brick
+570643	Brick8
+570684	Brickx
+570725	Brick
+570766	Brick8
+570807	Brickx
+570848	Brick
+570889	BrickX
+570910	Dun4
+570918	Dun4015
+570941	m1h
+571301	Dun4009
+571579	DoorL
+571620	DoorR
+571661	m1|
+572003	Brickx
+572044	Brickx
+572085	Brick
+572126	Brickh
+572167	BrickX
+572208	Brick
+572249	Brick
+572290	Brick
+572331	Brickx
+572372	Brick
+572413	Brick
+572454	Brickh
+572495	Brick
+572536	Brick
+572577	Brick
+572618	Brickh
+572659	Brick8
+572700	BrickH
+572741	Brick
+572782	Brick8
+572823	Brick8
+572864	Brick
+572905	BrickH
+572946	BrickH
+572987	Brick
+573028	Brick
+573069	Brick0
+573147	Brick
+573188	Brick
+573520	Dun4010
+573670	DoorL
+573711	DoorR
+574049	m1\
+574171	Dun4011
+574486	DoorL
+574527	DoorR
+574644	meds8
+574869	Brick
+574947	Brick
+574988	Brickh
+575029	BrickX
+575070	Brickh
+575111	Brick
+575152	BrickX
+575443	Dun4012
+575593	DoorL
+575634	DoorR
+575712	m1h
+575972	m1 
+576094	Dun4013
+576409	DoorL
+576450	DoorR
+576714	Brickx
+576792	Brick
+576833	Brick
+576874	Brick
+576915	Brickx
+576956	Brick
+576997	Brick
+577038	Brick
+577117	m2@
+577155	medb
+577195	meds
+577231	$$n0
+577237	LuWa got a key.
+577300	bloodb$
+577342	kbag
+577382	m2,
+577420	Brick
+577461	Brick
+577658	Dun4014
+577936	DoorR
+577977	BrickX
+578092	Brick
+578133	Brickx
+578174	Brick
+578215	Brick
+578256	Brick8
+578297	Brick|
+578338	Brickp
+578379	Brick8
+578420	Brick|
+578461	Brick
+578498	$$n0
+578504	LuWa got the GoldSilk
+578527	Armor.
+578581	Brick
+578622	Brick0
+578663	Brick
+578704	Brick0
+578745	Brick
+578786	Brick8
+578827	Brick
+579000	Dun4015
+579315	DoorDX
+579394	cateye
+579432	$$n0
+579438	LuWa got a Cateye.
+579874	Med
+579893	Dun4
+579901	Dun4008
+579924	DoorDX
+580055	DoorDX
+580827	Dun4016
+581031	DoorR
+581148	Brickh
+581337	Brick
+581378	Brickx
+581419	Brick
+581460	Brickx
+581501	Brick
+581542	Brickx
+581617	$$n0
+581623	LuWa got a bag of
+581642	Knife.
+581696	m1T
+581734	Brickx
+581775	Brickx
+581816	m2H
+581854	m24
+582054	Dun4017
+582332	DoorL
+582373	DoorR
+582452	meds
+582529	DoorDX
+582660	m1L
+582736	Brick
+582925	Brick
+582966	Brick
+583007	Brickx
+583048	Brick 
+583089	Brick
+583130	Brick8
+583171	Brick
+583212	Brickx
+583253	Brick
+583294	Brick
+583335	Brick
+583376	Brick 
+583417	Brick
+583458	Brick
+583499	Brick0
+583540	Brick0
+583581	Brick
+583622	Brick
+583663	Brick0
+583704	Brick
+583745	Brick
+583786	BrickX
+583827	Brickx
+583868	Brick
+583909	Brick
+583950	Brickx
+583991	Brick
+584032	Brick
+584111	medb
+584151	DoorDX
+584416	Dun4018
+584694	DoorL
+584735	m1@
+584773	med
+584808	$$n0
+584814	LuWa got a key.
+585099	Brick
+585140	Brick
+585181	Brick
+585222	Brick
+585263	Brick
+585304	Brick
+585345	Brick
+585386	BrickH
+585427	Brickh
+585468	BrickX
+585509	Brick
+585550	BrickX
+585591	Brickh
+585632	BrickX
+585673	Brick
+585828	m28
+585942	m1L
+586152	Dun4019
+586450	DoorU
+586491	heart
+586528	$$n0
+586534	LuWa got the Heart
+586554	of Ease.
+586766	DoorUX
+586887	Dun4020
+587128	DoorL
+587169	Brickx
+587210	med
+587249	med
+587288	med4
+587401	med
+587511	$$n0
+587517	LuWa got a piece of
+587538	Xuan Iron.
+587596	Brick
+587637	med4
+587676	med
+587715	medp
+587754	medp
+587793	medp
+587832	med
+587871	med4
+587910	med
+587949	medp
+587988	med
+588027	med
+588066	med
+588105	med
+588144	med
+588183	med
+588222	med
+588261	med4
+588488	$$n0
+588494	LuWa got a key.
+588701	Village4
+588713	V4V001
+588735	Brick
+588924	Brick
+589210	Dun4021
+589424	med
+589459	$$n0
+589465	Monster Gold locked me
+589489	here for the Ex-Jade. I
+589514	thought I would never see
+589541	my granddaughter again.
+589566	$$n0
+589572	Thank you for saving me.
+589598	see you in QingLong 
+589620	Village.
+589806	Dun6001
+590278	Brickh
+590467	Brick
+590508	Brick
+590549	Brick 
+590590	Brick
+590631	Brick
+590672	Brick
+590713	Brick
+590791	Brick
+590832	Brick
+590873	Brick
+590914	Brick
+590955	Brick 
+590996	Brick
+591037	Brick
+591078	Brick0
+591119	Brick0
+591160	Brick
+591201	Brick
+591242	Brick0
+591283	BrickX
+591304	World
+591313	WX10Y4
+591335	iKeyAp
+591372	$$n0
+591378	LuWa got a key.
+591515	DoorDX
+591594	m2|
+591824	Dun6002
+592176	DoorDX
+592255	m2X
+592478	DoorDX
+592519	mapX
+592554	$$n0
+592560	LuWa got the Dungeon
+592582	Map!
+592708	m1h
+592894	m2 
+592970	m14
+593046	m2L
+593084	m1 
+593270	Dun6003
+593568	DoorDX
+593812	DoorDX
+593853	medbig
+593895	m1,
+594015	m2h
+594091	m24
+594129	DoorDX
+594318	iIceDarth
+594486	Dun6004
+594818	Dun6
+594826	Dun6009
+594886	m1$
+595238	Dun6
+595246	Dun6017
+595286	Dun6
+595294	Dun6006
+595334	Dun6
+595342	Dun6022
+595365	DoorDX
+595406	medb
+595966	m2x
+596004	m2x
+596042	m1t
+596080	m1x
+596118	m1X
+596268	DoorDX
+596517	Dun6005
+596892	DoorR
+596970	m1p
+597008	m2$
+597120	DoorDX
+597198	DoorDX
+597239	m2l
+597506	m2D
+597544	m2@
+597658	m14
+597772	m1L
+597978	Dun6006
+598591	DoorDX
+598723	Dun6
+598731	Dun6004
+598754	DoorDX
+598945	m2 
+599021	m2 
+599097	m1p
+599358	Dun6007
+599971	DoorDX
+600345	rOld
+600381	$$n0
+600387	LuWa got a bag of
+600406	Icedart.
+600692	m2\
+600886	Dun6008
+601238	m1 
+601276	m2l
+601610	item
+601646	$$n0
+601652	LuWa got a piece of
+601673	broken heart!
+601883	m2p
+601959	m2H
+602125	Dun6009
+602440	DoorR
+602556	m2T
+602833	Dun6
+602841	Dun6004
+602938	medb
+603052	m24
+603128	m2 
+603166	m2t
+603278	m20
+603502	Dun6010
+603837	DoorL
+603915	m1h
+604139	DoorDX
+604254	medbl
+604480	m2@
+604818	Dun6011
+605170	m1,
+605575	$$n0
+605581	LuWa got a bag of
+605600	Icedart.
+605660	DoorDX
+605701	medb
+605968	m2t
+606429	Dun6012
+606781	m1l
+607116	rOld
+607152	$$n0
+607158	LuWa got the DarkSilk
+607181	Armor.
+607385	m1|
+607461	m1h
+607575	m2D
+607613	m2x
+607689	m1L
+607727	m1\
+607803	m1x
+607841	m1,
+607917	m1X
+607993	m1H
+608107	m1L
+608297	m1x
+608335	m1 
+608373	m1\
+608411	m1,
+608449	m1 
+608752	m1D
+609302	Dun6013
+609591	m2p
+609740	DoorDX
+609855	medbD
+610008	m2X
+610158	m1D
+610312	Dun6014
+610627	DoorL
+610668	medx
+611096	Dun6
+611104	Dun6020
+611127	DoorDX
+611647	Dun6015
+611935	DoorR
+612200	DoorDX
+612278	medbX
+612781	Dun6016
+613096	DoorL
+613174	DoorDX
+613215	m1l
+613664	m2p
+613702	m24
+613778	m2$
+613816	m24
+613854	m24
+613892	m2p
+613968	m2$
+614044	m2`
+614082	m24
+614120	m2$
+614158	m2$
+614234	m2p
+614272	m24
+614310	m2`
+614348	m2`
+614424	m2p
+614500	m24
+614538	m24
+614610	$$n0
+614616	LuWa got a bag of
+614635	Icedart.
+614693	m1p
+614731	m1p
+614959	m1$
+615035	m1T
+615325	Dun6017
+615640	DoorR
+615681	med
+616035	Dun6
+616043	Dun6004
+616436	m2X
+616698	Dun6018
+617050	m1h
+617088	m2p
+617422	eyeCatD
+617460	$$n0
+617466	LuWa got a Cateye.
+617866	m2|
+617942	m2D
+618172	Dun6019
+618487	med
+618824	DoorDX
+619870	Dun6020
+620185	DoorL
+620226	medX
+620302	m1X
+620340	m2@
+620580	Dun6
+620588	Dun6014
+620628	Dun6
+620636	Dun6024
+620733	DoorDX
+620922	m2X
+620960	m2X
+620998	m2p
+621036	m2@
+621218	Dun6021
+621479	DoorR
+621520	med
+621634	m2H
+621746	DoorDX
+621787	m24
+622163	Dun6022
+622451	DoorL
+622492	med
+622772	Dun6
+622780	Dun6004
+622803	DoorDX
+622844	DoorDX
+623218	m2,
+623518	Dun6023
+623833	DoorL
+623874	DoorR
+624287	medb
+624662	m2X
+624888	Dun6024
+625176	medT
+625252	m1\
+625290	m2H
+625439	DoorDX
+625497	Dun6
+625505	Dun6020
+625565	DoorDX
+626127	m2t
+626203	m2T
+626279	m2p
+626615	Dun6025
+626903	med
+626979	m1t
+627017	m20
+627203	DoorDX
+627318	m2X
+627356	m2l
+627432	m2t
+627749	Dun6026
+628362	DoorDX
+628477	itemBm
+628515	$$n0
+628521	LuWa got a bag of
+628540	IceBomb.
+629157	m24
+629485	Dun6027
+629773	DoorR
+629889	m24
+630038	DoorDX
+630079	medbh
+630267	m2l
+630343	m2h
+630749	Dun6028
+631064	DoorL
+631403	DoorDX
+631777	m2x
+631853	m2\
+632115	Dun6029
+632403	DoorR
+632625	$$n0
+632631	Ha! What a nice meal!
+632700	DoorDX
+632741	heart
+632778	$$n0
+632784	LuWa got the Heart
+632804	of Calm.
+632944	Dun6030
+633259	DoorL
+633355	Village6
+633367	V6V001
+633718	$$n0
+633724	LuWa got a piece of
+633745	Xuan Iron.
+634149	Dun5001
+634353	m2x
+634472	Brick
+634513	Brickx
+634554	Brick
+634595	Brick(
+634636	BrickX
+634657	World
+634666	WX10Y6
+634688	Map
+634723	$$n0
+634729	LuWa got the Dungeon
+634751	Map!
+634951	Brick
+634992	Brick
+635033	BrickH
+635074	Brick8
+635115	Brick
+635156	Brick
+635435	Dun5002
+635639	meds
+635754	Brick
+635795	Brickh
+635910	Brick(
+635951	Brick
+635992	Brick
+636033	Brick(
+636074	Brick
+636115	Brick
+636332	Dun5003
+636536	med
+636575	m2,
+636650	Brick
+636831	Dun5004
+637489	m2H
+637615	Dun5005
+637782	m2D
+637857	Brick(
+637898	Brick(
+638050	Brick
+638071	Dun5
+638079	Dun5009
+638102	Brick"
+638143	Brick
+638184	Brick
+638225	Brick
+638266	Brick
+638307	Brick
+638348	Brick
+638389	BrickT
+638430	BrickT
+638471	BrickT
+638512	Brick
+638553	Brick
+638594	m24
+638632	m2,
+638708	Brick
+638749	BrickF
+638790	Brickx
+638971	Dun5006
+639138	m2p
+639250	Brickx
+639291	BrickH
+639332	Brick
+639373	Brick
+639414	Brick(
+639566	hulu
+639602	$$n0
+639608	LuWa got a Bolus Hulu.
+639680	Brickx
+639721	Brick
+639762	Brick
+640025	Dun5007
+640229	med
+640248	World
+640257	WX10Y6
+640399	Brick
+640440	Brick
+640555	Brick\
+640592	$$n0
+640598	LuWa got a piece of 
+640620	Xuan Iron.
+640680	Brickh
+640721	Brick
+640762	Brick
+640803	Brick
+640844	Brick4
+640885	Brick4
+641022	Dun5008
+641337	BrickX
+641459	iHeartA0
+641498	$$n0
+641504	LuWa got the Heart
+641524	of Warm.
+641644	Dun5009
+641886	Brickh
+641927	Brick
+641968	Brick(
+642157	Brick`
+642178	Dun5
+642186	Dun5005
+642209	cave
+642245	$$n0
+642251	LuWa got a Woodcat.
+642318	Brick
+642359	BrickX
+642400	Brickx
+642441	Brickx
+642482	Brick
+642523	Brick
+642564	Brick8
+642605	Brick
+642646	Brick
+642687	Brick
+642728	Brick
+642769	Brick
+642810	Brickh
+643109	Dun5010
+643313	m2h
+643573	rOldX
+643609	$$n0
+643615	LuWa got a Wine Hulu.
+643638	It smells good!
+643703	Brick
+643744	Brick
+643785	BrickX
+643826	BrickX
+643867	Brick
+643908	BrickH
+643949	Brick
+643990	Brick
+644031	BrickX
+644072	Brick
+644113	Brick
+644154	Brick
+644195	Brick
+644236	Brick
+644277	BrickX
+644318	Brickh
+644840	m2H
+644878	Brickh
+644919	Brick
+644997	m2h
+645035	m2H
+645453	Dun5011
+645620	m2|
+645806	BrickX
+645884	m2|
+645922	m2|
+645960	m2\
+645998	m2\
+646036	m2\
+646074	m2,
+646112	m2,
+646284	Dun5012
+646488	Brick
+646529	Brick
+646570	Brick(
+646722	BrickX
+646763	Brick
+646804	BrickX
+646845	Brick
+647134	Dun5013
+647264	m2T
+647420	Brick
+647461	Brick
+647502	Brick
+647691	BrickX
+647732	BrickH
+647773	Brick
+647814	Brick
+647855	Brick
+647934	m2X
+648114	Dun5014
+648356	Brick
+648397	Brick
+648662	m28
+648780	Dun5015
+649140	Brick
+649181	Brick
+649333	Bomb
+649369	$$n0
+649375	LuWa got a bag of
+649394	DirtBomb.
+649451	BrickH
+649530	m2\
+649568	m2$
+649698	Dun5016
+650014	Brick
+650055	Brick
+650096	BrickX
+650137	Brick
+650326	BrickX
+650367	knifebag
+650407	$$n0
+650413	LuWa got a bag of
+650432	Knife.
+650486	Brick
+650527	BrickH
+650716	m24
+650754	m2L
+650792	m2$
+651000	Dun5017
+651130	med
+651330	Dun5018
+651608	Brick(
+651649	Brick
+651838	rOld
+651874	$$n0
+651880	LuWa got a bag of
+651899	Knife.
+651955	Brickh
+651996	Brick
+652037	Brick
+652078	Brick
+652119	BrickX
+652506	Dun5019
+652785	Brick
+652826	Brick
+652867	Brick
+653056	Brick
+653208	m2,
+653426	Dun5020
+653667	Brick
+653708	Brickh
+653749	Brick
+653938	Brick
+654165	m2h
+654241	m2@
+654387	Dun5021
+654628	Brickh
+654669	Brick
+654710	Brick
+654899	BrickH
+654940	LadderH
+654978	$$n0
+654984	LuWa got the Floating
+655007	Ladder!
+655395	m2x
+655547	Ladder
+655893	V5Hs001
+656060	doorT
+656080	Village5
+656092	V5V001
+656151	boy
+656186	$$n0
+656192	My Master lost his most
+656217	treasured Wine Hulu.
+656239	He is too upset to talk
+656264	to you.
+656315	$$n0
+656321	The little red bats in
+656345	cave are afraid of flying
+656372	knives. One knife followed
+656400	immediately by sword will
+656427	beat it.
+656485	BenchX
+656526	Bench
+656567	Bench
+656608	Bench
+656649	Lamp
+656689	Bench
+656878	BenchF
+656919	BenchF
+656960	BedA
+657000	Benchh
+657078	BenchD
+657119	Bench:
+657160	Bench_
+657201	Bench
+657242	Lamp
+657282	Lamp
+657396	boy
+657431	$$n0
+657437	Don't bother me! Go
+657458	away!
+657515	Okay
+657523	$$n0
+657529	I am so fond of you!
+657551	I will teach you the
+657573	magnificent Run Magic!
+657597	$$n0
+657603	Like this, keep running
+657628	and running and suddenly
+657654	wave your sword!
+657672	$$n0
+657678	This magic can not only
+657703	kill enemies efficiently,
+657730	but also jump onto low 
+657755	walls.
+657763	$$h0
+657769	LuWa learned Run Magic.
+657826	No3
+657832	$$n0
+657838	Dear son, I will trade
+657862	nice things with you.
+657907	$$n0
+657913	Aha, you've found my
+657935	Wine Hulu! Give it to
+657958	me now!
+658013	$$n0
+658019	Nice wine! Do you want
+658043	some?
+658242	V5Hs0020
+658372	ChairY
+658413	Boy@
+658448	$$n0
+658454	It is said that there
+658477	are countless treasure
+658501	in the far desert.
+658567	Chair
+658608	Bench
+658649	SepA
+658743	Village5
+658755	V5V001
+658999	ShellC
+659078	Bench(
+659119	ShellC2
+659161	BedP
+659311	ShellC
+659353	ShellC
+659395	ShellC
+659437	Bench
+659478	Bench-
+659519	Bench(
+659560	Bench+
+659601	Benchx
+659642	Chair
+659683	Chair
+659724	Chair
+659765	Chair
+659806	Chair
+659847	Hero
+659883	$$n0
+659889	Ordinary people cannot
+659913	sustain the heat of the 
+659939	desert.  It will be 
+659961	very dangerous to enter
+659986	the maze.
+660080	Bed
+660193	Table
+660234	Table
+660553	V5Hs003
+660683	BedA
+660723	Bench:
+660764	Bench"
+660805	Table1
+660890	Bench(
+661140	Village5
+661152	V5V001
+661285	Bench,
+661511	Bench
+661552	Bench
+661593	Bench
+661634	Table:
+661719	Benchh
+661760	Bench
+661801	Bench
+661842	Table
+661927	Table:
+662012	TableY
+662097	BedAn
+662137	BedA
+662177	BedA
+662217	BenchA
+662258	Bench2
+662567	girlx
+662603	$$n0
+662609	Zzzz...
+662662	$$n0
+662668	What a strange dream.
+662691	$$n0
+662697	It seems I met you 
+662718	before.  Who are you?
+662785	$$n0
+662791	Nice to see you.
+662857	npc
+662892	$$n2
+662898	Whoever eliminates the
+662922	ghost will get my best
+662946	treasure.
+663007	1000 coins
+663021	$$h0
+663027	LuWa got 1000 coins.
+663079	Warm Ball
+663092	$$h0
+663098	LuWa got the Warm Ball.
+663145	$$n1
+663151	You saved my granddaughter.
+663180	How should I thank you?
+663205	$$n0
+663211	I have two gifts here. 
+663236	Please make your choice.
+663314	Yes
+663321	$$n0
+663327	Good.
+663364	Noi
+663370	$$n0
+663376	Let me change 1000 coins
+663402	to the Warm Ball.
+663421	$$h0
+663427	LuWa returned 1000 coins
+663453	and got the Warm ball.
+663499	$$n0
+663505	Are you satisfied with
+663529	my gift?
+663583	$$n1
+663589	You are always welcome
+663613	here.
+663668	BedA
+663708	BedA
+663748	Bench
+663789	Bench
+663830	Bench
+664091	V5Hs004
+664258	doorT
+664278	Village5
+664290	V5V001
+664312	BedN
+664351	Chairh
+664392	Table
+664618	TableA
+664659	Table
+664700	Chair,
+664889	TreeA
+664926	$$n0
+664932	My ShiFu once told me
+664955	"Left when east, right
+664979	when left".  What on
+665001	earth does it mean?
+665068	Chair
+665109	Chair
+665150	Chair
+665191	Chair
+665232	Chair
+665273	Chair
+665314	Chair
+665355	ChairS
+665396	Chair:
+665437	Chairm
+665478	ShellC#
+665520	ShellC#
+665714	V5HsHotel 
+665846	Bed
+665885	Bed
+665924	Bench
+665965	BenchK
+666006	Bed
+666045	BedSLeep
+666089	Bench
+666130	Bed
+666297	Village5
+666309	V5V001
+666553	Bench
+666594	Bed
+666818	Bench
+666970	Bench?
+667011	BenchP
+667052	Bench
+667093	Bench
+667134	Bench
+667175	npcF
+667214	npc
+667253	npcd
+667292	Benchn
+667518	npcl
+667561	Buy torches
+667576	$$n0
+667582	Thanks.
+667621	Leave
+667630	$$n0
+667636	What a pity.
+667672	$$n0
+667678	Do you want torches?
+667700	One for only 10 coins.
+667770	npcT
+667809	npcm
+667848	npcc
+667887	npcr
+667926	npcK
+667965	npcT
+668004	npc
+668043	Bench
+668084	Bench
+668125	Benchl
+668166	BenchD
+668207	Bench<
+668248	Benchn
+668289	Bench
+668330	BenchZ
+668371	Bench
+668412	Bench|
+668453	Bench
+668494	Bench
+668535	Bench
+668576	Bench
+668617	Bench
+668658	Bench
+668699	Bench
+668740	npcx
+668783	Yes
+668790	$$n0
+668796	Thank you.
+668838	Leave1
+668847	$$n0
+668853	No Problem.  Come again
+668878	whenever you want.
+668920	$$n0
+668926	20 coins for a full
+668947	rest.
+669000	Bench
+669041	Bench
+669082	Bench
+669123	Bench
+669488	V5HsMed
+669692	doorh
+669712	Village5
+669724	V5V001
+669746	Bench]
+669787	counterAq
+669831	counterA
+669875	BottleC
+669918	Bench
+669959	Bench
+670000	BenchT
+670041	ShellC
+670238	Bench2
+670316	ShellC&
+670395	Bench
+670547	dr6
+670585	Bench#
+670737	ShellC
+670779	ShellC
+670821	ShellC
+670907	ShellC
+670993	ShellC
+671079	BenchZ
+671120	Bench
+671161	Bench
+671202	Bench(
+671243	Bench,
+671284	Bench2
+671325	oldh
+671364	ShellC
+671450	ShellC
+671536	ShellC
+671622	BottleC
+671665	docD
+671708	Med Bolus, $10 each
+671731	$$n0
+671737	Thank you.
+671779	Big Med Bolus, $30 each
+671806	$$n0
+671812	Thank you.
+671854	Leave
+671863	$$n0
+671869	What a pity.
+671905	$$n0
+671911	Boluses keep you safe.
+672189	V5HsWeap
+672320	BedAi
+672360	Bench
+672401	ShellF
+672486	Benchd
+672527	Shell
+672612	Bench
+672653	BedA
+672821	Village5
+672833	V5V001
+673299	Bench
+673340	BenchK
+673381	BenchK
+673422	Bench
+673463	Bench
+673504	Bench
+673545	Bench]
+673586	Bench
+673627	Bench
+673668	Bench
+673709	Bench^
+673750	Bench&
+673791	Bench
+673832	Bench
+673873	Bench
+673914	Shell
+673999	Bench
+674040	npc
+674083	10 darts for $10
+674103	$$n0
+674109	Thank you.
+674151	10 arrows for $10
+674172	$$n0
+674178	Thank you.
+674220	Leave
+674229	$$n0
+674235	What a pity.
+674271	$$n0
+674277	Need more bullets?
+674353	10 darts for $10
+674373	$$n0
+674379	Thank you.
+674421	10 arrows for $10
+674442	$$n0
+674448	Thank you.
+674490	10 knives for $20
+674511	$$n0
+674517	Thank you.
+674559	Leave
+674568	$$n0
+674574	What a pity.
+674610	$$n0
+674616	Need more bullets?
+674684	Bench'
+674725	Bench
+674766	Bench?
+674807	Bench
+675060	V5V001@
+675152	door
+675172	World
+675181	WX10Y9
+675203	House4
+675225	Village5
+675237	V5HsMed
+675260	House2
+675282	Village5
+675294	V5Hs002
+675317	House3
+675339	Village5
+675351	V5HsHotel
+675376	House1
+675398	Village5
+675410	V5Hs001
+675433	Road
+675473	Name
+675509	$$n0
+675515	Jimmy Village
+675578	House6
+675600	Village5
+675612	V5HsWeap
+675636	boy
+675671	$$n0
+675677	My foot got burned
+675697	last time I went to
+675718	play in the desert.
+675785	Road
+675825	TreesD
+675867	TreesDp
+675909	Road
+675949	TreesD8
+675991	TreesD@
+676033	TreesD
+676119	TreesD8
+676161	ggogo
+676214	TreesD
+676256	House1
+676278	Village5
+676290	V5Hs003
+676313	TreesD
+676355	TreesD
+676397	TreesD(
+676439	TreesD
+676481	Road8
+676521	House1x
+676543	Village5
+676555	V5Hs004
+676578	Roadx
+676618	bushl
+676659	bushl
+676700	TreesDX
+676742	TreesDH
+676784	TreesDH
+676826	TreesD
+676868	TreesD
+676910	TreesDX
+676952	TreesDH
+676994	TreesD
+677036	TreesDX
+677078	TreesD
+677120	TreesD
+677162	TreesD
+677204	TreesD
+677246	TreesD
+677288	TreesD
+677330	TreesDX
+677372	TreesD
+677414	TreesD
+677456	TreesD
+677498	TreesD
+677540	TreesD
+677582	TreesD8
+677624	TreesD8
+677666	TreesD
+677708	TreesD
+677750	TreesD
+677792	TreesD
+677834	TreesD
+677876	Road(
+677916	Road
+677956	Road
+677996	Road
+678036	TreesD
+678078	TreesD
+678120	Road
+678160	TreesD
+678202	TreesD
+678244	bushlt
+678285	TreesD8
+678327	TreesDP
+678369	TreesD
+678411	TreesD
+678453	TreesD
+678495	TreesD
+678537	TreesDP
+678579	bushlv
+678620	bushl
+678661	bushlP
+678702	TreesD:
+678744	TreesD
+678786	TreesD
+678828	TreesDx
+678870	TreesD(
+678912	TreesDx
+678954	TreesD
+678996	TreesDX
+679038	TreesDx
+679080	TreesD(
+679122	TreesDx
+679164	TreesD
+679206	TreesD<
+679248	TreesD
+679290	TreesD
+679332	TreesD
+679374	TreesDx
+679416	TreesD(
+679458	TreesD(
+679500	TreesD
+679542	TreesD
+679584	TreesD
+679626	TreesDh
+679668	bushl(
+679709	TreesD
+679751	TreesD<
+679793	TreesD
+679835	TreesD
+679877	TreesD
+679919	bushl
+679960	TreesD@
+680002	bushl
+680043	bushl
+680084	bushl
+680125	TreesD
+680167	TreesD
+680209	TreesD@
+680251	TreesD,
+680293	bushl
+680334	bushl8
+680375	TreesDH
+680417	TreesD\
+680459	TreesD4
+680501	bushl
+680542	bushl
+680583	TreesD,
+680625	TreesD
+680667	TreesD@
+680709	TreesD
+680751	TreesD
+680793	TreesD
+680835	TreesD
+680877	TreesD
+680919	bushl
+680960	bushlx
+681001	bushl
+681042	TreesD8
+681084	TreesD
+681126	TreesD
+681168	TreesD
+681210	TreesD
+681252	TreesD
+681294	bushl
+681335	bushl
+681376	TreesD
+681418	TreesD(
+681460	TreesD4
+681502	TreesD 
+681544	bushl
+681585	bushl
+681626	bushl
+681667	bushl
+681708	bushl
+681749	bushlx
+681790	bushl
+681831	bushl
+681872	bushl
+681913	bushlP
+681954	bushl
+681995	bushl
+682036	bushlL
+682077	TreesD
+682119	TreesD
+682161	TreesD
+682203	TreesD
+682245	TreesD
+682287	TreesD
+682329	npc\
+682364	$$n0
+682370	The elder's house has
+682393	a ghost and his grand-
+682417	daughter is haunted.
+682481	$$n0
+682487	I cannot believe a young
+682513	man like you can catch
+682537	ghosts!
+683278	V6Hs001
+683371	urS
+683483	door@
+683503	Village6
+683515	V6V001
+683537	BenchS
+683578	Bed2
+683617	ShellC
+683659	Chair:
+683700	Table
+683741	Bench
+684263	ChairX
+684378	Bench
+684567	Table
+684608	Table
+684649	Chair
+684690	Chair\
+684731	ShellC(
+684773	ShellC-
+684815	ShellC(
+684857	ShellC
+684899	ShellC*
+684941	ShellC
+684983	ShellC
+685025	ShellC
+685101	$$n0
+685107	I believe we are having
+685132	the coldest winter since
+685158	I was born.
+685171	$$n0
+685177	A year ago, a man from south
+685207	came here to hide from his
+685235	enemy. It was in here that
+685263	he ever see snow.
+685282	$$n0
+685288	I have not seen him
+685309	for quite a while. 
+685330	Cold as this year, I
+685352	am afraid he'll freeze
+685376	to death.
+685467	$$n0
+685473	There are three KongFu
+685497	masters in our village.
+685522	$$n0
+685528	I want to be their
+685548	student, but they don't
+685573	accept me.  Why don't
+685596	you try your luck?
+685912	V6Hs002
+686042	Bench:
+686174	Village6
+686186	V6V001
+686393	Bench
+686471	Bench
+686512	Bench
+686553	Table:
+686638	Benchh
+686679	Bench
+686720	Bench
+686761	Table
+686846	Table:
+686931	TableY
+687016	BedA
+687056	BedA
+687096	BedA
+687136	Bench(
+687177	bluex
+687213	$$n0
+687219	Only with magical power,
+687245	can one break the ice
+687268	hill.
+687317	$$n0
+687323	You are really somebody.
+687349	But with your KongFu at
+687374	this level, you cannot
+687398	defeat Monster Water.
+687465	$$n0
+687471	I will check how smart
+687495	you are. There're seven
+687520	boys in the room behind.
+687546	One of them will give
+687569	you a gold flower.
+687589	$$n0
+687595	But if you hit any other
+687621	boy, you are dead!
+687685	$$n0
+687691	You will pay your life
+687715	as the price of no
+687735	thinking.
+687796	Give him the Gold Flower
+687824	$$n0
+687830	You must learn to fly
+687853	Icedart in order to 
+687875	defeat Monster Water.
+687898	Let me show you!
+687916	$$h0
+687922	LuWa learned to fly
+687943	Icedart and got a bag
+687966	of Icedart.
+688011	No&
+688017	$$n0
+688023	You won't defeat
+688041	Monster Water!
+688079	$$n0
+688085	Got the Gold Flower?
+688107	Good. Give it to me.
+688173	$$n0
+688179	Go ahead now!
+688242	green
+688279	$$n0
+688285	We three brothers tried
+688310	different methods to
+688332	remove the ice hill.
+688432	$$n0
+688438	Silver Village owes you
+688463	a lot.
+688471	$$n0
+688477	If you prove that you have
+688505	courage to fight with
+688528	Monster Water, we can teach
+688557	you the strongest KongFu.
+688664	$$n0
+688670	My elder brother teaches
+688696	you the best of his
+688717	KongFu.
+688726	$$n0
+688732	You have to show me
+688753	your ability to learn
+688776	from me.
+688786	$$n0
+688792	Go to fight with the
+688814	Invisible. There is
+688835	a big jar in the 
+688854	kitchen. The Invisible
+688878	is in the cave below.
+688945	$$n0
+688951	Good. I will teach you
+688975	the Blood Magic.
+688993	$$n0
+688999	This Magic uses some of
+689024	your blood, but it will
+689049	end all small monsters
+689073	nearby.
+689082	$$h0
+689088	LuWa learned Blood
+689108	Magic.
+689160	$$n0
+689166	You should be careful
+689189	when using Blood Magic
+689213	and do not use it too
+689236	much.
+689291	red
+689326	$$n0
+689332	The ice hill blocked
+689354	the road to south, 
+689375	which bothers three
+689396	of us for a long time.
+689462	$$n0
+689468	You have opened the
+689489	road.  But there are
+689511	Monster Water and his
+689534	heelers. I don't think
+689558	the villagers dare to
+689581	go south.
+689636	$$n0
+689642	There is a special
+689662	woman living in North
+689685	mountains. She makes
+689707	unique medicines.
+689726	$$n0
+689732	If you can ask a Green
+689756	Bolus from her, I will
+689780	teach you a special
+689801	KongFu.
+689854	$$n0
+689860	It may not easy to
+689880	ask her, because no
+689901	one really knows her.
+689974	Yes
+689981	$$n0
+689987	My brother's wound should
+690014	be cured by this magic bolus.
+690045	As a reward, I will teach
+690072	you Recover Dao.
+690090	$$n0
+690096	Your breath recovers
+690118	very rapidly when you
+690141	learned Recover Dao.
+690163	$$h0
+690169	LuWa learned Recover
+690191	Dao.
+690229	No#
+690235	$$n0
+690241	You should be more
+690261	generous.
+690294	$$n0
+690300	You've got Green Bolus?
+690325	Great! Can you give it
+690349	to me?
+690403	$$n0
+690409	Young man is more capable
+690436	than our old guys.
+690504	Bench
+690525	CaveF
+690534	CaveF201
+690604	Bench2
+690625	Village6
+690637	V6Hs003
+690780	Bench2
+690911	Bench
+690952	Bench
+690993	Bench
+691206	V6Hs003 
+691411	door2
+691431	Village6
+691443	V6Hs002
+691586	rboyd|
+691623	$$n0
+691629	My good friend!  I 
+691650	will give you a Gold
+691672	Flower.
+691681	$$n2
+691687	LuWa got the Gold
+691706	Flower.
+691757	$$n0
+691763	Hi! Why are you hanging
+691788	around this dangerous place?
+692086	StepAD|
+692128	StepAD|
+692170	StepAD|
+692212	StepAD|
+692254	StepAD|
+692296	StepAD|
+692442	V6Hs004
+692572	BedA
+692612	Bench:
+692653	Bench'
+692694	Table6
+692779	Benchr
+692820	Bench
+693063	Village6
+693075	V6V001
+693282	Bench,
+693508	Bench
+693586	Bench
+693627	Bench
+693668	Bench
+693709	Table:
+693794	Benchh
+693835	Bench
+693876	Bench
+693917	Table
+694002	Table:
+694087	TableY
+694172	BedAn
+694212	BedA
+694252	BedA
+694292	BenchA
+694333	Benchn
+694374	old
+694409	$$n0
+694415	The ice hill made all
+694438	villagers upset.  We 
+694461	are going to put an
+694482	advertisement that
+694502	anyone who gets rid
+694523	of the ill hill may 
+694545	have the treasure
+694564	of the village.
+694623	$$n0
+694629	You may have the Dark
+694652	-Silk Armor as the 
+694673	reward for breaking
+694694	the ice hill.
+694709	$$n0
+694715	But...The DarkSilk
+694735	Armor was stolen some
+694758	time ago...How to 
+694778	solve this problem?
+694799	$$n0
+694805	Let's put it this 
+694825	way: if you ever find
+694848	the DarkSilk Armor,
+694869	it will be yours.
+694932	$$n0
+694938	Oh, you found the
+694957	DarkSilk Armor!  We
+694978	Silver Villagers 
+694997	really keep our
+695014	promises, don't we?
+695120	BedA
+695197	Bench
+695238	BedA
+695278	BedA
+695318	BedA
+695358	BedA
+695626	V6HsHotel 
+695758	Bed
+695797	Bed
+695836	Bench
+695877	BenchK
+695918	Bed
+695957	BedSLeep
+696001	Bench
+696042	Bed
+696209	Village6
+696221	V6V001
+696465	Bench
+696506	Bed
+696730	Bench
+696882	Bench?
+696923	BenchP
+696964	Bench
+697005	Bench
+697046	Bench
+697087	npcF
+697126	npc
+697165	npcd
+697204	Benchn
+697430	npcT
+697469	npcm
+697508	npcc
+697547	npcr
+697586	npcK
+697625	npcT
+697664	npc
+697703	Bench
+697744	Bench
+697785	Benchl
+697826	BenchD
+697867	Bench<
+697908	Benchn
+697949	Bench
+697990	BenchZ
+698031	Bench
+698072	Bench|
+698113	Bench
+698154	Bench
+698195	Bench
+698236	Bench
+698277	Bench
+698318	Bench
+698359	npc
+698402	Yes
+698409	$$n0
+698415	Thank you.
+698457	Leave+
+698466	$$n0
+698472	No problem. You are
+698493	welcome anytime.
+698533	$$n0
+698539	Have a rest for 20
+698559	coins?
+698913	V6HsMed
+699080	doorh
+699100	Village6
+699112	V6V001
+699134	Bed
+699173	SepA
+699213	Chaird
+699254	Bed
+699293	BedF
+699332	Bottle|
+699374	Bottle
+699416	jarh
+699455	Chair
+699496	Chair
+699537	Chair
+699578	Chair(
+699619	Chair
+699660	Chair
+699701	Chair
+699742	Chair
+699783	Chair
+699824	Chair
+699865	Chair
+699906	SepA
+699946	old(
+699985	old7
+700024	old(
+700063	old;
+700102	oldA
+700141	old(
+700180	old(
+700219	Bottle
+700261	Bottle5
+700303	Bottle!
+700345	BottleI
+700387	SepA.
+700427	jar
+700466	jar
+700505	jar
+700544	jar
+700583	jarB
+700622	jar
+700661	jar+
+700848	Chair
+700889	Chair
+700930	Chair
+700971	docd
+701014	Med Bolus, $10 each
+701037	$$n0
+701043	Thank you.
+701085	Big Med Bolus, $30 each
+701112	$$n0
+701118	Thank you.
+701160	Leave
+701169	$$n0
+701175	What a pity.
+701211	$$n0
+701217	Boluses keep you safe.
+701515	V6HsWeap
+701683	door
+701703	Village6
+701715	V6V001
+701737	Bench
+701926	ShellC
+701968	Table
+702009	Chair-
+702050	Chair
+702091	Chair
+702132	Chaird
+702173	Chair
+702214	jar#
+702253	Chair
+702294	Boy
+702337	10 knives for $20
+702358	$$n0
+702364	Thank you.
+702406	10 arrows for $10
+702427	$$n0
+702433	Thank you.
+702475	Leave
+702484	$$n0
+702490	Bye.
+702518	$$n0
+702524	Have some bullets.
+702600	10 arrows for $10
+702621	$$n0
+702627	Thank you.
+702669	10 knives for $20
+702690	$$n0
+702696	Thank you.
+702738	10 icedarts for $30
+702761	$$n0
+702767	Thank you.
+702809	Leave
+702818	$$n0
+702824	Bye.
+702852	$$n0
+702858	Have some bullets.
+702969	Chair;
+703010	jar
+703161	V6V001@
+703253	bushu(
+703294	bushl(
+703335	Tree
+703375	bushd2
+703417	door8
+703437	World
+703446	WX10Y2
+703468	House1h
+703490	Village6
+703502	V6Hs001
+703525	Road
+703565	Roadh
+703605	npc
+703640	$$n0
+703646	No one went to south
+703668	ever since the big ice
+703692	hill dropped from sky
+703715	last year.
+703769	$$n0
+703775	You have done a 
+703793	wonderful thing
+703810	for us.
+703867	TreesDT
+703909	TreesD
+703951	Road$
+703991	Roadh
+704031	TreesD
+704073	TreesD
+704115	TreesD
+704157	TreesDd
+704199	TreesD
+704241	TreesDx
+704283	TreesD
+704325	TreesD4
+704367	TreesD 
+704409	TreesD
+704451	TreesD
+704493	TreesD
+704535	TreesD
+704577	TreesD
+704619	TreesD<
+704661	TreesD
+704703	TreesD
+704745	TreesDn
+704787	TreesDP
+704829	TreesD
+704871	TreesD
+704913	TreesD
+704955	TreesD@
+704997	TreesD
+705039	TreesDx
+705081	TreesDx
+705123	TreesDd
+705165	TreesD
+705207	TreesD
+705249	TreesD
+705291	TreesD
+705333	TreesDx
+705375	TreesD
+705417	TreesD
+705459	TreesDp
+705501	TreesD
+705543	TreesD
+705585	TreesDd
+705627	TreesDd
+705669	TreesD
+705711	TreesD
+705753	TreesDd
+705795	TreesD
+705837	TreesD
+705879	TreesD
+705921	TreesD
+705963	TreesD
+706005	TreesDl
+706047	ge,gege
+706102	TreesD
+706144	TreesD
+706186	TreesD
+706228	TreesD
+706270	TreesD
+706312	TreesD
+706354	TreesD
+706396	House1$
+706418	Village6
+706430	V6HsMed
+706453	House1
+706475	Village6
+706487	V6Hs002
+706510	TreesD
+706548	$$n0
+706554	Silver Village
+706616	bushu<
+706637	Village6
+706649	V6HsHotel
+706674	Road<
+706714	Road,
+706754	Road
+706811	Dun6
+706819	Dun6030
+706888	House1
+706910	Village6
+706922	V6HsWeap
+706946	House1l
+706968	Village6
+706980	V6Hs004
+707003	TreesD
+707045	bushd2x
+707087	TreesDL
+707129	TreesD
+707171	bushd2
+707573	CaveF101 
+707667	BrickD
+707709	BrickD
+707751	BrickD
+707793	BrickD
+707835	StepAD
+707857	World
+707866	WX12Y2
+707888	StepAD
+707910	CaveF
+707919	CaveF102
+707943	BrickD
+708041	CaveF102 
+708135	BrickD
+708177	BrickD
+708219	BrickD
+708261	StepAD
+708283	CaveF
+708292	CaveF101
+708316	BrickD<
+708358	BrickD<
+708400	BrickD<
+708442	BrickD
+708518	$$n0
+708524	It is too cold! The
+708545	Fire Sword does not
+708566	help much. I would
+708586	definitely trade it
+708607	for warmness!
+708672	Trade WarmBall with Fire Sword4
+708706	$$n0
+708712	It is so warm!
+708728	$$h0
+708734	LuWs got the Fire Sword.
+708792	Leave
+708801	$$n0
+708807	You will come back!
+708850	$$n0
+708856	Damn, it's too cold!
+708878	The Fire Sword has 
+708899	little help. Ah, it
+708920	is a lot warmer after
+708943	you came in.
+708957	$$n0
+708963	Would you like to trade
+708988	your precious stone with
+709014	my sword which can master
+709041	fire?
+709092	$$n0
+709098	Good, it is warm now.
+709171	BrickD
+709213	BrickD
+709255	BrickD
+709297	BrickD
+709419	CaveF201 
+709513	BrickD
+709555	BrickD
+709597	BrickD
+709639	StepAD
+709661	Village6
+709673	V6Hs002
+709778	BrickD
+709872	CaveF301 
+709976	BrickD
+710018	BrickD
+710060	BrickD
+710102	StepAD
+710124	World
+710133	WX11Y4
+710155	BrickD
+710197	BrickD
+710239	BrickD
+710281	BrickDP
+710323	BrickD<
+710365	BrickD,
+710479	CaveF401 
+710573	BrickD
+710615	BrickD
+710657	BrickD
+710699	StepAD
+710721	World
+710730	WX12Y3
+710752	BrickD
+710794	BrickDx
+710836	BrickD
+710878	BrickD
+710920	BrickD@
+710962	BrickDP
+711004	BrickD
+711046	BrickDX
+711088	BrickD
+711130	BrickDh
+711172	BrickD<
+711214	BrickD
+711256	BrickDD
+711298	BrickD
+711340	BrickD
+711382	BrickD
+711424	BrickD
+711466	BrickD
+711624	CaveF501 
+711718	BrickD
+711760	BrickD
+711802	BrickD
+711844	StepADP
+711866	World
+711875	WX9Y3
+711896	BrickD
+711938	StepAD
+711976	$$n0
+711982	LuWa got a bag of
+712001	IceBomb.
+712057	BrickDd
+712099	BrickDh
+712141	BrickDh
+712183	BrickDh
+712225	BrickDh
+712267	BrickD
+712309	BrickD|
+712351	BrickD
+712477	CaveF601 
+712571	BrickD
+712613	BrickD
+712655	BrickD
+712697	StepAD
+712719	World
+712728	WX9Y4
+712749	BrickD
+712791	BrickD
+712833	BrickD
+712875	BrickD
+712917	BrickDT
+712959	BrickD
+713001	BrickD0
+713043	BrickD
+713085	rOld
+713121	$$n0
+713127	LuWa got a bag of
+713146	IceDart.
+713206	rOld
+713330	CaveF701 
+713424	BrickD
+713466	BrickD
+713508	BrickD
+713550	StepADP
+713572	World
+713581	WX8Y2
+713602	BrickD
+713644	BrickD<
+713686	BrickD
+713728	BrickD
+713770	BrickD
+713812	BrickD
+713850	$$n0
+713856	LuWa got a key.
+713919	StepAD
+713941	World
+713950	WX9Y2
+713971	BrickD<
+714013	StepAD
+714035	CaveF
+714044	CaveF702
+714068	BrickD
+714110	BrickDB
+714152	BrickD
+714321	BrickDj
+714363	BrickD
+714509	CaveF702 
+714603	BrickD
+714645	BrickD
+714687	BrickD
+714729	StepAD
+714751	CaveF
+714760	CaveF701
+714784	BrickD
+714826	BrickDx
+714868	BrickD
+714910	BrickD
+714952	BrickD
+714994	BrickD@
+715036	BrickD,
+715078	BrickD'
+715120	BrickD
+715162	BrickD
+715204	BrickD
+715246	BrickD
+715288	BrickD0
+715330	BrickD
+715372	BrickD
+715414	BrickD
+715456	BrickD
+715498	BrickD
+715540	BrickD|
+715582	BrickDh
+715624	BrickD
+715666	BrickD
+715708	BrickD
+715750	BrickD
+715792	BrickD
+715834	BrickD
+715876	BrickD1
+715918	BrickD
+715960	BrickDO
+716002	BrickD
+716044	BrickD
+716086	BrickD0
+716128	BrickD
+716170	BrickDr
+716212	BrickDr
+716254	BrickD
+716296	BrickD
+716371	$$n0
+716377	LuWa got a Bolus Hulu.
+716643	CaveC101 
+716737	BrickD
+716779	BrickD
+716821	BrickD
+716863	BrickD
+716905	StepAD
+716927	CaveC
+716936	CaveC102
+716960	StepAUd
+716982	World
+716991	WX2Y8
+717012	BrickD
+717054	BrickD
+717096	BrickD
+717138	BrickD,
+717180	BrickD
+717222	BrickD|
+717264	BrickD
+717306	BrickD
+717348	BrickD
+717428	Xad
+717646	CaveC102 
+717740	BrickD
+717782	BrickD
+717824	BrickD
+717866	StepAU
+717888	CaveC
+717897	CaveC101
+717959	BrickD
+718001	BrickD
+718043	Cateyeh
+718081	$$n0
+718087	LuWa got a CatEye.
+718213	CaveC201 
+718307	BrickD
+718349	BrickD
+718391	BrickD
+718433	StepAUP
+718455	World
+718464	WX1Y7
+718485	BrickD
+718527	BrickD
+718569	BrickD
+718611	BrickD
+718653	BrickD
+718695	BrickD
+718737	BrickD,
+718779	BrickD|
+718821	BrickD
+718863	BrickD
+718905	BrickD
+718943	$$h0
+718949	LuWa got a bag of
+718968	DirtBomb.
+719025	BrickD
+719067	BrickD
+719109	BrickDD
+719151	BrickD
+719193	BrickD,
+719235	BrickD
+719277	medsD
+719433	CaveC301 
+719527	BrickD
+719569	BrickD
+719611	BrickD
+719653	BrickD
+719695	StepAUd
+719717	World
+719726	WX3Y6
+719747	BrickD
+719789	BrickD
+719831	BrickD
+719873	BrickD0
+720137	$$n0
+720143	LuWa got a Bolus Hulu.
+720297	CaveC401 
+720391	BrickD
+720433	BrickD
+720475	BrickD
+720517	StepAU
+720539	World
+720548	WX4Y8
+720569	BrickD
+720611	BrickD
+720653	BrickD
+720695	BrickD
+720737	BrickD
+720779	BrickD,
+720821	BrickD
+720863	BrickD,
+720905	BrickDT
+720947	BrickD
+720989	BrickD
+721031	BrickD
+721073	BrickD
+721115	BrickD
+721157	BrickD
+721199	BrickD
+721241	BrickD
+721283	BrickD
+721325	BrickDD
+721367	BrickDD
+721533	CaveC501 
+721627	BrickD
+721669	BrickD
+721711	BrickD
+721753	StepAU
+721775	World
+721784	WX3Y8
+721805	BrickD
+721847	BrickD
+721889	BrickD
+721931	BrickD<
+721973	BrickD
+722015	BrickD
+722057	BrickD,
+722099	BrickD
+722141	BrickD
+722183	BrickD
+722225	BrickDD
+722267	BrickDx
+722309	BrickD
+722351	BrickDD
+722393	BrickD
+722435	BrickD
+722477	BrickD
+722631	CaveC601 
+722725	BrickD
+722767	BrickD
+722809	BrickD
+722851	StepAU
+722873	World
+722882	WX5Y6
+722903	BrickD
+722945	BrickDl
+722987	BrickD<
+723029	BrickD<
+723071	BrickD
+723113	BrickD
+723155	BrickD,
+723197	BrickD,
+723239	BrickDl
+723357	g3x
+723547	rat
+723586	rat
+723625	rat
+723664	rat
+723703	rat
+723742	ratD
+723781	ratl
+723956	CaveE101 
+724050	BrickD
+724092	BrickD
+724134	StepAU
+724156	World
+724165	WX10Y6
+724187	BrickD
+724229	BrickD
+724271	BrickD
+724313	BrickDl
+724355	BrickD
+724397	BrickD
+724439	BrickD
+724481	BrickDT
+724523	BrickD
+724565	BrickD
+724607	BrickD
+724649	BrickD
+724691	BrickD
+724733	BrickDT
+724775	BrickD
+724817	BrickD
+724859	StepAU
+724881	CaveE
+724890	CaveE102
+724914	BrickD
+724956	BrickD
+725114	CaveE102 
+725208	BrickD
+725250	BrickD
+725292	StepAU
+725314	CaveE
+725323	CaveE101
+725347	BrickD
+725389	BrickD
+725431	BrickD
+725473	BrickDP
+725515	BrickD
+725557	BrickD
+725599	BrickD,
+725641	BrickD,
+725683	BrickD
+725725	BrickD
+725767	BrickD
+725809	BrickD
+725851	StepAUP
+725873	CaveE
+725882	CaveE103
+725906	BrickDh
+725948	BrickD
+725990	BrickD0
+726032	BrickD0
+726074	BrickDh
+726116	BrickD
+726158	BrickD
+726200	BrickD
+726242	BrickD
+726412	CaveE103 
+726506	BrickD
+726548	BrickD
+726590	StepAUP
+726612	CaveE
+726621	CaveE102
+726645	BrickD
+726687	BrickD
+726729	BrickD,
+726771	BrickD
+726813	StepAU
+726835	CaveE
+726844	CaveE104
+726868	BrickD
+726910	BrickD
+726952	BrickD
+726994	BrickD<
+727036	BrickD,
+727078	BrickD
+727120	BrickD
+727162	BrickD
+727204	BrickD
+727246	BrickD
+727288	BrickD
+727330	BrickD
+727372	BrickD
+727414	BrickD|
+727456	BrickD
+727498	BrickD
+727664	CaveE104 
+727758	BrickD
+727800	BrickD
+727842	StepAU
+727864	CaveE
+727873	CaveE103
+727897	BrickD
+727939	BrickD
+727981	BrickD<
+728023	BrickD
+728065	BrickDD
+728107	BrickDl
+728149	BrickDP
+728191	BrickD
+728233	key
+728268	$$n0
+728274	LuWa got a key.
+728370	$$n0
+728376	LuWa got the OldSilk
+728398	Boots.
+728452	owl
+728706	CaveE201 
+728800	BrickD
+728842	BrickD
+728884	StepAU
+728906	World
+728915	WX9Y7
+728936	BrickD
+728978	BrickD
+729020	BrickD
+729062	BrickD
+729104	BrickD
+729146	BrickD
+729188	BrickD
+729230	BrickD
+729272	BrickD,
+729314	BrickD
+729356	BrickD
+729398	BrickD
+729440	BrickD
+729482	BrickD
+729524	BrickD
+729566	BrickD
+729608	BrickD
+729650	BrickD
+729804	CaveE301 
+729898	BrickD
+729940	BrickD
+729982	StepAU
+730004	World
+730013	WX11Y5
+730035	BrickDP
+730077	BrickD
+730119	BrickDT
+730161	BrickD
+730203	BrickD
+730245	BrickD<
+730287	BrickD
+730397	CaveE401
+730491	BrickD
+730533	BrickD
+730575	StepAU
+730597	World
+730606	WX9Y6
+730627	BrickD
+730669	BrickD
+730711	BrickDD
+730753	StepAU
+730775	CaveE
+730784	CaveE402
+730808	BrickD
+730850	BrickD
+730892	BrickD
+730934	BrickDh
+730976	BrickDh
+731018	BrickD
+731060	BrickD
+731186	CaveE402
+731280	BrickD
+731322	BrickD
+731364	StepAU
+731386	CaveE
+731395	CaveE401
+731419	BrickD
+731461	BrickD
+731503	BrickD@
+731545	BrickD 
+731587	item
+731623	$$n0
+731629	LuWa got a piece of
+731650	broken heart!
+731713	BrickD
+731755	BrickD@
+731797	BrickD
+731839	BrickD
+731881	BrickD
+731923	BrickDp
+731965	BrickD
+732007	BrickD
+732049	BrickD
+732091	BrickD
+732133	BrickD
+732175	BrickD0
+732217	BrickD0
+732259	BrickD
+732301	BrickD
+732343	BrickD 
+732385	BrickD
+732427	BrickD@
+732469	BrickD
+732511	BrickD
+732553	BrickD
+732595	BrickD
+732637	BrickD0
+732679	BrickD
+732721	BrickD0
+732763	BrickD
+732805	BrickD
+732847	BrickD
+732889	BrickD 
+732931	BrickDp
+732973	BrickDp
+733015	BrickD
+733057	BrickD@
+733099	BrickD
+733141	BrickD
+733183	BrickD@
+733225	BrickD
+733267	BrickDp
+733309	BrickD
+733351	BrickD
+733393	BrickD
+733435	BrickDp
+733477	BrickD
+733519	BrickD0
+733561	BrickD
+733603	BrickD@
+733645	BrickD
+733687	BrickD
+733729	BrickDP
+733771	BrickD
+733813	BrickDP
+733855	BrickD0
+733897	BrickDP
+733939	BrickDP
+733981	BrickDP
+734023	BrickD
+734065	BrickD
+734107	BrickDP
+734149	BrickD 
+734191	BrickD
+734233	BrickD
+734275	BrickD
+734317	BrickD
+734359	BrickD
+734401	BrickD
+734763	Stair12
+734856	BrickD
+734898	BrickD(
+734940	StepAUx
+734962	Tower
+734971	Tower02
+734994	StepAUx
+735016	Tower
+735025	Tower01
+735092	Stair23N
+735186	BrickD
+735228	BrickD(
+735270	StepAUx
+735292	Tower
+735301	Tower03
+735324	StepAUx
+735346	Tower
+735355	Tower02
+735422	Stair23S
+735516	BrickD
+735558	BrickD(
+735600	StepAUx
+735622	Tower
+735631	Tower02
+735654	StepAUx
+735676	Tower
+735685	Tower03
+735752	Stair24E
+735846	BrickD
+735888	BrickD(
+735930	StepAUx
+735952	Tower
+735961	Tower02
+735984	StepAUx
+736006	Tower
+736015	Tower04
+736082	Stair24W
+736176	BrickD
+736218	BrickD(
+736260	StepAUx
+736282	Tower
+736291	Tower02
+736314	StepAUx
+736336	Tower
+736345	Tower04
+736412	Stair34E
+736506	BrickD
+736548	BrickD(
+736590	StepAUx
+736612	Tower
+736621	Tower03
+736644	StepAUx
+736666	Tower
+736675	Tower04
+736742	Stair34N
+736836	BrickD
+736878	BrickD(
+736920	StepAUx
+736942	Tower
+736951	Tower03
+736974	StepAUx
+736996	Tower
+737005	Tower04
+737072	Stair34S
+737166	BrickD
+737208	BrickD(
+737250	StepAUx
+737272	Tower
+737281	Tower03
+737304	StepAUx
+737326	Tower
+737335	Tower04
+737402	Stair34W
+737496	BrickD
+737538	BrickD(
+737580	StepAUx
+737602	Tower
+737611	Tower03
+737634	StepAUx
+737656	Tower
+737665	Tower04
+737732	Stair45
+737825	BrickD
+737867	BrickD(
+737909	StepAUx
+737931	Tower
+737940	Tower04
+737963	StepAUx
+737985	Tower
+737994	Tower05
+738061	Stair56
+738154	BrickD
+738196	BrickD(
+738238	StepAUx
+738260	Tower
+738269	Tower05
+738292	StepAUx
+738314	Tower
+738323	Tower06
+738390	Stair67
+738483	BrickD
+738525	BrickD(
+738567	StepAUx
+738589	Tower
+738598	Tower06
+738621	StepAUx
+738643	Tower
+738652	Tower07
+738719	Tower01
+739276	Brick
+739297	Tower
+739306	Stair12
+739329	Brick
+739370	Brick
+739411	Brickh
+739452	Brick
+739493	Brick
+739534	Brick
+739575	Brick
+739616	Brick
+739657	Brickx
+739698	Brick8
+739739	med
+739778	medX
+739817	med
+739856	DoorD
+739877	World
+739886	WX6Y1
+739944	Brick
+739985	Brick
+740026	Brickx
+740067	Brick
+740108	Brickh
+740186	Brickx
+740227	Brick(
+741305	medx
+741344	med}
+741383	med
+741422	med=
+741461	med
+741500	med
+741539	Brick
+741580	Brick
+741621	Brick 
+741662	Brick
+741703	BrickH
+741744	Brick8
+741785	Brick
+741826	Brick
+741867	key11
+741904	$$n0
+741910	LuWa got a Key.
+741973	med
+742012	med
+742051	med
+742090	med
+742129	med
+742168	med
+742207	BrickH
+742248	Brick
+742289	Brick
+742496	m1\
+742610	m1D
+742648	m1$
+742686	m1P
+742724	m1P
+742838	Brick
+742879	Brick
+742920	Brick(
+742961	Brick
+743002	Brickx
+743043	Brick(
+743084	Brick(
+743125	Brick(
+743166	Brick(
+743207	Brick(
+743248	Brick(
+743289	Brick(
+743330	Brick(
+743371	Brick
+743412	Brickx
+743453	Brick
+743494	Brick
+743535	Brick8
+743576	Brick
+743617	Brick
+744234	Tower02
+744715	Brick
+744736	Tower
+744745	Stair12
+744768	Brick
+744809	Brickh
+744850	Brick
+744891	Brick
+744932	Brick
+744973	Brick
+745014	Brick
+745055	Brickx
+745096	Brick8
+745137	Brickx
+745178	med
+745217	medX
+745256	med
+745295	Brick
+745336	Brick
+745377	Brickx
+745418	Brick
+745459	Brickh
+745537	Brickx
+745578	Brick(
+746618	medx
+746657	medx
+746696	med
+746735	med=
+746774	med
+746813	med
+746852	Brickx
+746893	Brick
+746934	BrickH
+746975	Brick
+747016	Brick
+747037	Tower
+747046	Stair23N
+747070	BrickH
+747111	BrickH
+747152	m2`
+747190	Brick
+747211	Tower
+747220	Stair24E
+747244	Brick
+747265	Tower
+747274	Stair23S
+747298	Brickn
+747319	Tower
+747328	Stair24W
+747352	BrickH
+747393	Brick
+747434	m2|
+747510	Brick
+747551	Brick
+747592	Brick
+747671	med
+747710	med(
+747749	med(
+747788	med
+747827	med
+747866	med
+747905	med
+747944	med
+747983	Brick
+748024	Brick
+748065	Brick
+748106	BrickH
+748147	Brick
+748226	m1t
+748454	m1@
+748530	Brick
+748571	Brickx
+748612	Brick(
+748653	Brick(
+748694	Brick(
+748735	Brick(
+748776	Brick
+748817	Brick(
+748858	Brick
+748899	Brickx
+748940	Brick(
+748981	Brick
+749022	m1d
+749636	Tower03
+750155	Brick
+750196	Brickh
+750237	Brick
+750278	Brick
+750319	Brick
+750360	Brick
+750401	Brick
+750442	Brickx
+750483	Brick8
+750524	Brick
+750565	med
+750604	medX
+750643	med
+750682	Brick
+750723	Brick
+750764	Brickx
+750805	Brick
+750846	Brickh
+750924	Brickx
+750965	Brick(
+752043	medx
+752082	med}
+752121	med
+752160	med8
+752199	med
+752238	med
+752277	Brick
+752318	Brick
+752359	Brick
+752380	Tower
+752389	Stair23N
+752413	m2T
+752451	Brick
+752472	Tower
+752481	Stair23S
+752505	Brick
+752526	Tower
+752535	Stair34S
+752559	Brick
+752580	Tower
+752589	Stair34N
+752613	BrickH
+752654	Brick
+752675	Tower
+752684	Stair34E
+752708	Brick8
+752729	Tower
+752738	Stair34W
+752762	Brick
+752803	Brick8
+752844	Brick(
+752885	BrickH
+752926	Brick
+752967	Brick
+753008	Brick
+753049	BrickX
+753090	Brickh
+753131	Brick
+753172	Brick
+753213	Brick
+753254	Brick
+753295	BrickH
+753336	key31x
+753373	$$n0
+753379	LuWa got a key.
+753442	med
+753481	med
+753520	med
+753559	med8
+753598	med
+753637	med
+753676	Brick
+753717	Brick8
+753848	m1L
+753886	m1$
+754038	m1<
+754076	Brick
+754117	Brick(
+754158	Brick
+754199	Brick(
+754240	Brick
+754281	Brickx
+754322	Brick(
+754363	Brick(
+754404	Brick(
+754445	Brick(
+754486	Brickx
+754527	Brick
+755220	Tower04
+755701	med
+755740	medX
+755779	med
+755818	Brick
+755859	Brick
+755900	Brickx
+755941	Brick
+755982	Brickh
+757059	medx
+757098	med}
+757137	med
+757176	med=
+757215	med
+757254	med
+757331	Brick
+757352	Tower
+757361	Stair34S
+757385	Brick
+757406	Tower
+757415	Stair34N
+757439	Brick
+757460	Tower
+757469	Stair34E
+757493	Brick8
+757514	Tower
+757523	Stair34W
+757547	Brickx
+757568	Tower
+757577	Stair24W
+757601	Brickx
+757622	Tower
+757631	Stair24E
+757655	Brick
+757676	Tower
+757685	Stair45
+757708	Brick
+757749	Brick
+757790	Brick
+757831	Brick(
+757872	Brick
+757913	Brick
+757954	Brick(
+757995	Brick
+758036	Brick
+758077	Brick
+758118	Brick
+758159	Brick
+758200	BrickX
+758241	Brick
+758282	Brickh
+758323	Brick
+758364	Brick
+758405	BrickX
+758446	BrickX
+758487	Brick
+758528	Brick
+758569	Brickh
+758610	Brick
+758651	Brick
+758692	Brick
+758733	Brick
+758774	Brick
+758815	Brickx
+758856	Brick8
+758897	Brick
+758938	Brick8
+758979	Brick
+759020	Brick8
+759061	Brick
+759139	Brick
+759180	Brick
+759221	BrickH
+759262	Brick
+759303	m1$
+759455	m1H
+759607	m1L
+759645	m1(
+760128	Brick
+760169	Brick8
+760210	Brick(
+760251	Brick
+760292	Brickx
+760333	Brick
+760374	Brickx
+760415	Brick(
+760456	Brick(
+760497	Brick(
+760538	Brick(
+760579	Brick
+760620	Brick
+760661	Brick
+760702	Brickx
+760743	BrickX
+760784	BrickH
+760825	Brick
+760866	Brick
+760907	Brick
+760948	Brick
+760989	Brickx
+761030	Brickh
+761071	Brick
+761112	Brick
+761153	Brick
+761194	Brick
+761235	Brickh
+761276	Brick
+761317	Brick
+761358	Brick(
+761399	Brickx
+761440	Brick
+761481	Brick8
+762242	Tower05P
+762783	Brick8
+762824	Brickh
+762865	Brick
+762906	Brick
+762947	Brick
+762988	Brick
+763029	Brickx
+763070	Brick
+763111	med8
+763150	med
+763189	medH
+763228	Brick
+763269	Brick
+763310	Brickx
+763351	Brickh
+763429	Brick
+764322	medx
+764361	med
+764438	Brick
+764459	Tower
+764468	Stair45
+764491	Brick
+764512	Tower
+764521	Stair56
+764544	med
+764583	med
+764622	Brick
+764663	Brickh
+764704	Brickh
+764745	Brick
+764786	Brickx
+764827	Brickh
+764868	Brick
+764909	BrickX
+764950	Brick
+764991	Brick
+765032	BrickH
+765073	Brick
+765114	Brick
+765155	Brick
+765196	BrickX
+765237	Brick
+765278	Brickx
+765319	Brickx
+765360	Brick
+765401	Brick
+765442	Brick
+765483	Brick
+765524	Brick8
+765565	Brick
+765606	Brick
+765647	Brick
+765688	Brick
+765729	Brick
+765770	Brick
+765811	Brickx
+765852	BrickH
+765893	Brick
+765934	m1`
+765972	m1\
+766010	m1D
+766048	m1,
+766238	m1 
+766390	Brick(
+766431	Brick(
+766472	Brick
+766513	Brick(
+766554	Brick
+766595	Brick
+766636	Brick(
+766677	Brick(
+766718	Brick
+766759	Brick
+766800	Brick(
+766841	Brick8
+766882	Brick(
+766923	Brick8
+766964	Brick(
+767005	Brick
+767638	Tower06
+768159	Brick
+768200	Brick
+768241	Brick8
+768282	Brick
+768323	Brick
+768364	Brickx
+768405	Brick
+768446	med
+768485	medX
+768524	Brick
+768565	Brick
+768606	Brickx
+769276	Brickh
+769297	Tower
+769306	Stair67
+769404	Brickh
+769482	Brickh
+769597	Brick
+769675	Brick
+769696	Tower
+769705	Stair56
+769765	med
+769804	med
+769843	medx
+769882	med
+769921	med
+770404	GetOut
+770442	$$h0
+770448	Wow!
+770500	BackPlaceH
+770545	GetBack
+770584	$$h0
+770590	Wow!
+770642	m2h
+770718	m2p
+770832	m2X
+770870	m2 
+770908	Brick
+770949	Brick
+770990	Brick(
+771031	Brick(
+771072	Brick
+771113	Brick
+771154	Brick(
+771195	Brick(
+771236	Brick8
+771277	Brick8
+771318	Brick(
+771359	Brick
+771876	Tower07
+772347	BrickH
+772388	Brick
+772429	Brick
+772470	Brickh
+772511	Brick
+772552	Brickx
+772593	Brick
+772634	med
+772673	medl
+772712	Brick
+772753	Brick
+772794	Brickx
+773464	med
+773503	Brickh
+773524	Tower
+773533	Stair67
+773627	$$n0
+773633	I was looking for you for
+773660	a long time. Now you came
+773687	here yourself! It is like
+773714	the saying "Road to heaven
+773742	is open but you don't go,
+773769	door to hell is closed and
+773797	you break in!" Your death
+773824	is at today!
+773884	medH

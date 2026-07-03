@@ -1,0 +1,679 @@
+Luwa Help
+secondary
+mymain
+Legend of LuWa
+.\Luwa.cnt
+|CONTEXT
+|CTXOMAP
+|FONT
+|KWBTREE
+|KWDATA
+|KWMAP
+|SYSTEM
+|TOPIC
+|TTLBTREE
+|bm0
+|bm1
+|bm2
+|bm3
+|bm4
+|bm5
+|bm6
+|bm7
+introduction4
+Introduction
+Legend of LuWa is a real-time fighting adventure game.
+In an ancient Chinese village, you will play LuWa, a teenager warrior whose destiny is to return peace to your homeland. Along the long and complex journey, you need both dexterity and intelligence to defeat monsters, discover treasures, save villagers, go through mazes, solve puzzles and much more! Finally, you will enter Xuan Tower, defeat Monster WuXing and save Green Angel.
+system requirements;
+System requirements
+The suggested software/hardware for running this game is:
+Windows98/2000/Me or Windows95+DirectX;
+Personal Computer with Pentium CPU or better;
+22M hard disk space;
+Sound card (optional);
+Gamepad or joystick (optional).
+install, run and uninstall the gameK
+Install, run and uninstall the game
+Install the game
+If your CD-ROM drive is set to Auto-Play mode, the installation process will automatically start when the the game CD is inserted into the CD-ROM drive. Otherwise, double click setup.exe on the CD to start installation. Follow the instructions to proceed. Installation usually takes less than one minute.
+Run the game
+To start the game, choose 
+Start-Program-Legend of LuWa-Legend of LuWa
+, or if you see file Luwa.exe, double click the file. You may start a new game or load one of three saved progresses. Playing for the first time, you should always choose 
+New Game
+During the game running, follwing function keys are available: F1 key to get Help. F4 key to switch between windows mode and full screen mode. Alt+Tab to switch to other programs. Alt+F4 to quit the game.
+Uninstall the game
+Go to 
+Controal Panel
+Add/Remove Program
+ and remove 
+Legend of LuWa
+playing screenJ
+What you see on the playing screen
+Upper left corner: LuWa's life (red hearts), LuWa
+s breath (yellow bar) and LuWa
+s bullets (blue bags). Upper right corner: boss monster's life (blue bar).
+If LuWa
+s life becomes zero, LuWa dies. If LuWa
+s breath becomes zero, LuWa cannot run. Breath recovers during resting and walking. When LuWa
+s breath is full, he may use Power Magic (if he has learned it).
+menu screen@
+What you see on the menu
+Press Esc to enter menu. Use left/right arrows to move between six submenus, up/down arrows to move between menu options, and space or D key to select an option. Press Esc to exit menu and continue playing.
+Menus can also be manipulated by the mouse.
+The six submenus are:
+Item
+Weapon and armor
+Kungfu
+Treasure
+System
+how to play with keyboardA
+How to play with keyboard
+To play this game, you need four arrow keys and D key, F key, Esc key and space bar.
+During fighting
+Use arrow keys to walk or 
+. D to wave sword. F to fire 
+bullets
+ or 
+bombs
+. Space to cast Blood Magic. Esc to enter menu.
+Note: D, F, and space keys are only effective when you obtain the relative weapon or magic.
+During talking
+Use arrow keys to start talking by walking towards a person. D or space to continue talking. F or Esc to abort.
+In menu
+Use arrow keys to change your choices. D or space to make your choice. F or Esc to exit menu.
+how to play with gamepad/joystickI
+How to play with gamepad/joystick
+You may play this game solely by gamepad/joystick (except you still have to press F1 to view Help). If your gamepad or joystick does not work, go to the 
+System submenu
+ to change 
+No Gamepad
+ to 
+Use Gamepad
+Note: while playing with gamepad or joystick, it is suggested that you turn off your screen saver.
+During fighting
+Use direction buttons to walk or 
+. Button A to wave sword. Button B to fire 
+bullets
+ or 
+bombs
+. Button C to cast Blood Magic (after you learned it). Button D to enter menu.
+Note: Button A, B, and C are only effective when you obtain the relative weapon or magic.
+During talking
+Use direction buttons to start talking by walking towards a person. Button A or C to continue talking. Button B or D to abort.
+In menu
+Use direction buttons to change your choices. Button A or C to make your choice. Button B or D to exit menu.
+Getting started
+You, LuWa, were in your home when a new game starts.
+Walk towards a drawer to get 20 coins and leave your house.
+Try to enter every house and talk to every villager you see. Obtain the Practise Sword by talking to an old man sitting in the graveyard.
+After obtaining the sword, you may leave the village. Kill the monsters by waving your sword (pressing D on keyboard). You may collect some gold coins and other good stuff after killing the monsters.
+Your immediate tasks include: learn to fly darts, kill the wolf in a cave and get a life container, enter the first dungeon and kill Big Monkey.
+tips,
+Tips
+A sound 
+ding
+ means the attack is ineffective. You have to change the sword, bullet, or kungfu.
+Some monsters are not vulnerable when flying or jumping. You have to wait till it lands.
+There are different doors inside the dungeons. Some are open only when all the monsters in the room are perished (indicated by ??? when you try to open without killing all the monsters). Some are one-way doors (indicated by !!! when you try to enter from the wrong way).
+There are different walls in the dungeons. Some are fake. Some are invisible.
+EF(`http://www.loowa.com',`',1,`')
+For more tips, please visit:
+www.loowa.com
+map+
+World Map:
+ shows the entire world and where you are.
+Dungeon Map:
+ there is a map in each dungeon. You cannot view the map until you find it. On the map, a ? in a room indicates that room has an important treasure or a locked door.
+There are no maps for villages, caves and Xuan Tower.
+Other submenus:
+Item
+Weapon and armor
+Kungfu
+Treasure
+System
+item
+Item
+Items can be obtained at shops or by killing monsters. To use an item in the menu, select the item and press D key or Button A.
+Life bottle: this is not listed in the menu. It is used when you collect it.
+Med Bolus: recovers 10 points of life.
+Med Bolus L: recovers 20 points of life.
+Torch: light up one room.
+Note: items are collectable with LuWa
+s hands or with sword.
+Other submenus:
+Weapon and armor
+Kungfu
+Treasure
+System
+weapon and armor8
+Weapon and armor
+On the weapons and armors submenu, you may change your sword, your bullets or bombs and your armor. Make sure you equip yourself with the new weapon and armor after you obtain them.
+Your most important weapon is your sword. The swords are:
+Practise Sword: attacking power 6, no 
+sword bullets
+Bravery Sword: attacking power 15, no sword bullets.
+Dragon Sword: attacking power 30, 3 sword bullets.
+Fire Sword: attacking power 60, 5 sword bullets.
+Xuan Sword: attacking power 100, 3 sword bullets.
+Other submenus:
+Item
+Kungfu
+Treasure
+System
+kungfu.
+Kungfu
+Drop Magic:
+ allows LuWa to drop some of the enemy's bullets.
+Bounce Magic:
+ reflects some of enemy's bullets.
+Power Magic:
+ Effective when LuWa
+s breath is full. 4 times the sword power and fire 
+sword bullets
+Run Magic:
+ doubles the sword power and enables LuWa to get onto some low walls.
+Blood Magic:
+ press Space Key or Button C to kill all small monsters in the room. Using Blood Magic will consume LuWa
+s life. The first usage consumes 20 life points. If you use it continuously in the same room, it will consume 30 points the 2nd time, and 40 points every next time.
+Breath Dao:
+ saves breath when fighting and running.
+Recover Dao:
+ speeds up your breath recovery.
+Other submenus:
+Item
+Weapon and armor
+Treasure
+System
+treasure0
+Treasure
+Treasures have magic power. Some of the treasures are:
+Key:
+ There are keys in the dungeons and caves. One key can open only one door. Keys are not shown in the menu.
+Dungeon maps:
+ shows the map of a dungeon.
+Bolus Hulu:
+ each holds 5 Med Boluses.
+Woodcat:
+ save LuWa when he is killed.
+Cateye:
+ see further in darkness.
+OldSilk Boots:
+ protect LuWa
+s feet in the desert.
+Ladder:
+ go over lava or water.
+Note: most treasures should be collected with LuWa
+s hands. But there are some (not very important ones) that are collectable with certain bullets.
+Other submenus:
+Item
+Weapon and armor
+Kungfu
+System
+system submenu6
+Syste
+m submenu
+On the system submenu, you may save your progress, start from beginning, load a saved progress, or exit the game. You may also choose to have music on or off, sound on or off, and gamepad support on or off.
+The game allows you to save up to 3 different processes in three .sav files.
+Other submenus:
+Item
+Weapon and armor
+Kungfu
+Treasure
+License
+Legend of LuWa version 2.4e
+Copyright (C) 1999-2001  Beijing PingYi Software Co. Ltd. (www.pingyi.com.cn)
+Copyright (C) 2002  Loowa Software Company (www.loowa.com)
+All Rights Reserved.
+To run, continuously press same direction key twice and after the second press, keep holding the key down. Running will consume breath.
+Bullets: you may learn to fly four bullets: darts, arrows, knives and ice darts. To fly bullets, you must learn the skills and purchase the bullets. There are many shops that sell bullets.
+Bombs: you may collect four bombs: arrow bomb, dirt bomb, ice bomb and fire bomb. You don
+t have to learn skills to fire bombs. It is hard to find a place selling bombs.
+Sword Bullets: after you have learned Power Magic, some sword may fire bullets when you wave the sword at your full breath.
+Times New Roman
+Symbol
+Wingdings
+MingLiU
+@MingLiU
+Century Schoolbook
+armor
+breath
+gamepad
+install
+introduction
+item
+joystick
+keyboard
+kungfu
+magic
+menu
+play
+running the game
+story
+sword
+system requirements
+system submenu
+treasure
+uninstall
+weapon
+introduction
+system requirements
+install, run and uninstall the game
+playing screen
+menu screen
+how to play with keyboard
+how to play with gamepad/joystick
+tips
+item
+weapon and armor
+kungfu
+treasure
+system submenu
+jI/}
+Go_g
+0`@x
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`??
+0`/?o
+0`/?o/?o
+0`/?o
+0`/?o
+0`@x
+0`/?o
+0`/?o
+0`@x
+0`/?o
+0`/?o
+0`@x
+0`/?o
+0`/?o
+0`/?o
+0`@x
+0`/?o
+0`/?o
+0`/?o
+0`@x
+0`/?o
+0`/?o
+0`@x
+0`/?o
+0`/?o
+/?o/?o
+0`@x
+0`/?o
+0`@x
+0`/?o
+0`OP
+/?o/?o
+0`/?o
+0` g
+0`/?o
+0`_g
+0`/?o
+0`@x
+0`@x
+0`/?o
+0`@x
+GoOP
+0`@x
+0`@x
+0`@x
+0`??
+0`/?o
+0`@x
+0`@x
+0`??
+0`/?o
+0`/?o
+0`@x
+0`??
+0`/?o
+0`/?o
+0`@x
+Go@x
+Go/?o
+0`/?o
+0`/?
+0`@x
+`/?o
+0`@x
+0`/?o
+0`/?o
+0`/?o
+0`@x
+0`@x
+Go W
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`@x
+Go W
+0`/?o
+0`/?o
+0`/?o
+0`/?o/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`@x
+Go?_
+Go?_
+0`/?o
+Go?_
+0`/?o
+Go?_
+0`@x
+0`/?o`
+Go?_
+0`/?o
+0`@x
+Go?_
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`@x
+Go?_
+0`/?o
+0`/?o
+Go?_
+0`/?o/?o/?o
+0`/?o/?o
+0`/?o
+0`/?o
+Go@x
+0`/?o/?o
+0`/?o
+Go@x
+/?o/?o/?o/?o
+0`/?o/?o/?o
+0`/?o
+0`/?o
+0`/?o/?o/?o/?o
+Go@x
+0`@x
+0`/?o/?o/?o/?o
+0`/?o
+0`/?o
+/?o/?o
+0`/?o
+0`/?o
+0`/?o
+Go@x
+0`/?o
+/?o/?o/?o
+/?o/?o
+Go/?o
+0`/?o
+Go@x
+0`/?o/?o
+Go/?o/?o/?o
+/?o/?o/?o/?o
+0`/?o
+0`/?o
+Go/?o/?o/?o/?o
+/?o/?o/?o/?o/?o/?o
+/?o/?o/?o
+0`/?o
+Go/?o
+0`?_
+Go?_
+/?o/?o/?o/?o/?o/?o
+0`/?o
+0`?_
+/?o/?o/?o/?o
+0`/?o
+0`/?o
+0`/?o
+/?o/?o
+0`/?o/?o
+0`?_
+/?o/?o/?o/?o
+/?o/?o
+0`/?o
+0`/?o
+0`/?o
+/?o/?o/?o
+0`/?o
+0`/?o/?o/?o
+0`?_
+/?o/?o/?o/?o
+0`/?o
+0`/?o
+0`/?o
+/?o/?o/?o
+0`/?o/?o/?o
+/?o/?o/?o/?o
+/?o@x
+0`/?o
+/?o/?o/?o/?o
+0`/?o
+0`/?o/?o
+0`?_
+/?o/?o/?o/?o
+0`/?o
+/?o/?o/?o/?o
+0`/?o/?o
+0`/?o
+0`@x
+/?o/?o/?o`
+/?o/?o/?o
+0`/?o
+/?o/?o/?o
+0`/?o
+0`/?o
+/?o/?o/?o`
+/?o/?o@x
+0`/?o
+0`/?o
+/?o/?o
+0`/?o/?o/?o/?o/?o
+/?o/?o/?o`
+/?o/?o/?o/?o
+0`/?o
+0`_g
+0`/?o/?o/?o
+/?o/?o/?o`
+/?o/?o/?o
+0`/?o
+/?o/?o/?o/?o`
+/?o/?o/?o`
+0`/?o
+0`/?o
+0`/?o
+0`?_
+/?o/?o`
+0`/?o
+0`/?o
+0`/?o
+0`@x
+?/?o/?o@x
+0`/?o
+0`@x
+0`?_
+0`/?o@x
+/?o/?o
+0`/?o
+0`@x
+0`/?o@x
+0`/?o
+0`@x
+0`/?o@x
+0`/?o
+0`/?o
+0`/?o
+Go/?o/?o@x
+0`/?o
+0`/?o/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+?/?o
+/?o/?o
+0`/?o
+0`/?o
+0`??
+0`/?o/?
+?/?o@x
+Go/?o/?o
+0`/?o/?o/?o
+0`/?o
+0`/?o/?o
+0`??
+/?o/?o/?o
+/?o/?o@x
+0`/?o/?o/?o/?o/?o
+0`??
+/?o/?o
+/?o/?o@x
+/?o`
+0`/?o/?o/?o/?o/?o/?o
+0`_g
+0`@x
+0`@x
+/?o g
+/?o/?o/?o
+/?o/?o
+/?o/?o/?o/?o/?o
+0`_g
+0`@x
+0`@x
+/?o/?o
+/?o/?o@x
+0`/?o/?o/?o/?o
+0`/?o
+0`/?o
+/?o/?o
+0`@x
+0`@x
+0`@x
+/?o/?o@x
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`_g
+/?o/?o/?o
+0`/?o/?o/?o/?o
+/?o@x
+0`/?o
+0`/?o/?o
+0`/?o
+0`/?o
+0`_g
+/?o/?o/?o
+0`@x
+Go/?o
+Go/?o
+0`/?o/?o
+0`@x
+Go/?o/?o/?o/?o/?o
+?/?o/?o
+0`/?o/?o/?o
+Go/?o
+?/?o
+0`_g
+/?o/?o
+/?o/?o/?o
+0`@x
+/?o/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o
+0`/?o_g
+/?o/?o/?o
+0`_g
+0`/?o/?o/?o
+0`/?o
+0`/?o/?o
+0`Po
+0`_g
+0`_g
+0`??
+0`??
+ POg
+ P?O
+0`Po
+0`Po
+0`??
+ P?O
+0`_g
+x_??
+x__g
+x_??
+OO070
+`_?x/`?
+OO070
+`_?x/`?
+OO070
+`_?x/`?
+h/070P'
+h/070P'
+h/070P'
+070070P'
+070070?
+070070P'
+070070?
+070070P'
+070070?
+070`?
+070`?
+070`?
+Pp??
+Pp_g
+KK@_
+KK@_<G
+wsxxtnk
+rYolsmqh
+N5GG6
+2:KA
+;3MDJ
+R2?BH
+48GA@
+75ECI&
+Q7<ML=
+>5CEJ
+7:BI/
+F@!//
+}u{_^
+gdpmrW
+'%$%
+&$"##
+%"!!"
+  **,,
+&%##
+ ,++,
+,+,,&
+$(')
+$"$+
+&%%$"!"$%%&
+  ,'$$
+&!"!"
+$#!"
+""!!"
+#!!#!"#
+%#%#
+$ %#
++,--
+)*,,
+--,#((*,

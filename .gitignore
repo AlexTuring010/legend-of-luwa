@@ -1,0 +1,13 @@
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+*.tmp
+~$*
+.DS_Store
+
+# Large game assets — copy from the install only when needed (see game-data/README.md)
+game-data/Pic.add
+game-data/Wave.add
+
+# Save games / local runtime state
+*.sav

@@ -1,0 +1,11653 @@
+V1Hs001
+doorT
+Village1
+V1V001
+Hero
+BenchX
+Bench
+Bench
+Bench
+Lamp
+BenchF
+BenchF
+BedAN
+Benchh
+BenchD
+Bench
+Benchc
+Bench
+Bench
+$$n0
+LuWa opened the drawer.
+$$n1
+LuWa got 20 gold coin!
+Bench_
+Bench
+Lamp
+Lamp
+V1Hs002
+urS
+door@
+Village1
+V1V001
+BenchS
+Bed2
+ShellC
+Chair:
+Table
+Bench
+ChairX
+Bench
+Table
+Table
+Chair
+Chair\
+ShellC(
+ShellC-
+ShellC(
+ShellC*
+ShellC
+ShellC
+ShellC
+Boy|
+$$n0
+Our village used to
+be the best place on
+the world with Green
+Angel's protection.
+$$n0
+Life became very hard
+since Green Angel was
+taken away several 
+years ago.
+$$n0
+Quite a few people went
+to save Green Angel, but
+none of them returned.
+ShellC
+V1Hs003
+npc
+$$n0
+I appreciate your 
+courage. Take this
+Bolus Hulu with you.
+$$h0
+LuWa get the Bolus
+Hulu.
+$$n0
+I have no more Bolus
+Hulu.
+BedA
+Bench:
+Bench"
+Table6
+Benchr
+BedA
+Bench
+Village1
+V1V001
+Bench,
+Bench
+Bench
+Bench
+Bench
+Table:
+Benchh
+Bench
+Bench
+Table
+Table:
+TableY
+BedAn
+BedA
+BedA
+BenchA
+BedA
+Benchn
+old
+$$n0
+There are three things
+you must keep in mind
+when playing this game:
+$$n0
+Talk to people;
+Check the map;
+Save the progress!
+BedA
+Bench
+V1Hs004
+npc
+$$n0
+Although Big Monkey is
+driven away, Green Angel
+is still jailed in Xuan
+Tower.
+$$n0
+To enter Xun Tower, you
+must have Xuan Sword.
+BedA
+Bench:
+Bench'
+Table6
+Benchr
+BedA
+Bench
+Village1
+V1V001
+Bench,
+Bench
+Bench
+Bench
+Bench
+Table:
+Benchh
+Bench
+Bench
+Table
+Table:
+TableY
+BedAn
+BedA
+BedA
+BenchA
+BedA
+Benchn
+npc
+$$n0
+Ah, it is you. Thank you
+for saving me.
+$$n0
+When I was jailed in the
+Dungeon, I heard that Xuan
+Sword is broken into five
+pieces of Xuan Iron. They
+scattered around the world.
+Bench
+BedA
+V1HsHotel 
+npcx
+Fine
+$$n0
+Come again.
+Leave#
+$$n0
+Come again when you
+need it.
+$$n0
+Take a rest and cure
+your would.
+Bed
+Bed
+Bench
+BenchK
+Bed
+npc
+Bench
+Bed
+Village1
+V1V001
+BedSleep
+Bench
+Bench?
+BenchP
+Bench
+Bench
+Bench
+npcF
+npc
+npcd
+Benchi
+npc
+Buy torch
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Torch for sale. 5 coins
+for one torch.
+npcT
+npcm
+npcc
+npcr
+npcK
+npcT
+npc
+Bench
+Bench
+Benchl
+BenchD
+Bench<
+Bench
+Bench
+BenchZ
+Bench
+Bench|
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+npch
+$$n0
+Want to buy darts!
+Only if you know how
+to use them!
+Buy darts
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Have some darts? 5 coins
+for 10.
+V1HsMed
+doorh
+Village1
+V1V001
+doc0
+$$n0
+You must have Bolus Hulu
+to hold my Med Bolus.
+Buy Med Bolus
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Each Med Bolus costs 
+5 coins. It will cure
+all wounds.
+Bench]
+counterAq
+counterA
+BottleC
+Bench
+Bench
+BenchT
+ShellC
+Bench2
+ShellC&
+Bench
+dr6
+Bench#
+ShellC
+ShellC
+ShellC
+ShellC
+ShellC
+BenchZ
+Bench
+Bench
+Bench(
+Bench,
+Bench2
+oldi
+ShellC
+ShellC
+ShellC
+BottleC
+doc
+$$n0
+It is said that Joy
+Fountain is far more
+effective than any
+medicine.
+V1HsWeap
+boy
+$$n0
+My father knows the 
+secret to work with 
+Xuan Iron.  He will
+teach me the secret
+when I am older.
+$$n0
+We have had a peaceful
+life after you drove 
+Big Monkey away.
+$$n0
+But a few days ago, some
+monsters took my dad away
+to make weapons for them.
+Tell him the old Smith's willG
+$$n0
+Oh, this book is the 
+secret of Xuan Iron.
+Thank you very much.
+Leave3
+$$n0
+The secret of Xuan Iron
+is lost from now on.
+$$n0
+Oh, no, dad passed away...
+$$n0
+Did he say anything before
+he died?
+Yes
+$$n0
+Although dad told me 
+not to make weapons,
+I will make Xuan 
+Sword for you and
+help you to defeat
+WuXing!
+$$n0
+Give me the broken pieces
+of Xuan Iron.
+$$n0
+Please wait...
+$$n0
+Here you are.  What do
+you think?
+$$h0
+LuWa got the Xuan Sword!
+Leave$
+$$n0
+How can I revenge for
+my dad?
+$$n0
+Is it true that you need
+Xuan Sword to enter the
+Xuan Tower?  Do you need
+me to make Xuan Sword for
+you?
+$$n0
+I do believe you will
+succeed.
+BedA
+Bench
+Bench
+Bench
+BedA
+Village1
+V1V001
+Bench
+BenchK
+BenchK
+Bench
+Bench
+Bench'
+Bench(
+Bench+
+Bench
+BenchW
+Bench
+Bench
+Bench
+Bench
+Shell
+BenchP
+Bench
+Shell
+Shell
+Shell
+Shell
+Shellg
+Bench
+Bench
+Bench
+Shell
+Shell
+Shell
+Shell
+V1V001@
+bushu(
+bushl(
+Tree
+door
+World
+WX7Y4
+House4
+Village1
+V1HsMed
+House2
+Village1
+V1Hs002
+House3x
+Village1
+V1HsHotel
+House1x
+Village1
+V1Hs001
+House58
+Village1
+V1Hs004
+$$h0
+The door cannot open.
+Tomb
+Tomb
+Tomb
+Road8
+Road
+Road8
+RoadH
+Name
+$$n0
+YunFu Village
+TombMan|
+$$n2
+My son went to fight Big
+Monkey years ago but never
+returned.
+$$n2
+You may take his Practice
+Sword.
+$$h0
+LuWa got the Practice
+Sword.
+$$n1
+Please revenge for my son.
+$$n0
+Thank you for taking 
+revenge on Big Monkey.
+$$n1
+One needs mighty strength
+to use the Bravery Sword.
+Going to west, you may find
+Dali Bolus that gives you 
+powerful strength.
+npc
+$$n0
+My son, there are lots
+of monsters outside.
+You cannot go out bare-
+handed.
+$$n0
+Be careful!
+smith@
+$$n0
+My son is taken away
+by the Big Monkey.
+$$n0
+Thank you for saving
+my son.
+$$n0
+I will do my best if
+I can be any help.
+House6
+Village1
+V1HsWeap
+Well
+CaveD
+CaveD301
+boy
+$$n0
+My grandpa is known
+as the Wise Oldman
+in the village.
+$$n0
+But he does not want
+to live in the village.
+He lives in the north
+woods instead.
+TreesD
+TombJ
+TreesD
+TreesD
+TreesDD
+TreesD
+TreesD
+TreesD
+Road
+Road
+TreesDx
+TreesD
+TreesDx
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD^
+TreesDh
+TreesDd
+Road
+Road
+TreesDx
+TreesD
+TreesD
+TreesDd
+Road
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD@
+TreesD
+TreesD(
+TreesD
+TreesD
+ggogo
+TreesD
+Road8
+Road
+TreesD
+TreesD
+TreesD<
+TreesD
+TreesD
+TreesDP
+House1
+Village1
+V1Hs003
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesD
+TreesD
+TreesD
+TreesD(
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesD(
+TreesDD
+TreesDX
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesD
+TreesD
+TreesDd
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDD
+TreesDx
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDD
+TreesDD
+TreesD
+TreesDx
+TreesD4
+TreesD
+TreesD
+TreesD(
+TreesDd
+TreesD
+Road
+Road
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+WX10Y1
+Bush
+Bush
+Bush 
+BushP
+Bush
+BushP
+rabbit
+$$n0
+LuWa got the Silver
+Rabbit.
+Bush
+Bushp
+Bush
+Bush
+BushX
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+WX10Y2
+Bush
+Bush
+BushP
+Bush
+Bush0
+Bush
+Village6
+V6V001
+BushP
+Bush
+Bushl
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bush
+Bush,
+Bush
+Bush
+Bush
+BushP
+BushP
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushH
+Bush,
+Bush,
+Bush,
+Bush
+Bush
+BushD
+BushT
+BushD
+Bush
+Bush
+Bush$
+Bushp
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush|
+Bush
+Bush
+WX10Y3
+Bush
+Bush
+Bush
+Bush
+Bushp
+Bush
+Bush
+Bush
+Bush
+Bush`
+Bush
+BushP
+BushP
+Bushx
+BushD
+Bush
+Bush
+Bush0
+Bush
+Bush
+Bush
+BushH
+BushH
+Bush
+BushH
+Bushp
+Bush
+Bush
+Bush\
+Bush
+Bush
+Bush
+Bush
+WX10Y4
+Bush
+BushP
+BushX
+Dun6
+Dun6001
+Bush(
+Bush
+Bush
+BushH
+Bush
+Bush(
+BushP
+Bushp
+Bush
+Bush4
+Bush4
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush0
+Bush
+Bush
+Bush
+Bush|
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+WX10Y5
+Door
+WX10Y6
+Dun5
+Dun5001
+CaveE
+CaveE101
+Bush
+Bush
+Dun5
+Dun5007
+Bush
+Bush
+Bush
+WX10Y7
+WX10Y8
+Door
+Door
+Bush_
+World
+WX9Y8
+WX10Y9
+Village5
+V5V001
+WX11Y1
+Bush
+Bush
+BushL
+Bush
+BushX
+Bush
+Bush
+Bush
+Bush
+WHouse
+WHF01
+Bush
+Bush
+Bush 
+Bush
+Bushl
+BushP
+Bush
+BushP
+Bush 
+Bush
+Bushh
+Bush
+Bush<
+Bush
+Bushd
+Bush
+Bush
+WX11Y2
+Bush
+Bush(
+Bush
+Bush
+Bush4
+Bush
+Bush
+BushD
+Bushl
+Bush
+Bush
+Bush
+BushD
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushP
+BushP
+Bush
+BushP
+BushP
+Bush
+Bush
+Bush
+Bush8
+Bush
+Bush
+Bush,
+Bush8
+Bush
+Bush<
+Bushd
+Bush
+Bush
+WX11Y3
+Bush
+Bush@
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush`
+BushP
+BushT
+Bush
+Bushp
+Bush4
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+WX11Y4
+Bush
+BushP
+Bush
+CaveF
+CaveF301
+Bush(
+Bush
+Bush
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush@
+Bush|
+Bush
+Bush
+BushH
+Bush,
+Bush
+Bush
+Bush
+BushX
+Bush
+Bush|
+Bush
+Bush
+Bush
+Bushh
+Bush0
+Bush
+Bush
+Bush(
+BushT
+Bush|
+BushT
+Bush@
+Bush
+BushT
+Bush
+WX11Y5
+CaveE
+CaveE301
+Door
+Door
+WX11Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+World
+WX12Y6
+WX11Y7
+WX11Y8
+WX11Y9
+WHouse
+WHE01
+WX12Y2
+Bush
+Bush
+CaveF
+CaveF101
+Bush
+Bush(
+Bushx
+Bush
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush
+Bush
+BushH
+BushP
+Bush
+BushP
+BushP
+Bush<
+Bush(
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bush
+BushH
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush8
+Bush8
+Bush
+Bush@
+Bush|
+Bush
+Bush
+BushD
+Bush
+Bush
+Bush0
+Bush
+Bush
+Bush
+BushX
+Bush
+Bush
+Bush
+Bush
+BushL
+Bush8
+Bush
+Bush$
+Bush
+Bush
+Bush\
+Bush
+Bush\
+Bushp
+BushR
+WX12Y3
+Bush
+Bush(
+Bush
+Bush
+Bushx
+BushT
+CaveF
+CaveF401
+Bush(
+Bush
+Bush
+Bush
+BushX
+Bush
+BushX
+Bush
+BushX
+Bush
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush9
+Bush
+BushH
+Bush4
+WX12Y6
+Door
+World
+WX11Y6
+token11
+$$n0
+LuWa got another half
+of the Ex-Jade. He
+combined the two and
+got the whole Ex-Jade.
+token1
+$$n0
+LuWa got half of the
+Ex-Jade.
+WX12Y7
+WX12Y8
+WX12Y9
+WX1Y1
+Bush$
+Bush
+Bush
+Bush
+Bush
+CaveB
+CaveB101
+Bush@
+Bush|
+Bush
+Bush
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushd
+Bush
+Bush
+Bushh
+Bush|
+Bush0
+Bush
+Bush
+Bush
+Bush
+Bushh
+Bush
+Bush|
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush&
+BushH
+Bush
+Bush
+BushH
+Bushh
+Bush
+Bush4
+Bush
+Bush
+Bush
+Bushd
+WX1Y2
+Bush
+BushL
+Bush
+BushP
+BushP
+Bush
+Bush@
+Bush
+Bush
+Bush
+Bush
+Bush
+BushT
+Bush
+Bush
+Bush
+Bush
+Bush|
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush4
+Bush
+Bush
+Bush,
+Bush
+Bush
+Bush&
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush
+BushL
+Bush$
+Bush
+BushL
+Bushd
+Bush
+Bush
+Bushp
+Bush$
+Bush
+Busht
+Bushl
+Bush|
+Bushh
+WHouse
+WHB02
+Bush
+Bush4
+Bush
+Bush
+Bush
+Bush
+BushX
+Bushl
+Bush
+WX1Y3
+Bush
+Bush
+Bush
+BushP
+Bush
+Bush
+Bush
+Bush\
+Bush(
+Bush(
+Bush`
+BushP
+Bushd
+Bush
+Bush
+Bush\
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush0
+Bush
+BushD
+Bush
+Bush
+BushH
+Bushp
+Bush
+Bush
+Bush|
+Bushn
+Bushx
+BushP
+Bush
+Bush
+Bushd
+Bush
+Bush$
+Bush8
+BushL
+Bush
+BushT
+Bush
+Bush
+Bush
+Bush
+Bushp
+Bush
+Bush4
+Bush 
+Bush 
+Bush\
+BushD
+BushD
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush0
+Bush
+Bush
+Bush 
+Bush
+Bush(
+WX1Y4
+Bush
+Bushx
+Bush
+Bush
+Bush(
+Bush(
+Bush`
+Bush
+Bush
+Bush`
+Bush
+Bush4
+Bush|
+Bush
+Bush
+Bush 
+Bush\
+Bush
+BushL
+BushT
+Bush
+Bush
+Bush@
+Bush,
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushG
+Bush
+Bush
+Bush
+Bush$
+Bush
+Bush
+Bush>
+Bush
+Bush
+Bush
+Bushx
+Bush
+Bush
+Bush<
+Bushd
+Bush(
+Bush(
+Bush
+Bushd
+Bushd
+Bush
+Bushd
+Bushx
+Bush
+Bush(
+Bush
+Bush
+BushP
+Bush(
+Bush
+Bush
+Bushx
+Bush<
+Bushd
+Bush
+Bush
+Bush
+Bush
+Bushx
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush~
+WX1Y5
+Bush 
+WaterA
+Bush
+Bush
+WX1Y6
+Village3
+V3V001
+WX1Y7
+CaveC
+CaveC201
+WX1Y8
+WX1Y9
+WX2Y1
+Bush(
+Bush
+BushP
+Bush(
+Bush
+Bush
+Bush 
+Bush(
+Bush
+Bushl
+Bush
+BushP
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushd
+Bush,
+Bushd
+Bush0
+Bush
+BushH
+Bushh
+Bush4
+Bush
+Bush
+Bush`
+Bush
+Bush
+Bush
+Bush
+Bush`
+Bush
+Bush
+Bush
+Bushp
+Bushl
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushx
+Bush
+Bush
+Bush 
+Bush
+Bush
+Bush8
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Busht
+Bush
+Bush
+Bush
+Bush@
+Bush
+Bush
+WX2Y2
+Bush(
+Bush 
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushp
+BushH
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush(
+Bush
+BushX
+Bush
+Bush
+Bush
+Bushh
+Bush
+Bush
+Bush
+BushH
+Bush
+Bush
+Bushp
+BushL
+Bush$
+BushL
+Bush
+Bush
+Bush
+Bush
+Bushp
+Bush
+Bush 
+Bush
+Bush
+Bush
+Bush
+Bush
+Busht
+Bushp
+Bush
+Bush8
+Bush
+Bush
+Bush8
+BushL
+Bush
+Bush8
+Bush
+BushL
+Bushp
+Bush
+Bush
+Bush@
+Bush
+Bush(
+Bushd
+Bush(
+Bush@
+BushP
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bush
+Bush|
+Bush
+Bush
+Bush
+BushY
+Bush
+Bush
+Bush,
+Bush
+Bush
+Bushd
+Bush
+Bush,
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush(
+Bush@
+Bush
+Bush
+BushD
+Bushp
+Bush
+Bush
+Bush
+Bush
+WX2Y3
+Bush
+Bush
+Bush
+Bushl
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bush
+Bush
+Bush|
+Bush`
+Bush
+Bush
+Bush8
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush 
+BushL
+Bush@
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush|
+Bush
+Bush
+Bush 
+Bush4
+Bush
+Bush
+BushL
+Bush
+Bush
+Bush
+Bush4
+Bushh
+Bushh
+Bush|
+Bush0
+Bushr
+CaveB
+CaveB201
+Bush
+BushL
+Bush
+Bush
+BushH
+Bush
+Bush\
+Bush
+Bush 
+Bush
+Bushh
+Bush
+Bush`
+Bush|
+BushT
+Bush
+Bush
+Bush
+WX2Y4
+Bush
+Bush
+Bush
+Bush(
+Bush0
+Bush
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushX
+Bush
+Bush
+Bush<
+Bush(
+Bush8
+Bush
+Bushd
+Bushx
+Bush
+Bush
+Bush
+Bush\
+Bush4
+BushH
+Bush
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush
+BushL
+Bush`
+BushL
+BushL
+BushH
+Bush
+Bush
+Bush|
+Bushr
+Bush
+Bush
+Bush|
+Bush
+Bush
+Bush,
+BushT
+Bushh
+Bush
+Bushp
+Bush\
+Bush@
+Bush
+Bushd
+Bushx
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush8
+Bush8
+Bush
+Bush
+Bush8
+Busht
+Bush
+Bush$
+BushL
+BushL
+Bush8
+Bush`
+Bush8
+Bush8
+BushL
+Bush$
+Bush8
+Bush8
+Busht
+Bush
+Bush
+BushX
+Bush
+Bush0
+Bush
+Bush
+BushD
+Bush
+Bush
+Bush
+Bushz
+Bush8
+Bush$
+Bush
+Bush
+Busht
+Bush8
+Bush(
+Bushx
+Bush(
+Bushx
+Bush
+Bush(
+Bush
+CaveB
+CaveB401
+WX2Y5
+Bush
+BushX
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushh
+Bushh
+Bush
+Bushl
+Bush
+Bush0
+Bush
+Bush
+WHouse
+WHB03
+Bush
+Bush
+Bush
+Bush
+Bush|
+Bush
+Bush
+Bush
+Bush(
+Bush
+Busht
+Bushp
+Bush
+Bush`
+BushL
+Bush`
+Busht
+Bush
+Bush$
+BushL
+Bush8
+BushL
+Bush
+Bush|
+Bushl
+Bush0
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush@
+Bush
+Bush
+Bushl
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bush
+Bush\
+Bush4
+Bush 
+Bushp
+Bush
+BushL
+BushL
+Bush
+Bush
+Bush
+Bush$
+Bush
+Bush
+Bushf
+Bush
+Bush`
+Bushh
+Bushl
+Bushx
+Bushx
+Bushx
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush$
+Bush
+WaterA
+WaterA,
+WaterA
+WaterA|
+WaterA
+WX2Y6
+WX2Y7
+WHouse
+WHC02
+WX2Y8
+CaveC
+CaveC101
+WX2Y9
+Dun3
+Dun3001
+Bush
+Bush 
+WX3Y1
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush`
+Bush
+Bush
+BushL
+Bush
+BushL
+Bush
+Bush
+Bush(
+Bushx
+Bush@
+Bushh
+Bush
+Bush
+Bush
+Bushp
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush
+Bush 
+BushX
+Bush
+Bush
+BushD
+Bush
+Bush
+Bush
+Bush(
+Bush`
+Busht
+BushL
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushh
+Bush
+BushP
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bush
+Bush
+Bush
+Bush
+Bush$
+Bush
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush\
+Bush
+Bush
+Bushd
+WX3Y2
+Village2
+Village2
+V2V001
+Bush
+Bush8
+Bush
+Bush
+Bush8
+BushH
+Bush
+Bush
+Bush
+BushH
+BushX
+Bush(
+Bush
+Bush
+Bush
+Bush
+Bushh
+BushH
+Bush
+Bush
+Bush
+Bush
+Bush(
+BushX
+Bush
+Bush
+Bushh
+Bushx
+Bush(
+Bushh
+Bush
+Bushx
+Bushx
+Bushx
+Bushh
+Bush
+Bush
+BushH
+BushH
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushD
+Bush
+Bush
+Bush
+Bush$
+Bush
+Bushd
+Bushh
+Bushh
+Bush
+Bushn
+Bush
+Bush
+Bush
+Bush\
+Bush
+BushX
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush(
+Bush
+Bush6
+Bush
+Bush
+Bushx
+Bush
+Bush
+Bush
+BushH
+Bush\
+Bush`
+Bush
+Bush
+Bush
+Bush(
+Bush(
+Bush(
+Bush
+Bush@
+Bush
+WX3Y3
+BushP
+BushP
+Bush<
+Bush
+Bush
+Bush
+Bushp
+Bush(
+Bushx
+Bush
+Bush
+Bush
+Bush
+Bush|
+Bush 
+BushD
+Bush 
+Bush
+Bush
+Bush
+Bush
+Bush@
+Bush
+Bush\
+Bush
+Bush
+Bush
+Bush
+Bush4
+Bushd
+Bush
+Bush
+Bushp
+Bush
+Bush
+Bushd
+Bush
+Bush
+BushD
+Bush
+Bush0
+Bush
+Bush
+Bush4
+Bush
+Bush
+Bush
+Bush
+Bush 
+Bush<
+Bush
+BushP
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush0
+Bush
+Bush
+Bush
+CaveB
+CaveB301
+Bush
+Bush
+Bush<
+WX3Y4
+BushP
+Bush
+Bush(
+Bush(
+Bush(
+Bush(
+Bush(
+Bush(
+Bush
+Bush0
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush@
+BushL
+Bush
+BushX
+Bush
+Bushl
+Bush
+Busht
+Bush
+Bush
+Bush>
+BushH
+Bush
+Bush
+Bush
+Bush4
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+BushD
+Bush0
+Bushl
+Bushb
+Bush4
+Bushd
+Bushx
+Bush
+Bush
+Bush
+Bush
+Bushd
+BushT
+Bush
+Bush|
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush 
+Bush\
+Bushp
+Bush4
+Bushp
+Bush\
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushd
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushd
+Bush
+Bushd
+Bush
+Bush
+Bush 
+Bush
+Bush8
+Bush
+Bush
+Bush
+Bush
+BushL
+Bush
+Busht
+Bush
+Bush
+CaveB
+CaveB501
+Bush
+Bushd
+WX3Y5
+Bush
+Bush(
+Bush`
+Bush(
+Bush@
+Bush
+BushH
+BushD
+Bush
+BushP
+Bush(
+Bush(
+Bush
+Bush
+Bush
+Bush
+Bush0
+Bush\
+Bush$
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush$
+Bush
+Bush
+Bush
+Bushl
+Bush
+Bush
+BushX
+Bush0
+Bush
+Bush
+BushX
+Bush
+Bush\
+Bush0
+Bush
+Bush
+Bush
+Bush0
+Bush
+Bush,
+Bushl
+BushX
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush`
+Bush
+Bush
+Bush[
+Bush
+Bush
+BushH
+Bush
+Bush
+Busha
+Bush
+Bush*
+Bush
+Bush`
+Bushv
+Bush(
+Bush
+WX3Y6
+CaveC
+CaveC301
+WX3Y7
+WX3Y8
+CaveC
+CaveC501
+WX3Y9
+WX4Y1
+Bush
+Bush
+Bush
+Bush
+Bush<
+Bush
+BushP
+Bushl
+Bush
+Bush
+Bush
+Bushx
+Bush
+Bush
+Bushl
+Bush(
+Bush(
+Bush
+BushX
+Bush
+Bush
+House
+WHouse
+WHB01
+Bush
+Bush
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushL
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush
+BushL
+Bushp
+BushL
+Bush
+Bush|
+Bush
+Bush 
+Bush
+Bush
+Bushh
+Bush
+Bush
+WX4Y2
+Bush
+Bush
+Bush
+Bush
+Bush
+TunelH
+CaveA
+CaveA401
+Bush
+hsD
+BushH
+hs@
+hs,
+Bush
+hs4
+hsT
+hsH
+hs,
+hs|
+hs0
+hs|
+hs0
+hs 
+hs|
+hsh
+hs|
+Bush$
+Bush$
+hsh
+Bush4
+hs`
+Bush
+Bush4
+hsh
+hsx
+Bush
+WX4Y3
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushL
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush0
+Bush
+Bushh
+Bush4
+Bush4
+Bush8
+Bush
+Bush
+Bush
+Bushx
+BushX
+Bush
+Bushp
+BushO
+Bush
+Bush
+Bushl
+Bush
+Bush
+Bush|
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushh
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush`
+BushV
+Bush`
+Bush
+Bushx
+Bushx
+WX4Y4
+Busht
+Bush
+Bush
+BushP
+Bush(
+BushP
+Bush<
+Bush
+Bush(
+Bush(
+Bush(
+Bushd
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushd
+Bushd
+Bushd
+Bush
+Bushp
+Bush
+Bush
+Bush
+Bush\
+Bush,
+Bush
+Bush
+Bush
+Bush@
+Bush`
+Bush
+Bush
+Bushh
+Bush,
+Bush@
+Bush@
+Bush
+Bush
+Bush
+Bush
+Bush
+BushT
+Bush1
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush4
+Bush4
+Bush
+Bushc
+Bush
+Bush
+Bush
+Bush
+Bushd
+Bush
+Bush
+Bush
+Bush
+Bush
+$$n0
+I am BeiWu. BeiNi wants
+to replace me and be the
+Master of Arrow Tribe.
+$$n0
+He got Monster Dirt's help
+and I was trapped by them.
+If you came later, I would
+have died.
+$$n0
+I have to hurry back to see
+what is going on with our
+Tribe.
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushp
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushh
+Bushh
+Bush
+Bush
+Bush,
+BushL
+Bush
+Bush(
+WX4Y5
+Bush
+Bush
+Bush(
+Bush
+Bush
+Dun2p
+Dun2
+Dun2001
+Bush
+BushP
+BushX
+Bush
+Bush
+Bush(
+Bushx
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush{
+BushS
+Bushh
+Bush
+Bush,
+Bush
+Bushd
+Bush
+Bush
+Bush
+Bush@
+Bush
+Bush
+BushD
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush\
+Bushh
+Bush
+Bush,
+Bush
+Bush
+Bush
+Bush(
+Bush\
+Bush
+Bush@
+Bush
+Bush
+Bush(
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush0
+BushP
+BushB
+BushH
+BushL
+Dun2
+Dun2017
+Bush`
+Bush`
+WX4Y6
+WX4Y7
+WX4Y8
+CaveC
+CaveC401
+WX4Y9
+WHouse
+WHC03
+WX5Y1
+water
+Bush
+BushX
+BushX
+mF8
+Bush
+waterx
+mFh
+water(
+Bush
+WHouse
+WHG01
+batX
+Bush
+bat
+WX5Y2
+water
+WaterAh
+mF8
+Bush
+waterx
+WaterA
+water
+WaterAx
+water(
+WaterA(
+bat
+bat
+CaveA
+CaveA601
+WX5Y3
+hbP
+WaterA
+WaterA
+WaterA
+Tunel
+CaveA
+CaveA401
+hbP
+hb0
+hsh
+ttH
+ttT
+ttT
+tth
+TreeAR
+hb0
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA3
+tt 
+ttp
+TreeA
+tt4
+ttL
+WaterA
+WaterA
+WaterA
+TreeAp
+TreeA
+TreeA0
+TreeA
+TreeA
+TreeA 
+TreeA\
+TreeAp
+Tunel@
+Tunel
+Tunel
+WX5Y4
+TreeAb
+WHouse
+WHC01
+mC@
+mCl
+mC 
+mCX
+WX5Y5
+monutF
+monutF
+monutF(
+monutF(
+TreeAX
+TreeAX
+TreeA
+TreeA@
+WX5Y6
+CaveC
+CaveC601
+WX5Y7
+$$h0
+The bridge is broken.
+$$h0
+LuWa repaired the broken
+bridge with Cheng Wood.
+$$h0
+Here is the broken
+bridge again.
+WX5Y8
+CaveD
+CaveD701
+WX6Y1
+Tower
+Tower01
+mF\
+Bush
+Bush
+BushD
+mF(
+mF8
+bat|
+bath
+bat
+bat8
+bat
+bat
+bat
+bat8
+Bush
+WX6Y2
+Bush8
+WaterA(
+WaterA
+Bush
+BridgeX
+mF(
+mFh
+Bushd
+water(
+BridgeX
+water
+mF(
+mFh
+Bush
+mF(
+mF$
+mF8
+mF8
+Bush
+BushH
+Bush
+Bush
+Bushp
+Bush
+Bush$
+Bush
+mF 
+Bush
+bat
+mF(
+Bush
+batX
+Bush
+Bush
+Bush
+Bush
+$$n0
+No entrance to Xuan Tower!
+We'll rip you off if you
+dare to come closer!
+Bush
+Bush
+WX6Y3
+WaterA(
+WaterA
+WaterAH
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterAH
+WaterA
+bridgeX
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterAh
+WaterAh
+WaterAh
+WaterA(
+WaterA(
+WaterAh
+WaterAh
+WaterAh
+WaterAh
+WaterA(
+WaterA(
+WaterA
+WaterA
+xaX
+xaD
+xa0
+xa0
+xa|
+WaterA
+xal
+bat\
+bat
+bridgeX
+WaterA
+WaterA
+WX6Y4
+TreeA4
+TreeA
+WaterH
+Water
+TreeA
+hbP
+TreeA
+TreeAX
+CaveA
+CaveA501
+TreeAL
+TreeA`
+TreeA8
+TreeA
+TreeA
+TreeA
+TreeAt
+TreeA
+TreeA
+TreeA0
+TreeA4
+TreeAL
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA`
+TreeAp
+TreeA
+TreeA@
+TreeA
+TreeAT
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeAH
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+TreeAL
+TreeA
+TreeA\
+TreeA 
+TreeA
+TreeA8
+TreeA
+TreeA
+TreeA
+xa,
+TreeA
+Water(
+Water
+Water(
+Water
+Waterx
+Waterx
+TreeA
+TreeA
+TreeA0
+TreeA
+TreeA
+TreeA
+TreeA 
+TreeA
+TreeA
+hbP
+TreeA
+TreeA
+TreeA
+TreeAp
+TreeA 
+TreeAX
+bat
+bat,
+WX6Y5
+Dungeon1
+Dun1
+Dun1001
+Bush
+HillAd
+HillA
+HillAP
+HillA
+HillAP
+HillA
+HillA(
+HillA
+HillAh
+BushP
+HillA
+Bush
+Bush
+HillA$
+HillA8
+BushL
+HillA8
+HillA
+Bush
+HillAL
+BushL
+Busht
+HillA
+HillA
+HillA
+HillA
+HillAd
+HillAT
+HillA
+HillAd
+HillA
+Bush
+Bushx
+Bushx
+HillA(
+HillA
+HillA
+HillA
+Bush
+Bush
+Bush
+Bushd
+Bush
+Bush
+HillA
+HillA
+Bush\
+Bush
+Bush`
+Bush
+Bush*
+HillAl
+Bush|
+BushT
+Bush
+Bushl
+HillA0
+HillA
+Bush
+HillA
+Bushl
+HillAp
+Bush
+Bush
+HillA`
+HillA
+HillA
+Bush\
+HillA
+HillA4
+Bush
+Bush
+Bush
+HillA
+BushP
+Bush,
+Bush`
+HillAl
+HillA
+Bush$
+Bushp
+Bush
+Bush
+HillA
+HillA0
+Bush
+Bush
+Bush
+Bush
+Bush$
+Bush
+Bush 
+Bush
+HillA
+Bush
+HillA`
+Dungeon14
+Dungeon1
+Dungeon1H
+Bush
+Bush
+Bush
+HillA
+Bush
+Bush8
+Bush 
+Bush
+HillA
+Bush$
+Bush
+Dun1
+Dun1005
+Bush 
+Bush
+Bush
+Bush
+Bush
+BushH
+HillA
+HillA
+HillAL
+HillA
+Bush
+Busht
+HillA
+bat,
+bat
+bat
+WX6Y6
+Village4
+V4V001
+CaveD
+CaveD401
+WX6Y7
+$$n0
+No entrance!  The gold
+mine is closed for new
+comers.
+$$n0
+By the way, for your
+goodness, better save
+before you enter the
+northern village.
+Yes#
+$$n0
+Give me the permit and
+pass.
+$$n0
+You cannot pass!
+$$n0
+You have to have miner's
+permit to enter the gold
+mine.  Do you have the
+permit?
+$$n0
+You have to have miner's
+permit to enter the gold
+mine.
+WX6Y8
+$$n0
+LuWa got the Dragon
+Sword!
+lake
+lake
+WX6Y9
+WX7Y1
+Bushh
+Bush
+Bush
+Bush
+Bush
+WaterA
+water8
+WaterA(
+WaterA(
+WaterA
+Bush
+BushX
+Bush
+Bush
+Bushh
+Bush
+Bush
+BushH
+Bush
+Bush
+bat|
+bat|
+bat
+bath
+bat|
+Bush
+CaveA
+CaveA701
+Bush
+Bush)
+Bush$
+Bush.
+Bush$
+Bush$
+WX7Y2
+WaterA(
+WaterA(
+Bushh
+Bushx
+Bush(
+Bush
+water(
+WaterA
+WaterA
+water8
+Bush
+Bushd
+Bushx
+Bush
+Bush
+Bush
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush4
+Bushp
+Bush
+bat
+batX
+bat@
+bat
+Bush
+Bush
+Bush
+Bush
+WX7Y3
+WaterA
+WaterA(
+WaterAx
+House
+WHouse
+WHA01
+WaterA(
+WaterAx
+WaterAx
+WaterA(
+TreeA
+TreeA
+TreeA0
+TreeA8
+TreeAL
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA`
+TreeA
+TreeAf
+TreeA
+TreeA
+TreeA\
+TreeA
+TreeAR
+TreeA
+TreeA$
+TreeAH
+TreeA
+TreeA
+TreeAp
+TreeA
+TreeA
+TreeAH
+TreeAl
+TreeA
+TreeA
+TreeAD
+TreeA
+TreeAl
+TreeA
+TreeA
+TreeAN
+TreeA
+TreeA|
+TreeA
+TreeA
+TreeAv
+TreeA,
+TreeA
+TreeAh
+TreeA
+TreeA
+TreeA
+WaterAx
+WaterA(
+WaterAx
+WaterA(
+WaterA
+TreeA
+TreeA@
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA`
+TreeA
+TreeA
+TreeAp
+TreeA
+TreeA
+TreeA
+TreeA
+TreeA
+WaterA
+WaterA
+WaterA
+bat
+bat
+bat@
+bat
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+WX7Y4
+Village1
+Village1
+V1V001
+treeP
+WaterA
+WaterA
+WaterA(
+WaterAcdl
+WaterA
+Treet
+Treet
+Treet|
+TreetD
+Treet
+TreetT
+tree
+tree
+tree@
+tree,
+treel
+Treet
+Treet
+tree
+treeT
+Treet|
+Treet
+Treet
+Treet
+Treet
+tree|
+tree
+tree
+tree
+tree(
+treeX
+tree
+treed
+Treetx
+Treet
+Treet,
+Treet0
+tree4
+tree
+treeP
+tree
+Treet
+tree
+treex
+tree
+Treet
+Treetd
+Treet 
+Treetp
+tree
+tree
+Treet
+Treet
+tree4
+Treet
+tree\
+tree
+tree
+tree
+tree
+WaterA
+WaterA
+WaterA8
+Treet
+Treet@
+Treet
+Treet
+Treeth
+tree
+tree
+tree
+treeL
+tree
+tree
+tree
+WaterAt
+WX7Y5
+CaveA4
+CaveA
+CaveA101
+TreeA
+TreeATL
+TreeAT
+TreeAP
+hbP
+Bush
+hbp
+hb`
+TreeAT
+TreeATL
+hbp
+hbt
+TreeAT$
+TreeAT
+hbH
+hbL
+hb(
+hb@
+hb\
+TreeATd
+TreeATH
+Bushl
+Bush<
+TreeATd
+Bush
+Bush
+TreeAT
+Bush 
+Bush
+TreeAT
+TreeATL
+TreeATh
+TreeAT
+TreeAP
+TreeA
+Bush
+Bush
+TreeAT
+Bush(
+BushH
+Bush
+Bush*
+TreeA
+Bush4
+Bush 
+Bushp
+hbL
+Bush
+hb(
+Bush
+Bush
+Bush
+BushT
+Bush
+hbD
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush4
+BushD
+Bush
+Bushp
+$$n0
+You cannot pass!
+$$n0
+I cannot believe it!
+You defeated my boss!
+WX7Y6
+CaveD
+CaveD101
+CaveD
+CaveD201
+WX7Y7
+WX7Y8
+WX7Y9
+CaveD
+CaveD601
+WX8Y2
+HillA
+HillA
+water
+mountp
+mount
+mount
+water
+water
+water
+mount
+hs$
+hs$
+hsp
+hs 
+hsl
+hs 
+hsL
+hsh
+hs8
+hsL
+hs\
+hsp
+hsz
+hsL
+hs8
+HillA
+Door
+HillA0
+mount0
+mount
+mount
+Door
+Door
+$$h1
+The waterfall is so
+strong that LuWa can
+not pass.
+Door
+CaveF
+CaveF701
+water(
+water(
+waterx
+waterx
+bat
+bat 
+WX8Y3
+WaterA(
+WaterA
+HillA(
+WaterA(
+WaterA
+bridgeX
+bridgeX
+HillA(
+Bush
+Bush(
+Bush
+Bush
+BushP
+Bush
+Bush8
+Bushd
+Bush$
+Bush
+Bush8
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush
+Bush
+Bush
+Bush
+BushL
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushx
+Bush
+Bush
+BushT
+Bush
+Bush
+Bush
+BushT
+Bush
+Bush
+Bush
+Bush
+Bushl
+Bushp
+Bush
+Bush
+Bush$
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+BushH
+BushH
+Bush
+Bush
+Bush
+Bush
+Bushx
+Bush
+Bush
+Bush\
+Bush
+Bush
+Bush
+Bush
+Bush0
+Bush
+BushH
+Bush
+Bush
+Bushd
+Bush
+Bushd
+HillA8
+Bush
+BushL
+Bush
+Bush
+Bush
+Bush
+WaterA
+Bush8
+HillAX
+Bush
+Bush
+Bush0
+Bush
+HillA
+BushX
+Bush
+Bush,
+CaveA
+CaveA201
+BushX
+Bush
+WaterAT
+WaterA
+WaterA
+bath
+bat
+bat
+bat
+bat,
+Bush^
+BushY
+Bushh
+Bush,
+WX8Y4
+WaterA(
+WaterA8
+WaterA
+bridgeAX
+WaterA
+Bush(
+Bush
+Bush
+Bush(
+WaterA
+WaterAh
+WaterAh
+WaterA
+WaterAX
+WaterAX
+WaterA
+WaterAh
+WaterAX
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterA
+WaterAh
+WaterAh
+WaterAh
+WaterA
+WaterAX
+WaterAX
+WaterAX
+WaterA
+WaterA
+WaterA
+WaterA
+WaterAX
+Bush
+Bush
+Bushd
+WaterA
+WaterA8
+Bush<
+Bush
+Bush
+Bush@
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bushp
+BushH
+Bush
+Bushx
+Bush4
+BushH
+Bush
+BushP
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+WX8Y5
+Bush
+Bushd
+BushP
+Bush(
+Bush
+Bush
+Bush(
+Bush(
+Bush(
+Bushd
+Bush
+Bush,
+Bushx
+Bush
+CaveA
+CaveA301
+Bush
+Bush
+Bushx
+Bush
+Bush@
+Bush
+Bush
+Bush
+Bush<
+Bush(
+Bushx
+Bush<
+Bush,
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush8
+BushP
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush8
+Bush
+Bush
+Bush
+Bush
+BushH
+Bush
+Bush
+Bush
+Bush
+BushN
+Bush
+BushX
+Bush$
+Bush
+Bush
+Bush
+World
+WX9Y5
+$$h0
+Where is the boatman?
+Bush
+Bush8
+WHouse
+WHA02
+Bush
+BushT
+BushT
+Bush
+BushH
+bat
+bat
+bat\
+bat
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+WX8Y6
+WHouse
+WHD02
+WX8Y7
+CaveD
+CaveD501
+WX8Y8
+WX9Y2
+Bush
+BushP
+Bush
+Bush
+Bush
+Bush|
+BushP
+BushP
+Bush
+CaveF
+CaveF701
+WX9Y3
+Bush
+Bush
+BushH
+Bush@
+Bush$
+Bush
+Bush
+Bush
+Bush@
+Bush
+Bush
+BushD
+Bush
+Bush
+Bush
+Bush,
+Bush$
+Bush
+Bush
+Bush
+BushT
+Bushh
+Bush|
+Bush@
+CaveF
+CaveF501
+Bush
+Bush(
+Bush
+Bush
+Bushl
+Bush\
+Bush 
+Bush
+Bush$
+Bush 
+BushL
+Bush
+Bush
+Bush
+BushL
+Bush
+BushH
+Bush
+Bush
+Bush@
+Bush
+Bush@
+Bush
+Bush
+WX9Y4
+Bush
+Bush
+Bush
+Bush
+Bushx
+Bush
+Bush
+Bush
+Bush@
+Bush
+Bush(
+Bush,
+BushT
+Bush
+Bush
+Bushx
+BushT
+Bush
+BushH
+Bush
+Bush
+Bush,
+Bush
+Bushx
+Bush(
+Bush(
+Bush@
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush
+Bush8
+Bush
+Bush4
+Bush.
+CaveF
+CaveF601
+Bush
+WX9Y5
+Bush_
+World
+WX8Y5
+Bush
+Bush
+Bush
+WX9Y6
+CaveE
+CaveE401
+WX9Y7
+CaveE
+CaveE201
+WX9Y8
+WHouse
+WHD01
+Bush
+World
+WX10Y8
+$$h0
+Where is the boatman?
+WX9Y9
+Dun4
+Dun4003
+Bush@
+Bush
+Dun1001
+DoorUX
+GateX
+World
+WX6Y5
+m18
+map1L
+$$n0
+LuWa got the Dungeon
+Map!
+m1 
+Dun1002
+DoorUX
+DoorDX
+m1X
+m1h
+Dun1003
+DoorDX
+DoorR
+bagX
+$$n0
+LuWa got a bag of
+Dart.
+bag
+bag4
+bag
+bag
+bagX
+m2$
+m2l
+m28
+bagl
+Dun1004
+DoorUX
+DoorR
+$$n0
+How dare you little
+fellow to fight with
+me?  I'll send you to
+hell!
+mkheart
+$$n0
+LuWa got the Heart
+of Bravery.
+Dun1005
+DoorDX
+brickAH
+Jail
+boy
+$$n0
+I am going home to
+my dad.
+girl
+$$n0
+It is true I can go
+home now?
+How Great!  Thank you
+very much.
+oldm
+$$n0
+I am very grateful,
+my son.  See you again
+in the village.
+JailDoor
+JailDoor
+JailDoor
+JailDoor
+Jail
+Jail
+Jail
+Jail
+Jailt
+Jail
+JailT
+Jail
+JailT
+Jailt
+Jail
+brickA
+gate
+World
+WX6Y5
+JailDoor
+brickAH
+brickA
+oldm
+$$n0
+You are such a nice
+young fellow.  Come
+to my home in ShangWu
+Village.
+$$n0
+There are four big trees
+nearby.  The tunnel to
+ShangWu Village is under
+the north tree.
+Dun1006
+DoorUX
+BoxT
+$$n0
+LuWa got the Leather
+Armor!
+$$h0
+Put it on and see...
+Brick
+Brick
+BrickX
+Brickx
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickp
+Brick8
+Brick
+Box
+Box8
+Box
+Box
+Box
+Brickh
+Brick
+Brick
+Brick 
+Brick
+m10
+m2t
+Brick
+Brick
+Dun1007
+DoorDX
+DoorR
+m1 
+Box,
+Boxh
+Box,
+Box
+Box,
+Box
+Box
+Boxh
+Box
+BoxJ
+Boxp
+Box8
+BoxH
+BoxX
+Boxh
+Box
+$$n0
+LuWa got a Key.
+m1d
+Box
+Box
+Box
+Boxp
+Box
+Boxp
+Box
+m1 
+Boxx
+Dun1008
+DoorL
+DoorR
+m1|
+m2|
+med
+DoorDX
+Brickh
+Brick
+Brick
+Brick
+Brick 
+Brick
+Brick
+Brick
+Brick
+Brick8
+Brickx
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick8
+Brick
+Brickx
+Brick
+Brick
+Brick 
+Brick
+Brick
+Brick0
+Brick0
+Brick
+Brick
+Brick0
+Brick
+Brick
+med
+med
+med
+med
+med
+medB
+med
+medH
+Brick
+DoorDX
+Dun1009
+DoorL
+$$n0
+Cannot pull the sword
+out.
+$$n1
+LuWa got the Bravery
+Sword!
+m2T
+I fought with Big Monkey
+and lost.
+I hope my followers
+can notify my father.
+Those have magical 
+strength may get
+the Sword.
+m14
+m24
+m1T
+m1T
+m24
+m24
+bigmed
+DoorLX
+Dun1010
+DoorUX
+DoorL
+swordx
+sword
+swordh
+sword
+swordx
+swordL
+sword
+Dun1011
+DoorDX
+DoorL
+Box
+$$n0
+LuWa got a bag of
+Dart.
+Brick
+Box
+Brick
+Gbin
+Brick
+Brick
+Brick
+BrickH
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick8
+BrickH
+Brick
+Brick8
+Box
+Box
+Box
+Box
+Box
+Box
+Box8
+Box
+Gbin
+m2|
+Box
+CaveA101 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAD
+CaveA
+CaveA102
+StepAUd
+World
+WX7Y5
+BrickD
+BrickD
+BrickD
+BrickD,
+BrickD
+BrickD|
+BrickD
+BrickD
+BrickD
+Xad
+CaveA102 
+BrickD
+BrickD
+StepAU
+CaveA
+CaveA101
+BrickD
+BrickD
+BrickD
+BrickD<
+BrickD
+BrickD
+$$n0
+I won't let you pass!
+BrickD
+BrickD
+BrickD,
+BrickD,
+BrickDl
+BrickD
+BrickD0
+BrickD
+BrickD
+BrickD
+BrickD
+BrickDP
+BrickD
+key
+$$n0
+LuWa got a key.
+$$n0
+LuWa got the Heart
+of Luck.
+CaveA201 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAUP
+World
+WX8Y3
+BrickD@
+BrickD
+BrickD
+BrickD
+BrickD
+BrickDl
+BrickD
+BrickD|
+BrickD
+XaP
+Xa@
+StepAD,
+$$n0
+LuWa got a Bolus Hulu.
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD|
+BrickD
+CaveA301 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAUd
+World
+WX8Y5
+BrickDT
+BrickD
+BrickDx
+BrickD<
+BrickD
+BrickD
+$$n0
+LuWa got a Bag of
+Arrow Bomb.
+BrickDD
+BrickD
+BrickD
+XaP
+CaveA401 
+BrickD
+BrickD
+BrickD
+StepAUP
+World
+WX4Y2
+StepAU
+World
+WX5Y3
+BrickD
+CaveA501
+BrickD
+BrickD
+BrickD
+StepAUd
+World
+WX6Y4
+BrickD
+BrickD<
+BrickD|
+Xad
+BrickDx
+CaveA601 
+BrickD
+BrickD
+StepAU
+World
+WX5Y2
+BrickD
+BrickDP
+BrickD
+$$h0
+LuWa got a key.
+BrickD
+BrickDO
+BrickD
+BrickD?
+BrickDP
+itemP
+$$n0
+LuWa got a piece of
+broken heart!
+BrickDX
+BrickD,
+CaveA701 
+BrickD
+BrickD
+StepAU@
+World
+WX7Y1
+BrickD
+BrickD
+BrickD
+BrickDX
+BrickDP
+BrickD
+BrickD
+$$n0
+LuWa got a piece of
+broken heart!
+StepAU
+CaveA
+CaveA702
+Xad
+BrickD|
+BrickD
+BrickD
+BrickD
+Xah
+XaD
+CaveA702 
+BrickD
+BrickD
+StepAU
+CaveA
+CaveA701
+BrickDD
+BrickD<
+BrickD<
+BrickD
+Xa|
+BrickD
+BrickD
+BrickD
+BrickD<
+BrickD
+BrickD
+BrickD
+key
+$$n0
+LuWa got a key.
+BrickD<
+BrickDD
+WHA01
+doorh
+World
+WX7Y3
+BedA
+Bench<
+OldClevern
+$$n0
+Let me teach you to fly
+darts.  It is very useful
+for some monsters.
+$$h0
+LuWa learned flying darts
+and got a dart bag.
+$$n0
+The dart cannot do
+everything.  You must
+use it wisely.
+KidClever
+$$n0
+Inside the dungeon,
+sometimes you have 
+to kill all monsters
+to find items or to
+open doors.
+Benchi
+Bench
+Benchx
+dlh
+dl"
+dl(
+dl<
+dlN
+Bench
+Bench
+BedA
+Benchw
+WHA02@
+door
+World
+WX8Y5
+BedA2
+Bench
+Bench
+Bench
+dl6
+dl<
+Yes 
+$$n0
+Okay. For you it is
+free.
+No)
+$$n0
+Come again when you
+want to cross.
+$$n0
+Oh it is you. Wanna
+cross the river?
+WHB01
+door
+World
+WX4Y1
+Bench<
+Kid,
+Give me one!|
+$$h0
+LuWa ate the Bolus but
+nothing happened.
+$$h1
+Is it true DaLi Bolus?
+$$n0
+Sure it is true...
+Oh, I got to leave.
+Leave
+$$n0
+What a pity!
+$$n0
+Do you want DaLi Bolus?
+20 coins each.
+Bench7
+Bench<
+Bench(
+Bench
+Benchh
+BenchT
+Bench(
+Bench(
+Bench(
+Bench
+Bench
+Bench(
+Bench
+Bench
+Bench
+Bench
+Bench6
+WHB02D
+door,
+World
+WX1Y2
+Bench
+Bench|
+Bench:
+$$n0
+LuWa got a piece of
+broken heart!
+Bench(
+Bench
+WHB03
+doorT
+World
+WX2Y5
+BedN
+ShellC
+Chair'
+Table
+TableA
+Table
+Chairc
+BrickD
+$$n0
+LuWa got a Bag of
+Arrow Bomb.
+BrickD
+ShellC
+WHC01
+urh
+door
+World
+WX5Y4
+Bench(
+Bed2
+TableY
+ShellC
+ShellC
+ShellC
+TreeA,
+$$n0
+Here is another guy
+begging for a Wood
+Lotus!  Go away!
+Give her the Gold Pin
+$$n0
+You mean you saved my
+dad? Should I believe
+you or not? But you've
+got the Gold Pin...
+$$n0
+All right, here is a 
+Wood Lotus.  I have to
+go home right now.
+$$h0
+LuWa got the Wood
+Lotus.
+Leave
+$$n0
+Give me the Gold Pin!
+$$n0
+Here is another guy
+wanting a Wood Lotus!
+$$n0
+What is that?  Gold
+Pin!  Where do you get
+it?  Show it to me!
+WHC02
+urD
+door
+World
+WX2Y7
+BenchX
+Bed2
+$$n0
+It is not easy to beat
+the owl.
+$$n0
+You must learn to master
+your breath if you want
+to learn better KongFu.
+$$n0
+It is not easy to beat
+the owl.
+$$n0
+Although you learned to 
+master your breath, your
+breath is not strong enough
+to learn better KongFu.
+$$n0
+You must have unusual 
+encounter. Let me teach
+you the Power Magic.
+$$n0
+When your breath full,
+your sword will have
+extrodinary power.
+$$n0
+Some sword may even
+fire Sword Bullets.
+$$h0
+LuWa Learned the Power
+Magic.
+$$n0
+Now go and fight!
+BedAP
+$$n0
+My master says his 
+KungFu will only pass
+to special people.
+$$n0
+The sword itself is so
+strong when using Power
+Magic, but the Sword
+Bullets are sometimes
+more useful.
+WHC03
+Bench
+$$n0
+LuWa got a piece of
+broken heart!
+Bench(
+Bench
+Bench
+door
+World
+WX4Y9
+Benchl
+Benchl
+WHD01@
+door
+World
+WX9Y8
+BedA2
+Bench
+Bench
+Bench
+dl6
+dl<
+Yes(
+$$n0
+Okay. For you there
+is no charge.
+No)
+$$n0
+Come again when you
+want to cross.
+$$n0
+Ah, it is you.  Wanna
+cross the river?
+WHD02
+urh
+door
+World
+WX8Y6
+Bed2
+ShellC
+owl
+$$n0
+I have heard your good
+name. I will teach you
+to fly knives. Hope you
+will bring peace to
+QingLong Village.
+$$h0
+LuWa learned flying
+knife and got a Knife
+Bag.
+$$n0
+Miners may kill each
+other for some gold.
+Don't they know no
+one takes away money 
+when he die?
+$$n0
+You are rich, my boy.
+Using your gold wisely.
+$$n0
+One does not bring money
+with him when he was
+born, neither when he
+dies.
+WHE01
+urS
+door@
+World
+WX11Y9
+BenchS
+Bed2
+Chair:
+Table
+Bench
+Table:
+Table
+Chair
+ShellC(
+ShellC
+$$n0
+Last year, I tried 
+to save someone who
+went into the maze
+to search for treasure
+but badly wounded.
+$$n0
+He died at last and 
+said "...in the water"
+before he died.  No
+one yet know what he
+meant.
+$$n0
+Oh, it was the 
+Ex-water Jade!
+ShellC
+ShellC
+WHF01
+urS
+door@
+World
+WX11Y1
+BenchS
+Bed2
+Chair:
+Table
+ChairX
+Bench
+Table
+Table
+Chair
+Chair\
+ShellC(
+ShellC-
+ShellC(
+ShellC
+ShellC*
+ShellC
+ShellC
+ShellC
+$$n0
+Who are you?  My daught
+must be your age if she
+is still alive...
+$$n0
+You want Green Bolus?
+I need Silver Rabbit
+to make Green Bolus.
+I cannot catch the 
+rabbit myself now.
+Give her the Silver Rabbitd
+$$n0
+Wait a while...
+$$n0
+OK, here is the Green Bolus.
+Take it.
+$$n1
+LuWa got the Green Bolus.
+Leave;
+$$n0
+The Green Bolus has
+no good for young
+man like you.
+$$n0
+As I told you, I cannot
+make Green Bolus without
+Silver Rabbit.
+$$n0
+Oh, you already got the
+Silver Rabbit. Will you
+give it to me then?
+$$n0
+Anything else you need
+from me?
+ShellC
+ShellC
+WHG01
+door
+World
+WX5Y1
+Bench7
+Bench<
+Bench
+Bench
+Benchh
+BenchT
+Bench2
+Bench
+Bench
+Bench(
+Bench
+Bench
+tsmithJ
+smith
+Yes
+$$n0
+Give this book to my
+son and tell him not
+to make weapons
+anymore.
+$$n0
+Thank you, I cannot
+pay you back myself
+...
+$$h0
+LuWa took the book
+from the old Smith.
+$$n0
+How can I die like
+this!
+$$n0
+The monsters forced me
+to make weapons. They
+beat me so hard. I am
+afraid I'm going to die.
+$$n0
+Would you pass a message
+to my son?
+$$h0
+The old Smith died.
+$$n0
+LuWa found a Bag of
+FireBomb. It must be
+the last invention of
+the old Smith.
+Bench
+Bench6
+Dun2001
+GateX
+World
+WX4Y5
+DoorR
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA8
+BrickA
+BrickAx
+BrickA
+BrickA
+BrickA
+map24
+$$n0
+LuWa got the Dungeon
+Map!
+BrickAH
+BrickAx
+BrickA(
+Dun2002
+DoorL
+DoorR
+BrickA8
+BrickA8
+$$n0
+LuWa got a key.
+Medx
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickAh
+BrickAh
+BrickA
+BrickAX
+BrickA
+BrickA
+BrickA
+BrickA8
+BrickA
+BrickAX
+BrickA
+BrickA
+BrickA
+BrickAH
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickAx
+m1L
+DoorL
+Dun2003
+DoorUX
+DoorR
+MedH
+BrickA
+$$n0
+Get out of here, you
+kid!
+m2t
+BrickA
+BrickA
+BrickA8
+BrickA
+BrickAH
+BrickA
+BrickAh
+BrickA
+BrickAx
+BrickA
+BrickA
+BrickAT
+BrickA
+BrickA
+BrickAx
+BrickA
+BrickA
+BrickA8
+BrickA
+BrickAH
+clothb8
+$$n0
+LuWa got the Bronze
+Armor.
+BrickA
+BrickA(
+BrickA
+BrickA(
+BrickA8
+BrickA
+BrickAX
+BrickA
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickAh
+BrickAX
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickA
+BrickA
+DoorR
+Dun2004
+DoorL
+DoorR
+MedbX
+BrickA
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickAH
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickAh
+BrickAH
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+m1X
+m2,
+BrickA
+m1`
+m1x
+DoorLX
+Dun2005
+DoorUX
+DoorL
+BrickA
+BrickAX
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA8
+BrickA
+BrickAX
+m2X
+Key`
+$$n0
+LuWa got a key.
+slid`
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickAh
+BrickA
+cat
+Dun2006
+BrickA
+ArrowBag@
+$$n0
+LuWa got a bag of
+Arrow.
+BrickA0
+BrickA
+BrickA
+BrickA
+BrickA0
+BrickA 
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickA(
+BrickA
+BrickA8
+BrickA
+BrickAH
+m2x
+m1,
+BrickA
+arr
+m10
+ArrowBag
+Dun2007
+DoorL
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickAx
+BrickA
+BrickA8
+BrickA8
+BrickA
+BrickA8
+BrickA
+BrickA
+BrickA
+BrickA8
+Meds
+tunnelz
+Dun2
+Dun2010
+m2h
+BrickA(
+BrickA
+m2X
+m2t
+Dun2008
+DoorDX
+BrickAx
+m1H
+BrickA
+BrickA
+BrickA
+BrickAx
+BrickA
+BrickAh
+BrickA
+BrickA(
+BrickA(
+BrickA
+m24
+DBag
+$$n0
+LuWa got a bag of
+Dart.
+m1p
+Dun2009
+DoorDX
+BrickA
+m2 
+BrickAX
+BrickAH
+BrickAH
+BrickAx
+BrickA
+BrickA(
+BrickA
+BrickA(
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA(
+BrickA
+BrickAh
+BrickA
+m2t
+BrickA(
+ur(
+BrickAX
+BrickA
+BrickAX
+DoorDX
+BrickAx
+BrickA
+BrickA
+BrickA
+m2$
+m1\
+meds4
+DoorDX
+Dun2010
+ul(
+DoorDX
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+Med
+Tun 
+Dun2
+Dun2007
+BrickA(
+BrickA
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickA
+BrickAT
+BrickAT
+BrickA
+BrickAT
+BrickA
+m1@
+m1X
+abagt
+$$n0
+LuWa got a bag of
+Arrow.
+Dun2011
+BrickA
+m2T
+BrickA
+BrickA
+BrickA
+BrickA0
+BrickA
+BrickA0
+BrickA@
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA@
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+Medsx
+bag
+$$n0
+LuWa got a bag of
+Dart.
+BrickA,
+BrickA
+BrickA 
+BrickA 
+BrickA0
+BrickA
+BrickA
+Dun2012
+DoorL
+BrickA
+BrickA
+BrickA
+BrickA(
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAx
+Med
+Med
+BrickA
+Dun2
+Dun2014
+m1p
+BrickA
+BrickA 
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA(
+BrickAx
+BrickA`
+Medp
+BrickA
+BrickAp
+m1`
+Dun2013
+DoorUX
+DoorR
+BrickA
+BrickAX
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickAX
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickAX
+m24
+Meds|
+BrickAx
+BrickA
+BrickAx
+BrickAx
+BrickAx
+BrickAx
+BrickA
+DoorUX
+BrickA
+Dun2014
+DoorL
+DoorR
+BrickA
+BrickAH
+BrickA
+BrickA,
+BrickA
+BrickA
+BrickAx
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA8
+BrickA,
+BrickA,
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA,
+BrickA8
+BrickAh
+BrickA
+m2p
+Med
+tun
+Dun2
+Dun2012
+BrickA8
+BrickA
+blood1
+BrickA
+BrickA
+Dun2015
+DoorL
+BrickA 
+Medb
+BrickA
+BrickAX
+BrickA
+BrickAp
+BrickA4
+BrickAx
+BrickA4
+BrickA
+BrickA$
+BrickA
+BrickA$
+BrickA
+BrickA
+BrickAX
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAx
+Med
+BrickA
+BrickA
+m2D
+hrt
+$$n0
+LuWa got a piece of
+broken heart!
+m1x
+Dun2016
+DoorU
+DoorDX
+$$n0
+The trouble between
+BeiWu and I is none
+of your business!
+Look the arrows!
+heart2
+$$n0
+LuWa got the Heart
+of Power.
+BrickA
+BrickA
+$$n0
+Damn, why do you kill
+him!  Now, you'll fill
+his place!
+BrickAh
+BrickAh
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA0
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickA
+Dun2017
+DoorD
+BrickA
+World
+WX4Y5
+BrickA
+$$n0
+LuWa got a piece of
+Xuan Iron.
+BrickAH
+V2Hs001
+urS
+door@
+Village2
+V2V001
+BenchN
+woman
+$$n0
+Are you from Greenfield?
+$$n0
+A few years ago, a young
+man from Greenfield came
+here. He said he was going
+to North Mountains to look
+for a strange bolus.
+Bed2
+ShellC
+Chair:
+Table
+Bench
+ChairX
+Bench
+Table
+Table
+Chair
+Chair\
+ShellC(
+ShellC-
+ShellC(
+ShellC
+ShellC*
+ShellC
+ShellC
+ShellC
+ShellC
+V2Hs002
+urS
+door@
+Village2
+V2V001
+Bed2
+ChairX
+TableI
+Bench
+ChairN
+ChairS
+ShellC(
+ShellC-
+ShellC(
+ShellC*
+ShellC
+ShellC
+ShellC
+OldClever@
+$$n0
+Nice to see you again.
+Thank you for saving me
+from the dungeon.
+$$n0
+Let me teach you the Drop
+Magic. It may help you on
+your journey.
+$$n0
+Wave your sword towards
+enemy's bullets and most
+bullets will drop.
+$$h0
+LuWa learned the Drop
+Magic.
+$$n0
+Practice will make you
+the master of Drop Magic.
+TableQ
+ShellC
+ShellC
+Table6
+Tablem
+TableS
+Chair
+Chair
+V2Hs003 
+Chair
+Table
+Chair
+Bench
+Bench
+Bench
+Village2
+V2V001
+ShellC
+Chairw
+Bench(
+ShellC2
+BedP
+ShellC
+Chair+
+Bench
+ShellC
+ShellCl
+ShellC;
+ShellCo
+ShellC=
+Bench
+Bench-
+Bench(
+Bench+
+Bench
+Chair
+Chair
+Chair
+Chair
+Chair
+oldD
+$$n0
+What are you doing
+here?
+Talk with him3
+$$n0
+Haha, I am rich!
+$$h1
+LuWa lost some coins.S
+Leave
+$$n0
+Bye.
+$$n0
+Hello.
+oldD
+$$n0
+I have nothing more
+to say.
+Talk with himT
+$$n0
+What a nice day today.
+I will give you some
+money.
+$$h0
+LuWa got 20 coins.S
+Leave
+$$n0
+Bye.
+$$n0
+Hello.
+oldD
+$$n0
+Go outside and pay
+the door-woman again!
+Talk with himW
+$$n0
+You look so friendly.
+I will give you a 
+good thing.
+$$h0
+LuWa got a Woodcat.S
+Leave
+$$n0
+Bye.
+$$n0
+Hello.
+Chair
+V2Hs004
+doorh
+Village2
+V2V001
+Boy
+$$n0
+Thank you for saving my
+life. When I arrived at
+the village, BeiNi has
+run away.
+$$n0
+In fact I could not beat
+him because of my wound.
+$$n0
+You have special talent.
+But to defeat BeiNi, you
+must know Drop Magic and
+find the Bravery Sword.
+$$n0
+Only you can defeat
+Beini. I'll teach you
+to fly arrows which 
+will help you to win.
+$$h0
+LuWa learned to fly
+arrows and got a bag
+of Arrows.
+$$n0
+If you see my daughter,
+tell her to come home.
+$$n0
+But she may not listen
+to you...OK, take this
+Gold Pin with you.
+Seeing the Pin is like
+seeing myself.
+$$h0
+LuWa got the Gold Pin.
+$$n0
+Take care!
+$$n0
+Thank you very much.
+My daughter has come
+back.
+Bed2
+ShellC
+Chair
+Bench"
+Bench
+dr(
+Chair<
+Chair
+Chair
+ChairX
+Chair
+Chair
+Chair
+Chair
+ChairN
+Chair
+Chair
+Table
+Boy
+Chair
+Bench
+Chair
+Chair
+Chair6
+Chair2
+Chair
+Chair
+Chair
+Chair;
+Chairn
+Chair
+Bench
+Benchd
+Benchl
+Bench:
+girl
+$$n0
+It was really you who
+saved my dad! I am 
+very grateful.
+$$n0
+I'll give you a bag of
+DirtBomb. It is very 
+powerful. But dad said
+bombing is not real
+KongFu.
+$$h0
+LuWa got a bag of
+DirtBomb.
+$$n0
+Better save the bomb
+until you really need
+it.
+Bench
+Bench
+Bench
+V2Hs005
+doorh
+Village2
+V2V001
+Boy
+$$n0
+BeiWu disappeared for so
+long. It is time we elect
+my ShiFu BeiNi to be the 
+new master.
+$$n0
+Our ShiFu ran away when
+he heard that Master BeiWu
+was coming back. I wonder
+why?
+Bed
+ShellC+
+Chair+
+Bed]
+jar
+SepBI
+SepB
+SepB
+SepB
+SepB
+SepB
+SepBx
+SepB
+SepB2
+SepB
+ShellC2
+Bench
+jarq
+jar
+jar
+Bed
+Bench
+Bench
+Bench
+Bench
+ShellCI
+Bench
+Bed
+Bed
+Boy
+$$n0
+We are expert of arrows.
+Shall we compete?
+$$n0
+Something must be wrong.
+Boy|
+$$n0
+I am BeiNi. I don't 
+necessarily have to be
+the master, but what 
+BeiWu has done really
+spoil our tribe's fame.
+$$n0
+We should get rid of him!
+SepB
+Boy|
+SepB
+V2Hs006
+doorh
+Village2
+V2V001
+Bench#
+Boy,
+$$n0
+The monsters would not
+know how to use arrows
+if BeiWu had not told
+them.
+$$n0
+It turns out Master
+BeiWu was innocent.
+$$n0
+But I still do not
+understand how the
+monsters learned to
+use arrows.
+Bench
+Benchx
+ShellC
+Bench
+Tablex
+Boy
+$$n0
+I cannot believe our
+ShiFu is in collusion
+with monsters.
+$$n0
+But everybody says
+so. It seems I have
+to believe.
+$$n0
+The rumor disappeared
+when ShiFu returned.
+Bed
+Bench
+Bench
+Bench+
+Bench
+Bench
+Benchq
+Bench
+Bench
+Bench
+Chair2
+Bench
+Bench
+BenchE
+Bench
+Bench
+Bench
+Bench
+Bench
+Benchx
+Bench
+Bench7
+Benchx
+Bench
+Benchx
+Benchd
+Benchn
+Benchr
+Chair
+Bench#
+V2HsHotel 
+door
+Village2
+V2V001
+Boy
+Yes
+$$n0
+Thank you.
+Leave
+$$n0
+Welcome anytime.
+$$n0
+10 coins for a night
+rest?
+ShellCF
+Benchx
+BottleT
+Bottle
+Bottler
+Bottle
+Bottle
+Bench
+Village2
+V2HsHotelB
+Bench&
+Bench
+Bench
+Bench
+Bench
+Table
+Chair
+ChairX
+Bench
+Bedx
+Bench<
+Bench
+Benchx
+Benchd
+Bench
+BedP
+Bedd
+BedY
+Bed1
+Bed
+Bed
+Bed5
+Bed
+Bed
+Chair
+ShellC
+Bed
+Bedx
+Bed
+Bed
+Bottle
+Bottle
+Bottle
+BottleX
+Bottle
+Bottle"
+Bottle
+Bed
+Bed
+npcP
+$$n0
+Everybody says BeiWu
+colluded with Monster
+Dirt. But his daughter
+BeiLian won't believe
+it.
+$$n0
+I didn't believe that
+BeiWu was a bad guy,
+did I?
+npcT
+$$n0
+The Arrow Tribe has
+been famous as KongFu
+experts.
+$$n0
+But Master BeiWu doesn't
+learn good. The Tribe
+may ruin in his hand.
+$$n0
+BeiWu came back and
+BeiNi ran away. What
+is going on with
+Arrow Tribe?
+npc
+$$n0
+BeiWu looks like a decent
+man. Who can imagine he
+gangs up with Monster Dirt!
+$$n0
+I said before BeiWu
+was a decent man. I
+was right as always.
+Bedx
+BedSleep
+Bottle
+V2HsHotelB
+BenchF
+Bed
+Bed
+Bedd
+ShellC,
+Table
+Bench
+Village2
+V2HsHotel
+Bed
+Bed
+Bed
+Bed
+Bed
+Bed<
+Bed
+Bed<
+Bed"
+Bed
+Bed
+Bed
+Bench
+Bench
+Chair
+Bed
+Bench@
+Bed
+BedI
+BedI
+BedI
+Chair
+Chair
+Bench
+Chair
+Chair]
+Chair
+Bed
+Bed
+Bed
+Bed
+Bed+
+BedP
+Bed6
+Bed6
+Bed
+Bed-
+BoyD
+Buy torch
+$$n0
+Thank you.
+Leave=
+$$n0
+It is very dangerous
+to enter cave without
+torches!
+$$n0
+Do you want some torches?
+5 coins each.
+BedP
+Bed
+V2HsMed
+doorh
+Village2
+V2V001
+Bed
+SepA
+Chaird
+Bed
+BedF
+Bottle|
+Bottle
+Chair
+jarh
+Chair
+Chair
+Chair
+Chair(
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+SepA
+old(
+old7
+old(
+old;
+oldA
+old(
+old(
+Bottle
+Bottle5
+Bottle!
+BottleI
+SepA.
+jar
+jar
+jar
+jar
+jarB
+jar
+jar+
+docx
+$$n0
+You must have Bolus
+Hulu if you want to
+buy Med Bolus.
+Buy Med Bolus
+$$n0
+Thank you.
+Leave
+$$n0
+It is a pity.
+$$n0
+Med Bolus costs 5 coins
+each.
+Chair
+V2HsWeap
+door
+Village2
+V2V001
+Bench
+ShellC
+Bench
+Bench
+Benchx
+Bench2
+Bench;
+Table
+Bench
+Bench
+jar
+Chairx
+Chair-
+Chair
+Chair
+Chaird
+Chair
+jar#
+Chair@
+Boy
+10 darts for $10
+$$n0
+Thank you.
+Leave
+$$n0
+Bye.
+$$n0
+Bullets on sale here.
+10 darts for $10
+$$n0
+Thank you.
+10 arrows for $10
+$$n0
+Thank you.
+Leave
+$$n0
+Bye.
+$$n0
+Bullets on sale here.
+Bench
+Chair
+Chair
+ChairG
+jar#
+jar#
+V2V001@
+bushu(
+bushl(
+Tree
+bushd2
+door4
+World
+WX3Y2
+House4
+Village2
+V2Hs004
+House2
+Village2
+V2Hs006
+House3
+Village2
+V2HsHotel
+House1<
+Village2
+V2Hs001
+House5|
+Village2
+V2Hs005
+Tomb
+Road
+Roadh
+Road
+Road
+Name
+$$n0
+ShangWu Village
+npc
+$$n0
+It's not all BeiLian's
+fault. The rumor of
+her father is too much
+for her.
+$$n0
+I wonder where BeiLian is.
+$$n0
+BeiLian grows to be
+exactly her mother.
+House6
+Village2
+V2HsWeap
+Well
+TreesD
+TreesD
+Roadp
+House07h
+Village2
+V2Hs003
+???
+TreesDx
+Road
+Road
+Road
+TreesD
+TreesDx
+TreesD
+TreesD
+TreesD,
+TreesD
+TreesD
+TreesDL
+TreesDX
+TreesDd
+TreesD
+Road
+TreesD
+TreesD
+TreesD 
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDt
+TreesD8
+TreesD
+TreesDL
+TreesD
+TreesD
+TreesDn
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesDh
+TreesDh
+TreesD
+House2`
+Village2
+V2HsMed
+TreesDx
+TombMan
+Pay 10 coins>
+$$n0
+Go in now. Remember
+you can talk to one
+man at a time.
+Leave
+$$n0
+Why are you so mean?
+$$n0
+The oldman inside are
+weird. No one expect
+what they will do.
+$$n0
+You may pay 10 coins
+and go in to try your
+luck.
+$$n0
+Go ahead.
+TreesDd
+TreesD
+TreesD
+TreesDT
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD@
+TreesD,
+TreesD$
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesDd
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDt
+TreesD
+TreesD
+TreesDd
+TreesD
+TreesD|
+TreesD,
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDx
+House07
+House07
+TreesD
+npc
+$$n0
+Unless BeiWu came back,
+no one else has the 
+strength to push the
+rock away.
+$$n0
+BeiWu is back. Why does
+he not open the road to
+south?
+$$n0
+BeiWu should teach her
+daughter how to be a
+good woman like us.
+House1
+Village2
+V2Hs002
+npc
+$$n0
+BeiLian had such a 
+bad temper. She left
+ShangWu Village which
+is fine.
+$$n0
+But why did she pushed
+a big rock down the
+hill and block the road
+to south?
+$$n0
+I believe that BeiLian
+herself cannot come
+back because of the 
+block.
+$$n0
+BeiLian never learns to
+be polite. She should
+be sitting here chatting
+with us.
+Road
+TreesD
+TreesDx
+Roadp
+TreesD
+Road@
+V3Hs001
+doorh
+Village3
+V3V001
+Chair}
+Bed
+ShellC2
+Chairx
+Benchx
+SepA2
+Bench:
+Boy|
+$$n0
+I have heard of Bounce
+Magic but never had a
+chance to see it with
+my own eyes.
+Table^
+Bench^
+ShellC5
+Bench
+ShellC<
+Chair
+Chair
+ShellCn
+ShellC
+ShellC
+ShellC
+ShellC
+Chair
+Chair<
+Bench}
+Bench@
+Bed
+Benchx
+Bencho
+Benchd
+Bed
+Bed"
+Bed
+Bed
+V3Hs002
+doorh
+Village3
+V3V001
+Boy
+$$n0
+#$%$&...
+Let him eat the Wood Lotus6
+$$n0
+Hmm...hmm...
+$$n0
+Who are you? Seem
+familiar.
+Leave
+$$n0
+#$%$&...
+$$n0
+#$%$&...
+$$n0
+You are great! I hope
+I can go around the
+world like you.
+Bed
+Bench
+Bench@
+Boy
+$$n2
+What a strange disease
+that my son has!
+$$n0
+Oh, Wood Lotus! My son
+is saved! Thank you 
+very very much.
+$$n1
+I have no treasure to
+reward you, but a 
+family magic called
+Bounce Magic.
+$$n1
+Use your sword to hit
+the bullet, some bullets
+may be bounced back to
+the enemy.
+$$h0
+LuWa learned the Bounce
+Magic.
+$$n0
+Thank you for saving
+my child.
+Bed
+Boy+
+Boy
+Boy
+Boy
+Boy
+Boy(
+Boy
+BoyE
+Boy
+Boy<
+Boy
+Boy
+BoyX
+Boy
+Boy
+Boy
+Boy
+Bench
+Boy
+ShellC
+Bed!
+BedP
+Bench
+BenchU
+Bench
+ShellCb
+Benchw
+Bench
+Bench
+Bench!
+BedX
+Bed
+Bench6
+Bench
+Bench#
+Bench#
+Bench#
+Bench
+V3Hs003
+doorE
+Village3
+V3V001
+Boy
+$$n0
+You are such a nice
+young man. Let me
+teach you Breath Dao.
+$$n0
+Breath Dao is the Dao
+of mastering breath. 
+It helps you to save
+breath when running
+and fighting.
+$$h0
+LuWa learned the Breath
+Dao.
+$$n0
+That is all I can tell
+you. You have to find 
+the benifit of Breath
+Dao yourself.
+Bench#
+Benchb
+Table
+ShellC2
+BedN
+Benchi
+Benchl
+Bench
+Bench#
+Bench#
+Benchb
+V3Hs004
+doorh
+Village3
+V3V001
+Chair
+Bed2
+Table
+jar
+ShellC
+SepA
+Boy
+$$n0
+We used to have a kind
+of magic wood called
+Cheng Wood. It can make
+bridge over rapid water.
+$$n0
+But Monster Wood has
+taken all Cheng Wood
+away.
+$$n0
+The bridge to the mine
+is broken for some time
+and cannot be fixed.
+$$n0
+Fixing the bridge is
+easy with Cheng Wood.
+SepAD
+SepA
+SepA
+Bed
+Bed
+Bed
+Bedi
+Bed_
+Chair6
+jarm
+jar
+ShellCS
+ShellC
+Bench
+Bench
+Bench
+Bench
+Chairb
+Chairb
+Chairb
+Chair
+Chair!
+Chairg
+Chairl
+ChairS
+Chair
+ChairF
+Bench
+Bench
+V3Hs005
+doorE
+Village3
+V3V001
+YesM
+$$n0
+If you see him, please
+give him this letter.
+$$h0
+LuWa got a letter.
+No#
+$$n0
+No one ever take pity on
+me?
+$$n0
+My husband went to east
+to dig gold. I have not
+heard from him for two 
+years.
+$$n0
+Can you help me to find
+him?
+$$n0
+You are my only hope.
+$$n0
+My husband came back
+at last. It was very
+kind of you to bring
+the letter to him.
+BedO
+BenchS
+Chair
+ShellC
+Bench
+Bench
+Chair
+BedO
+Bench
+Bench
+Bench
+Bench
+Bench
+BenchO
+Bench
+Bench@
+Bench
+Bench
+Bench
+BenchZ
+Benchm
+Bench2
+Chair
+Chair
+$$n0
+East or west, home is
+best!
+V3HsHotel 
+ur<
+door
+Village3
+V3V001
+BedSleep/
+Boy
+Yes
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Do you want to take
+a night rest? Only 15
+coins.
+ShellC
+Bench
+Bench7
+Bench
+Bench
+Bench
+Bench
+Table
+Table
+BenchN
+Bench
+ShellC
+ShellC
+Table
+Bench
+Bench
+Bench
+Table
+Bench
+Bench
+BenchN
+Bench
+ShellC{
+ShellC
+ShellC
+ShellC
+ShellC
+ShellC
+ShellCA
+ShellC"
+ShellC
+urq
+ShellC
+Bench
+Table
+Bench
+Chair<
+Chair
+Bench
+Yes
+$$n0
+Thank you.
+$$n0
+Mean.
+$$n0
+Give me 4 coins, OK?
+Boy
+$$n0
+I will give no money
+to beggers.
+ShellC
+npc
+Buy torch, 8 coins each
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Do you want some
+torches?
+V3HsMed
+doorh
+Village3
+V3V001
+Chaird
+BedF
+Chair
+BottleA
+$$n0
+Only Wood Lotus can
+cure MuRong's son.
+And only BeiLian has
+Wood Lotus.
+$$n0
+But MuRong and BeiLian 
+had some conflict
+before. I don't know
+how to solve this
+problem.
+Bed
+Bed
+Bottle!
+Bottle?
+Bottle&
+Bottle
+jar
+Chair
+jar&
+jar
+jar
+Chair
+BottleF
+BottleA
+Bottle(
+BottleZ
+BottleA
+Chairc
+docx
+$$n0
+Come again when you have
+Bolus Hulu.
+Med Bolus, $10 each
+$$n0
+Thank you.
+Large Med Bolus, $30 each
+$$n0
+Thank you.
+Leave
+$$n0
+You will regret.
+$$n0
+Why don't you buy some
+Med Bolus? They will 
+keep you safe.
+V3HsWeap
+doorh
+Village3
+V3V001
+Bench
+Chair
+Boy
+10 darts for $10
+$$n0
+Thank you.
+10 arrows for $10
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Bullets on sale here.
+ShellC
+ShellC+
+ShellCP
+Benchl
+jar
+Table
+Chair#
+ShellC
+ShellC2
+ShellC
+ShellCi
+ShellC
+Chair
+Chair
+Chairx
+Chair
+Chair
+Chair7
+Chairr
+jar
+jarb
+ChairE
+Chair
+Chair#
+V3V001
+World
+WX1Y6
+Village3
+V3HsHotel
+Village3
+V3Hs005
+Village3
+V3HsMed
+Village3
+V3Hs002
+Village3
+V3Hs001
+Village3
+V3Hs004
+Village3
+V3HsWeap
+Dun3
+Dun3008
+???
+$$n0
+BaoLin Village
+Village3
+V3Hs003
+Yes
+$$n0
+Thank you.
+Leave!
+$$n0
+You are tight, my 
+friend.
+$$n0
+One coin, may I ask?
+Boy
+$$n0
+MuRong was a strong
+man. He has suffered
+a lot since his son
+was ill.
+Yes
+$$n0
+You are so nice.
+Leave
+$$n0
+Don't be too mean!
+$$n0
+Can you give me two
+coins?
+Yes
+$$n0
+Thank you.
+Leave
+$$n0
+Why are you so mean?
+$$n0
+Give me 4 coins? That
+is nothing to you!
+$$n0
+Be kind to our begging
+brothers.
+$$n0
+You have warm heart.
+I will show you to
+our master.
+Dun3001
+DoorUX
+DoorDX
+World
+WX2Y9
+BrickA
+BrickA
+$$n0
+Here is another stupid
+fellow wanting to be 
+killed.
+BrickA
+BrickA
+BrickA|
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA8
+BrickA
+BrickA
+BrickA
+BrickA8
+blood
+BrickA(
+BrickA
+BrickA(
+map3t
+$$n0
+LuWa got the Dungeon
+Map!
+BrickA
+BrickA
+m1D
+Dun3002
+dl(
+DoorDX
+Key1@
+$$n0
+LuWa got a key.
+m1h
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+blood8
+BrickAx
+BrickA
+medsL
+BrickA
+BrickAH
+BrickA
+BrickA
+BrickA
+m1T
+BrickA
+Dun3003
+DoorUX
+blood
+medb
+DoorUX
+Dun3004
+ul(
+dl(
+DoorUX
+BrickA
+BrickA
+m1,
+BrickA
+BrickA
+BrickA\
+BrickA
+BrickA
+BrickA,
+BrickA
+BrickA\
+BrickA
+BrickA
+BrickA
+BrickA,
+BrickA
+BrickA
+BrickA
+BrickA|
+m1X
+BrickA
+meds
+m1D
+m1L
+m1H
+DoorUX
+Dun3005
+ul(
+dl(
+DoorUX
+DoorDX
+DoorL
+DoorR
+KeyD
+$$n0
+LuWa got a key.
+slideD
+slideD
+slideD
+BrickAx
+BrickA
+BrickA
+BrickA8
+BrickA8
+BrickAH
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickA
+BrickAh
+BrickAX
+BrickA
+BrickA
+m1$
+BrickAX
+m1D
+m1D
+Dun3006
+DoorUX
+DoorDX
+bloodb
+BrickAh
+BrickA(
+BrickA
+m1h
+m1l
+m1l
+BrickA
+Dun3007
+ul(
+dl(
+DoorDX
+BrickA@
+BrickA
+BrickA
+BrickA
+BrickA
+ifrog
+$$n0
+The Golden Frog suddenly
+jumped into LuWa's 
+mouth!
+$$h0
+LuWa accidentally
+swallowed the Golden
+Frog. His body was 
+burning inside.
+$$h0
+When LuWa calmed down,
+he found his breath
+became much stronger!
+BrickA
+BrickA@
+DoorDp
+Dun3008
+ul(
+dl(
+DoorR
+Village3
+V3V001
+BrickA
+BrickAx
+BrickA
+BrickAx
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAx
+BrickA
+BrickA
+$$n0
+LuWa got a piece of
+Xuan Iron.
+wood
+$$n0
+LuWa got the Cheng Wood.
+Dun3009
+ul(
+dr(
+DoorL
+$$n0
+How come you got the
+guts to come here!
+heart
+$$n0
+LuWa got the Heart
+of Justice.
+Dun3010
+ul(
+dl(
+DoorR
+BrickA
+BrickA
+BrickA\
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA\
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA,
+iWoodCat
+BrickA|
+BrickA|
+m1L
+m1|
+BrickA|
+Dun3011
+dl(
+DoorL
+medsx
+BrickAh
+BrickAh
+BrickAh
+BrickA
+BrickA
+BrickAx
+BrickAH
+BrickA
+BrickAx
+Dun3
+Dun3018
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAH
+DoorL
+Dun3012
+ul(
+BrickA
+BrickA
+m1p
+BrickAx
+BrickA
+m1x
+$$n0
+LuWa got a bag of
+ArrowBomb.
+BrickAl
+m1H
+slidex
+slide
+bag4h
+$$n0
+LuWa got a bag of
+Arrow.
+slide
+slide
+slide
+slideh
+Dun3013
+ul(
+dl(
+DoorL
+DoorR
+BrickAx
+BrickAX
+BrickA
+BrickA
+BrickA8
+BrickAH
+BrickA
+BrickAh
+BrickA
+m1h
+BrickAh
+BrickAH
+BrickA
+BrickA8
+BrickA
+BrickA
+BrickAX
+BrickA
+BrickA
+BrickA
+BrickAh
+BrickA
+BrickAh
+BrickAh
+BrickA
+BrickAH
+m1X
+m1l
+Dun3014
+ul(
+dl(
+DoorR
+m1p
+bloods
+Dun3
+Dun3018
+BrickAx
+BrickA
+BrickAT
+BrickA4
+BrickA
+BrickA$
+BrickA
+BrickA4
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAD
+BrickA
+BrickA$
+BrickA
+BrickA4
+BrickA
+BrickA
+BrickA
+BrickA
+BrickAD
+BrickAh
+BrickAh
+BrickA
+BrickAx
+bloodb4
+m10
+Dun3015
+ul(
+dlx
+DoorL
+$$n0
+LuWa got a Bolus Hulu.
+BrickAX
+BrickA
+BrickA
+BrickA
+BrickAx
+BrickAx
+slide
+BrickAx
+BrickAX
+Dun3016
+ul(
+dl(
+DoorR
+Dun3
+Dun3018
+BrickAp
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA0
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA 
+BrickAp
+BrickAp
+BrickA
+BrickA0
+BrickA0
+BrickA
+BrickA
+BrickAp
+m1t
+Dun3017
+dl(
+DoorDX
+DoorL
+BrickA
+BrickA
+BrickA
+m1`
+BrickA
+BrickAT
+meds`
+m1H
+m1H
+BrickAx
+Dun3018
+ul(
+dl(
+DoorR
+BrickA
+BrickA
+m1,
+tun
+Dun3
+Dun3021
+BrickA
+BrickA
+BrickAx
+BrickA
+BrickA(
+tun
+Dun3
+Dun3016
+tun
+Dun3
+Dun3014
+tun
+Dun3
+Dun3011
+Dun3019
+ul(
+dl(
+DoorUX
+DoorL
+BrickAx
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+m1X
+BrickA
+BrickA
+BrickA
+BrickAT
+BrickA
+Dun3020
+ul(
+dl(
+DoorDX
+DoorR
+m1,
+BrickA
+BrickA 
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA
+BrickA8
+BrickA
+BrickA 
+BrickA
+BrickA
+BrickA8
+BrickA
+medb
+BrickA
+BrickA
+m1t
+bag4
+$$n0
+LuWa got a bag of
+Arrow.
+BrickA0
+BrickA
+BrickA0
+BrickA
+Dun3021
+ul(
+dl(
+DoorL
+BrickA
+BrickA
+m10
+BrickA
+BrickA
+BrickA
+BrickAx
+BrickA
+BrickAh
+BrickA
+BrickAX
+BrickA$
+Pay 10 coinsW
+$$n0
+Hmm, this is not enough
+to say much.
+$$n0
+Sometimes your eyes may
+cheat you
+Pay 20 coinsE
+$$n0
+Monsters are usually
+vunerable to the same
+bullet as his own.
+Pay 30 coins<
+$$n0
+Seeing path may not pass;
+Seeing not path may pass.
+Leave
+$$n0
+I am the monster's
+Fortune Tellor.  Do
+you want to know what
+I can tell you?
+BrickA
+BrickA
+BrickA
+BrickA8
+m1L
+Dun3
+Dun3018
+m1X
+m1l
+m1T
+CaveB101 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAD
+CaveB
+CaveB102
+StepAUd
+World
+WX1Y1
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+Xa,
+BrickD
+BrickD
+BrickD
+BrickD|
+BrickD
+BrickD
+BrickDl
+BrickDl
+BrickDl
+CaveB102 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAU
+CaveB
+CaveB101
+BrickD
+BrickD
+BrickD
+BrickD<
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+forceboxP
+$$n0
+LuWa got the DaLi Bolus.
+$$h0
+Luwa ate the Bolus and
+his body was filled with
+powerful strength.
+Xax
+BrickD
+BrickD
+BrickD
+BrickD<
+CaveB201 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAUd
+World
+WX2Y3
+BrickD
+BrickD
+BrickD
+BrickD
+Xad
+BrickD
+BrickD
+bloodb|
+BrickDl
+CaveB301 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAU0
+World
+WX3Y3
+BrickDD
+BrickD,
+BrickD
+BrickD<
+BrickD
+BrickD
+BrickD,
+BrickDT
+BrickDl
+XaP
+BrickD
+BrickD
+BrickD
+Xad
+XaP
+Xa|
+BrickD<
+BrickDT
+BrickDl
+BrickD
+XaP
+BrickD
+BrickD
+BrickD,
+BrickD
+BrickD
+CaveB401 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAU
+World
+WX2Y4
+BrickD
+BrickD,
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD,
+meds
+BrickD
+BrickD
+BrickD
+BrickD
+XaX
+Xa0
+meds:
+CaveB501 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAU|
+World
+WX3Y4
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+Xad
+Xad
+BrickD
+BrickD
+BrickD
+BrickD@
+BB1
+BrickD
+BB1
+V4Hs001
+doorT
+Village4
+V4V001
+Benchb
+Bench
+Bench
+Bench
+Lamp
+BenchF
+BenchF
+BedAh
+Benchh
+BenchD
+Bench5
+Bench!
+BenchI
+Bench_
+Bench
+Lamp
+Lamp
+Bench
+$$n0
+It is said in acient
+times, an old smith
+made a very powerful
+sword.
+$$n0
+He did not want to 
+give the emperor his
+sword, but the emperor
+forced him.
+$$n0
+Finally, the poor smith
+jumped into QingLong 
+Lake with the sword.
+Bench
+Bench
+Bench
+BenchD
+Benchb
+V4Hs002 
+Chair
+Table 
+Chair
+Bench
+Bench
+Bench
+SepA
+Village4
+V4V001
+Bed
+ShellC
+Chairw
+Bench(
+ShellC2
+BedP
+ShellCv
+ShellC
+Chair+
+Bench
+ShellC
+ShellCl
+ShellC;
+ShellCo
+ShellC=
+Bench
+Bench-
+Bench(
+Bench+
+Bench
+Bench
+Chair
+Chair
+Chair
+Chair
+Chair
+Boy
+$$n0
+I would rather no gold
+mine was ever discovered
+here.
+$$n0
+My son, you brought back
+the peace to our village.
+Boyl
+$$n0
+I think the miners
+are more disgusting
+than Monster Gold.
+$$n0
+I cannot believe there
+are good guys like you
+in the miners!
+Boy
+$$n0
+The miners dig for
+gold everywhere. The
+river bank is almost
+hollow inside.
+$$n0
+If the miners all go
+away, I will go to play
+by the river.
+$$n0
+I can go to play by
+the river now. How
+great!
+V4Hs003
+urS
+door@
+Village4
+V4V001
+BenchS
+Bed2
+ShellC
+ChairN
+Bench
+Chair
+ShellC(
+ShellC-
+ShellC(
+ShellC*
+ShellC
+ShellC
+ShellC
+doc
+$$n0
+The Ex-Jade is in the
+box by my side. Take
+it with you.
+$$n0
+But in fact it is only
+half of the Ex-Jade. A
+few years ago, a pirate
+grabbed the other half
+away.
+$$n0
+I have no idea where 
+the other half of the
+Ex-Jade is.
+$$n0
+It is so nice to come
+home again.
+token1c
+$$n1
+LuWa got a half of
+Ex-Jade.
+token11c
+$$n1
+LuWa got another half
+of the Ex-Jade. He
+combined the two and
+got the whole Ex-Jade.
+$$n0
+Believing my Grandmother
+has a magical item, 
+Monster Gold took her
+away.
+$$n0
+I had a nightmare last
+night. I saw grandmother
+was kept in a dark room
+without doors or windows.
+$$n0
+I am really worried 
+about her.
+$$n0
+It is so nice to have
+Grandma back.
+ShellC
+ShellC
+ShellC
+Chair
+ShellC
+V4Hs004
+urS
+door@
+Village4
+V4V001
+BenchS
+Bed2
+ShellC
+Chair:
+Table
+Bench
+ChairX
+Bench
+Table
+Chair
+Chair\
+ShellC(
+ShellC-
+ShellC(
+ShellC
+ShellC*
+ShellC
+ShellC
+ShellC
+doc
+Yesb
+$$n0
+Just a second...
+$$n0
+OK, here is a complete
+Heart.
+$$n1
+LuWa got the Heart
+of Mature.
+Leave,
+$$n0
+Come again whenever
+you need my help.
+$$n0
+There is nothing in
+the world that I can
+not mend.
+$$n0
+I even mend broken
+pieces of Heart! Do
+you have such pieces?
+Yesf
+$$n0
+Just a second...
+$$n0
+OK, here is a complete
+Heart.
+$$n1
+LuWa got the Heart
+of Perfection.
+Leave+
+$$n0
+Come again in case
+you need my help.
+$$n0
+There is nothing in
+the world that I can
+not mend.
+$$n0
+I even mend broken
+pieces of Heart! Do
+you have such pieces?
+ShellC
+V4HsHotel 
+npc
+Yes
+$$n0
+Thank you.
+Leave!
+$$n0
+No problem. See you
+later.
+$$n0
+Take a rest and cure
+yourself.  One night
+for only 20 coins.
+Bed
+Benchx
+Bed
+Bedq
+Village4
+V4V001
+Bedq
+Bed
+BedSleep
+Bench
+Bench0
+Bench0
+Benchx
+npcF
+npc
+npcd
+BenchP
+npcT
+npc|
+npc
+npch
+npc
+npc
+npc
+npc
+Buy torch
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Torches are necessary
+for miners.  10 coins
+each.  Won't you have
+some?
+npc0
+Yes
+$$n0
+Great, let me see
+her letter!
+$$n1
+...I am expecting you to
+come back.
+$$n0
+OK, I don't hesitate
+anymore.  I am heading
+home right now!
+$$n0
+This Miner's permit
+is useless to me.  I 
+will give it to you.
+$$h0
+LuWa got the Miner's
+Permit.
+$$n0
+What shall I do?
+$$n0
+I shouldn't come to
+this damn place!  I
+want to go home.
+$$n0
+Have you passed by 
+BaoLin Village?
+Is there any message
+from my wife?
+Bench<
+Bench
+Benchx
+npc
+$$n0
+Digging for gold, my
+friend?
+Give him 50 coinsZ
+$$n0
+That's good.  Thank you.
+$$n0
+I am away from home
+for so long.  Time
+to go back.
+No.
+$$n0
+What do you do with
+that much of money?
+$$n0
+I heard that you had 
+Monster Gold's stock.
+Share some gold with
+me, okay?
+Bench
+Bench
+Bench5
+Bench
+Bench0
+V4HsMed
+doorh
+Village4
+V4V001
+Bed
+SepA
+Chaird
+Bed
+BedF
+Bottle
+jarh
+Chair
+Chair
+Chair
+Chair(
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+old(
+old7
+old(
+old;
+old(
+old(
+old<
+Bottle
+Bottle?
+Bottle5
+Bottle]
+holeb
+CaveD
+CaveD301
+oldx
+$$n0
+This fellow must have
+a special way to get
+cheap medicine. Maybe
+there is a tunnel going
+somewhere.
+$$n0
+If I could get cheap
+medicine, I would like
+to open a drug store
+myself.
+oldb
+old
+old
+old
+oldl
+docd
+Med Bolus, $10 each
+$$n0
+Thank you.
+Large Med Bolus, $30 each
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Boluses keep you safe
+on your journey.
+V4HsWeap
+BedAi
+Bench
+ShellF
+npc
+10 darts for $10
+$$n0
+Thank you.
+10 arrows for $10
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+No more bullets?  Why
+not buy some here?
+10 darts for $10
+$$n0
+Thank you.
+10 arrows for $10
+$$n0
+Thank you.
+10 knives for $20
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+No more bullets?  Why
+not buy some here?
+Benchd
+Shell
+Bench
+BedA
+Village4
+V4V001
+Bench
+BenchK
+BenchK
+Bench
+Bench
+Bench
+Bench]
+Bench
+Bench
+Bench
+Bench&
+Bench
+Bench
+Bench
+Shell
+Bench1
+BenchY
+Bench
+Bench
+Bench
+V4V001
+doorD
+World
+WX6Y6
+House4
+Village4
+V4HsMed
+House2
+Village4
+V4Hs002
+House3
+Village4
+V4HsHotel
+House5
+Village4
+V4Hs001
+Road@
+Road
+Road
+Name
+$$n0
+QingLong Village
+House6
+Village4
+V4HsWeap
+TreesD
+TreesD<
+TreesD
+TreesD(
+TreesD
+TreesDd
+Road
+TreesDx
+TreesDx
+TreesD(
+TreesDt
+House1
+Village4
+V4Hs003
+TreesD
+TreesD`
+TreesD`
+TreesDL
+TreesD
+TreesDx
+TreesD
+TreesD
+TreesD
+TreesD(
+TreesD(
+TreesDX
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDH
+TreesD
+TreesDh
+TreesDh
+TreesDh
+TreesDh
+TreesD
+TreesD
+TreesD
+TreesDL
+TreesD
+Road
+TreesDH
+TreesD
+TreesDL
+TreesD<
+TreesDP
+TreesD
+TreesD(
+TreesDP
+TreesDL
+TreesDh
+TreesD8
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesD(
+TreesDP
+TreesD(
+TreesD<
+TreesDP
+House5
+Village4
+V4Hs004
+TreesD
+TreesD
+Road
+Road@
+npc
+$$n0
+The river bank is all
+assigned to the miners.
+You'd rather go home
+right now.
+Give him 50 coins|
+$$n0
+Hmm, you are not too
+stupid.
+$$n0
+Not much interesting
+things to search here.
+I will try my luck
+somewhere else.
+No&
+$$n0
+You will pay for refusing
+me!
+$$n0
+How come you have such
+good luck and so much 
+gold!  Share between
+you and me, OK?
+npc
+$$n0
+Coming for gold, little
+brother?
+Give him 50 coins
+$$n0
+Great.  It is very 
+kind of you.
+$$n0
+I'd better go home
+and do my old job.
+My ferry-boat must be
+covered with dust now.
+No#
+$$n0
+How can I go home like
+this!
+$$n0
+Wow, you have so many
+coins!  I heard you 
+even had Monster Gold's
+gold stock.
+$$n0
+May I have some coins
+of yours?
+TreesD
+TreesD
+TreesD)
+Dun4
+Dun4020
+TreesDH
+TreesD
+TreesD
+TreesD
+TreesDd
+TreesDP
+TreesD
+TreesD
+TreesD<
+TreesD2
+TreesDP
+TreesD
+TreesDn
+CaveD101 
+BrickD
+BrickD
+BrickD
+StepADP
+World
+WX7Y6
+BrickD
+BrickDl
+BrickD<
+BrickD
+BrickD|
+BrickD<
+Xad
+Xax
+BrickD
+BrickD
+BrickDT
+CaveD201 
+BrickD
+BrickD
+BrickD
+StepAD
+World
+WX7Y6
+BrickD
+BrickD
+BrickD<
+BrickD
+BrickD<
+BrickD
+BrickD
+BrickDD
+Xad
+Xal
+CaveD301 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAUP
+Village4
+V4HsMed
+BrickD
+BrickD7
+Xa,
+StepAU
+Village1
+V1V001
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickDJ
+BrickDJ
+BrickD
+BrickD>
+BrickD
+BrickDn
+BrickD
+CaveD401 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAU
+World
+WX6Y6
+BrickD
+BrickD
+StepAUP
+$$n0
+LuWa got a bag of
+IceBomb.
+XaX
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+StepAUP
+CaveD
+CaveD402
+Xal
+CaveD402
+BrickD
+BrickD
+StepAU
+CaveD
+CaveD401
+BrickDl
+BrickD
+StepAUd
+CaveD
+CaveD403
+BrickD
+BrickD<
+BrickDT
+BrickD
+BrickD,
+BrickD,
+CaveD403
+BrickD
+BrickD
+StepAUP
+CaveD
+CaveD402
+BrickDl
+BrickD
+BrickD<
+BrickD
+BrickDd
+10 ArrowBomb for 10 coins
+$$n0
+Use bombs carefully!
+10 DirtBomb for 10 coins
+$$n0
+Use bombs carefully!
+10 IceBomb for 10 coins
+$$n0
+Use bombs carefully!
+nothing4
+$$n0
+I've heard of FireBomb,
+but I never see them.
+$$n0
+How did you get here?
+I cannot let you go
+bare-handed since you
+found me.  What do you 
+need?
+CaveD501 
+BrickD
+BrickD
+BrickD
+StepAUP
+World
+WX8Y7
+BrickD
+BrickD<
+BrickD
+BrickD<
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickDd
+BrickDd
+BrickD<
+BrickDP
+BrickD
+XaX
+CaveD601 
+BrickD
+BrickD
+BrickD
+StepAU
+World
+WX7Y9
+BrickD<
+BrickD
+BrickD
+BrickD
+BrickD
+XaD
+hrt
+$$n0
+LuWa got a piece of
+broken heart!
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+CaveD701 
+BrickD
+BrickD
+StepAD
+CaveD
+CaveD702
+StepAUP
+World
+WX5Y8
+BrickD
+BrickD
+Xah
+CaveD702 
+BrickD
+BrickD
+BrickD
+StepADP
+CaveD
+CaveD703
+StepAUP
+CaveD
+CaveD701
+BrickD<
+BrickD
+Xax
+BrickD
+BrickD<
+Xa@
+CaveD703 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAD
+CaveD
+CaveD704
+StepAUP
+CaveD
+CaveD702
+BrickD|
+BrickDx
+BrickD@
+BrickDD
+BrickD
+Xad
+BrickDD
+BrickD
+BrickD|
+BrickD
+BrickD
+BrickD<
+BrickD
+Xa@
+BrickD
+CaveD704 
+BrickD
+BrickD
+BrickD
+StepAU
+CaveD
+CaveD703
+BrickD
+XaK
+CaveD
+CaveD705
+BrickD<
+BrickD
+BrickD
+Xah
+BrickD
+BrickD<
+BrickD
+BrickD0
+BrickD
+BrickD
+CaveD705 
+BrickD
+BrickD
+BrickD<
+StepAUP
+CaveD
+CaveD704
+rOld
+$$n0
+"Zz---"
+BrickD
+rOld
+BrickD
+BrickD
+Dun4001
+DoorR
+m1l
+$$n0
+LuWa got a key.
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickl
+medH
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickh
+Brickh
+Dun4002
+DoorL
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick0
+Brick
+Brick0
+meds
+DoorLX
+Dun4003
+DoorUX
+GateX
+World
+WX9Y9
+m1,
+m14
+m1p
+m1X
+Dun4004
+DoorR
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickl
+med
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickh
+Brickh
+$$n0
+LuWa got a bag of
+Knife.
+m14
+m14
+m1`
+Dun4005
+DoorL
+DoorR
+medSL
+DoorDX
+m1L
+Brickh
+Brick
+Brick
+Brick 
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick 
+Brick
+Brick
+Brick0
+Brick0
+Brick
+Brick
+Brick0
+Brick
+Brick
+BrickX
+m2t
+m2|
+m1|
+m1D
+DoorDX
+Dun4006
+DoorL
+m1|
+m18
+Brickx
+Brick
+Brickh
+Brick
+BrickX
+Brick
+Brick
+Brick
+BrickH
+Brick
+Brick
+Brick
+m1X
+$$n0
+LuWa got the Dungeon
+Map!
+Brickx
+Brick
+Brickx
+Brick8
+Brick
+Brick
+Brick
+Brick8
+Brickx
+Brickx
+Brick8
+Brickh
+m14
+Brick
+Brick
+Dun4007
+DoorUX
+Med0
+m10
+m10
+DoorUX
+Dun4008
+DoorR
+Brickh
+Brickx
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick8
+Brick
+Brickx
+Brick
+Brick
+Brick
+BrickD
+Brick
+BrickD
+BrickX
+BrickX
+Brick
+Brick
+Brick
+Brick8
+Brickx
+Brick
+Brick8
+Brickx
+Brick
+BrickX
+Dun4
+Dun4015
+m1h
+Dun4009
+DoorL
+DoorR
+m1|
+Brickx
+Brickx
+Brick
+Brickh
+BrickX
+Brick
+Brick
+Brick
+Brickx
+Brick
+Brick
+Brickh
+Brick
+Brick
+Brick
+Brickh
+Brick8
+BrickH
+Brick
+Brick8
+Brick8
+Brick
+BrickH
+BrickH
+Brick
+Brick
+Brick0
+Brick
+Brick
+Dun4010
+DoorL
+DoorR
+m1\
+Dun4011
+DoorL
+DoorR
+meds8
+Brick
+Brick
+Brickh
+BrickX
+Brickh
+Brick
+BrickX
+Dun4012
+DoorL
+DoorR
+m1h
+m1 
+Dun4013
+DoorL
+DoorR
+Brickx
+Brick
+Brick
+Brick
+Brickx
+Brick
+Brick
+Brick
+m2@
+medb
+meds
+$$n0
+LuWa got a key.
+bloodb$
+kbag
+m2,
+Brick
+Brick
+Dun4014
+DoorR
+BrickX
+Brick
+Brickx
+Brick
+Brick
+Brick8
+Brick|
+Brickp
+Brick8
+Brick|
+Brick
+$$n0
+LuWa got the GoldSilk
+Armor.
+Brick
+Brick0
+Brick
+Brick0
+Brick
+Brick8
+Brick
+Dun4015
+DoorDX
+cateye
+$$n0
+LuWa got a Cateye.
+Med
+Dun4
+Dun4008
+DoorDX
+DoorDX
+Dun4016
+DoorR
+Brickh
+Brick
+Brickx
+Brick
+Brickx
+Brick
+Brickx
+$$n0
+LuWa got a bag of
+Knife.
+m1T
+Brickx
+Brickx
+m2H
+m24
+Dun4017
+DoorL
+DoorR
+meds
+DoorDX
+m1L
+Brick
+Brick
+Brick
+Brickx
+Brick 
+Brick
+Brick8
+Brick
+Brickx
+Brick
+Brick
+Brick
+Brick 
+Brick
+Brick
+Brick0
+Brick0
+Brick
+Brick
+Brick0
+Brick
+Brick
+BrickX
+Brickx
+Brick
+Brick
+Brickx
+Brick
+Brick
+medb
+DoorDX
+Dun4018
+DoorL
+m1@
+med
+$$n0
+LuWa got a key.
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+BrickH
+Brickh
+BrickX
+Brick
+BrickX
+Brickh
+BrickX
+Brick
+m28
+m1L
+Dun4019
+DoorU
+heart
+$$n0
+LuWa got the Heart
+of Ease.
+DoorUX
+Dun4020
+DoorL
+Brickx
+med
+med
+med4
+med
+$$n0
+LuWa got a piece of
+Xuan Iron.
+Brick
+med4
+med
+medp
+medp
+medp
+med
+med4
+med
+medp
+med
+med
+med
+med
+med
+med
+med
+med4
+$$n0
+LuWa got a key.
+Village4
+V4V001
+Brick
+Brick
+Dun4021
+med
+$$n0
+Monster Gold locked me
+here for the Ex-Jade. I
+thought I would never see
+my granddaughter again.
+$$n0
+Thank you for saving me.
+see you in QingLong 
+Village.
+Dun6001
+Brickh
+Brick
+Brick
+Brick 
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick 
+Brick
+Brick
+Brick0
+Brick0
+Brick
+Brick
+Brick0
+BrickX
+World
+WX10Y4
+iKeyAp
+$$n0
+LuWa got a key.
+DoorDX
+m2|
+Dun6002
+DoorDX
+m2X
+DoorDX
+mapX
+$$n0
+LuWa got the Dungeon
+Map!
+m1h
+m2 
+m14
+m2L
+m1 
+Dun6003
+DoorDX
+DoorDX
+medbig
+m1,
+m2h
+m24
+DoorDX
+iIceDarth
+Dun6004
+Dun6
+Dun6009
+m1$
+Dun6
+Dun6017
+Dun6
+Dun6006
+Dun6
+Dun6022
+DoorDX
+medb
+m2x
+m2x
+m1t
+m1x
+m1X
+DoorDX
+Dun6005
+DoorR
+m1p
+m2$
+DoorDX
+DoorDX
+m2l
+m2D
+m2@
+m14
+m1L
+Dun6006
+DoorDX
+Dun6
+Dun6004
+DoorDX
+m2 
+m2 
+m1p
+Dun6007
+DoorDX
+rOld
+$$n0
+LuWa got a bag of
+Icedart.
+m2\
+Dun6008
+m1 
+m2l
+item
+$$n0
+LuWa got a piece of
+broken heart!
+m2p
+m2H
+Dun6009
+DoorR
+m2T
+Dun6
+Dun6004
+medb
+m24
+m2 
+m2t
+m20
+Dun6010
+DoorL
+m1h
+DoorDX
+medbl
+m2@
+Dun6011
+m1,
+$$n0
+LuWa got a bag of
+Icedart.
+DoorDX
+medb
+m2t
+Dun6012
+m1l
+rOld
+$$n0
+LuWa got the DarkSilk
+Armor.
+m1|
+m1h
+m2D
+m2x
+m1L
+m1\
+m1x
+m1,
+m1X
+m1H
+m1L
+m1x
+m1 
+m1\
+m1,
+m1 
+m1D
+Dun6013
+m2p
+DoorDX
+medbD
+m2X
+m1D
+Dun6014
+DoorL
+medx
+Dun6
+Dun6020
+DoorDX
+Dun6015
+DoorR
+DoorDX
+medbX
+Dun6016
+DoorL
+DoorDX
+m1l
+m2p
+m24
+m2$
+m24
+m24
+m2p
+m2$
+m2`
+m24
+m2$
+m2$
+m2p
+m24
+m2`
+m2`
+m2p
+m24
+m24
+$$n0
+LuWa got a bag of
+Icedart.
+m1p
+m1p
+m1$
+m1T
+Dun6017
+DoorR
+med
+Dun6
+Dun6004
+m2X
+Dun6018
+m1h
+m2p
+eyeCatD
+$$n0
+LuWa got a Cateye.
+m2|
+m2D
+Dun6019
+med
+DoorDX
+Dun6020
+DoorL
+medX
+m1X
+m2@
+Dun6
+Dun6014
+Dun6
+Dun6024
+DoorDX
+m2X
+m2X
+m2p
+m2@
+Dun6021
+DoorR
+med
+m2H
+DoorDX
+m24
+Dun6022
+DoorL
+med
+Dun6
+Dun6004
+DoorDX
+DoorDX
+m2,
+Dun6023
+DoorL
+DoorR
+medb
+m2X
+Dun6024
+medT
+m1\
+m2H
+DoorDX
+Dun6
+Dun6020
+DoorDX
+m2t
+m2T
+m2p
+Dun6025
+med
+m1t
+m20
+DoorDX
+m2X
+m2l
+m2t
+Dun6026
+DoorDX
+itemBm
+$$n0
+LuWa got a bag of
+IceBomb.
+m24
+Dun6027
+DoorR
+m24
+DoorDX
+medbh
+m2l
+m2h
+Dun6028
+DoorL
+DoorDX
+m2x
+m2\
+Dun6029
+DoorR
+$$n0
+Ha! What a nice meal!
+DoorDX
+heart
+$$n0
+LuWa got the Heart
+of Calm.
+Dun6030
+DoorL
+Village6
+V6V001
+$$n0
+LuWa got a piece of
+Xuan Iron.
+Dun5001
+m2x
+Brick
+Brickx
+Brick
+Brick(
+BrickX
+World
+WX10Y6
+Map
+$$n0
+LuWa got the Dungeon
+Map!
+Brick
+Brick
+BrickH
+Brick8
+Brick
+Brick
+Dun5002
+meds
+Brick
+Brickh
+Brick(
+Brick
+Brick
+Brick(
+Brick
+Brick
+Dun5003
+med
+m2,
+Brick
+Dun5004
+m2H
+Dun5005
+m2D
+Brick(
+Brick(
+Brick
+Dun5
+Dun5009
+Brick"
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+BrickT
+BrickT
+BrickT
+Brick
+Brick
+m24
+m2,
+Brick
+BrickF
+Brickx
+Dun5006
+m2p
+Brickx
+BrickH
+Brick
+Brick
+Brick(
+hulu
+$$n0
+LuWa got a Bolus Hulu.
+Brickx
+Brick
+Brick
+Dun5007
+med
+World
+WX10Y6
+Brick
+Brick
+Brick\
+$$n0
+LuWa got a piece of 
+Xuan Iron.
+Brickh
+Brick
+Brick
+Brick
+Brick4
+Brick4
+Dun5008
+BrickX
+iHeartA0
+$$n0
+LuWa got the Heart
+of Warm.
+Dun5009
+Brickh
+Brick
+Brick(
+Brick`
+Dun5
+Dun5005
+cave
+$$n0
+LuWa got a Woodcat.
+Brick
+BrickX
+Brickx
+Brickx
+Brick
+Brick
+Brick8
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickh
+Dun5010
+m2h
+rOldX
+$$n0
+LuWa got a Wine Hulu.
+It smells good!
+Brick
+Brick
+BrickX
+BrickX
+Brick
+BrickH
+Brick
+Brick
+BrickX
+Brick
+Brick
+Brick
+Brick
+Brick
+BrickX
+Brickh
+m2H
+Brickh
+Brick
+m2h
+m2H
+Dun5011
+m2|
+BrickX
+m2|
+m2|
+m2\
+m2\
+m2\
+m2,
+m2,
+Dun5012
+Brick
+Brick
+Brick(
+BrickX
+Brick
+BrickX
+Brick
+Dun5013
+m2T
+Brick
+Brick
+Brick
+BrickX
+BrickH
+Brick
+Brick
+Brick
+m2X
+Dun5014
+Brick
+Brick
+m28
+Dun5015
+Brick
+Brick
+Bomb
+$$n0
+LuWa got a bag of
+DirtBomb.
+BrickH
+m2\
+m2$
+Dun5016
+Brick
+Brick
+BrickX
+Brick
+BrickX
+knifebag
+$$n0
+LuWa got a bag of
+Knife.
+Brick
+BrickH
+m24
+m2L
+m2$
+Dun5017
+med
+Dun5018
+Brick(
+Brick
+rOld
+$$n0
+LuWa got a bag of
+Knife.
+Brickh
+Brick
+Brick
+Brick
+BrickX
+Dun5019
+Brick
+Brick
+Brick
+Brick
+m2,
+Dun5020
+Brick
+Brickh
+Brick
+Brick
+m2h
+m2@
+Dun5021
+Brickh
+Brick
+Brick
+BrickH
+LadderH
+$$n0
+LuWa got the Floating
+Ladder!
+m2x
+Ladder
+V5Hs001
+doorT
+Village5
+V5V001
+boy
+$$n0
+My Master lost his most
+treasured Wine Hulu.
+He is too upset to talk
+to you.
+$$n0
+The little red bats in
+cave are afraid of flying
+knives. One knife followed
+immediately by sword will
+beat it.
+BenchX
+Bench
+Bench
+Bench
+Lamp
+Bench
+BenchF
+BenchF
+BedA
+Benchh
+BenchD
+Bench:
+Bench_
+Bench
+Lamp
+Lamp
+boy
+$$n0
+Don't bother me! Go
+away!
+Okay
+$$n0
+I am so fond of you!
+I will teach you the
+magnificent Run Magic!
+$$n0
+Like this, keep running
+and running and suddenly
+wave your sword!
+$$n0
+This magic can not only
+kill enemies efficiently,
+but also jump onto low 
+walls.
+$$h0
+LuWa learned Run Magic.
+No3
+$$n0
+Dear son, I will trade
+nice things with you.
+$$n0
+Aha, you've found my
+Wine Hulu! Give it to
+me now!
+$$n0
+Nice wine! Do you want
+some?
+V5Hs0020
+ChairY
+Boy@
+$$n0
+It is said that there
+are countless treasure
+in the far desert.
+Chair
+Bench
+SepA
+Village5
+V5V001
+ShellC
+Bench(
+ShellC2
+BedP
+ShellC
+ShellC
+ShellC
+Bench
+Bench-
+Bench(
+Bench+
+Benchx
+Chair
+Chair
+Chair
+Chair
+Chair
+Hero
+$$n0
+Ordinary people cannot
+sustain the heat of the 
+desert.  It will be 
+very dangerous to enter
+the maze.
+Bed
+Table
+Table
+V5Hs003
+BedA
+Bench:
+Bench"
+Table1
+Bench(
+Village5
+V5V001
+Bench,
+Bench
+Bench
+Bench
+Table:
+Benchh
+Bench
+Bench
+Table
+Table:
+TableY
+BedAn
+BedA
+BedA
+BenchA
+Bench2
+girlx
+$$n0
+Zzzz...
+$$n0
+What a strange dream.
+$$n0
+It seems I met you 
+before.  Who are you?
+$$n0
+Nice to see you.
+npc
+$$n2
+Whoever eliminates the
+ghost will get my best
+treasure.
+1000 coins
+$$h0
+LuWa got 1000 coins.
+Warm Ball
+$$h0
+LuWa got the Warm Ball.
+$$n1
+You saved my granddaughter.
+How should I thank you?
+$$n0
+I have two gifts here. 
+Please make your choice.
+Yes
+$$n0
+Good.
+Noi
+$$n0
+Let me change 1000 coins
+to the Warm Ball.
+$$h0
+LuWa returned 1000 coins
+and got the Warm ball.
+$$n0
+Are you satisfied with
+my gift?
+$$n1
+You are always welcome
+here.
+BedA
+BedA
+Bench
+Bench
+Bench
+V5Hs004
+doorT
+Village5
+V5V001
+BedN
+Chairh
+Table
+TableA
+Table
+Chair,
+TreeA
+$$n0
+My ShiFu once told me
+"Left when east, right
+when left".  What on
+earth does it mean?
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+ChairS
+Chair:
+Chairm
+ShellC#
+ShellC#
+V5HsHotel 
+Bed
+Bed
+Bench
+BenchK
+Bed
+BedSLeep
+Bench
+Bed
+Village5
+V5V001
+Bench
+Bed
+Bench
+Bench?
+BenchP
+Bench
+Bench
+Bench
+npcF
+npc
+npcd
+Benchn
+npcl
+Buy torches
+$$n0
+Thanks.
+Leave
+$$n0
+What a pity.
+$$n0
+Do you want torches?
+One for only 10 coins.
+npcT
+npcm
+npcc
+npcr
+npcK
+npcT
+npc
+Bench
+Bench
+Benchl
+BenchD
+Bench<
+Benchn
+Bench
+BenchZ
+Bench
+Bench|
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+npcx
+Yes
+$$n0
+Thank you.
+Leave1
+$$n0
+No Problem.  Come again
+whenever you want.
+$$n0
+20 coins for a full
+rest.
+Bench
+Bench
+Bench
+Bench
+V5HsMed
+doorh
+Village5
+V5V001
+Bench]
+counterAq
+counterA
+BottleC
+Bench
+Bench
+BenchT
+ShellC
+Bench2
+ShellC&
+Bench
+dr6
+Bench#
+ShellC
+ShellC
+ShellC
+ShellC
+ShellC
+BenchZ
+Bench
+Bench
+Bench(
+Bench,
+Bench2
+oldh
+ShellC
+ShellC
+ShellC
+BottleC
+docD
+Med Bolus, $10 each
+$$n0
+Thank you.
+Big Med Bolus, $30 each
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Boluses keep you safe.
+V5HsWeap
+BedAi
+Bench
+ShellF
+Benchd
+Shell
+Bench
+BedA
+Village5
+V5V001
+Bench
+BenchK
+BenchK
+Bench
+Bench
+Bench
+Bench]
+Bench
+Bench
+Bench
+Bench^
+Bench&
+Bench
+Bench
+Bench
+Shell
+Bench
+npc
+10 darts for $10
+$$n0
+Thank you.
+10 arrows for $10
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Need more bullets?
+10 darts for $10
+$$n0
+Thank you.
+10 arrows for $10
+$$n0
+Thank you.
+10 knives for $20
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Need more bullets?
+Bench'
+Bench
+Bench?
+Bench
+V5V001@
+door
+World
+WX10Y9
+House4
+Village5
+V5HsMed
+House2
+Village5
+V5Hs002
+House3
+Village5
+V5HsHotel
+House1
+Village5
+V5Hs001
+Road
+Name
+$$n0
+Jimmy Village
+House6
+Village5
+V5HsWeap
+boy
+$$n0
+My foot got burned
+last time I went to
+play in the desert.
+Road
+TreesD
+TreesDp
+Road
+TreesD8
+TreesD@
+TreesD
+TreesD8
+ggogo
+TreesD
+House1
+Village5
+V5Hs003
+TreesD
+TreesD
+TreesD(
+TreesD
+Road8
+House1x
+Village5
+V5Hs004
+Roadx
+bushl
+bushl
+TreesDX
+TreesDH
+TreesDH
+TreesD
+TreesD
+TreesDX
+TreesDH
+TreesD
+TreesDX
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDX
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD8
+TreesD8
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+Road(
+Road
+Road
+Road
+TreesD
+TreesD
+Road
+TreesD
+TreesD
+bushlt
+TreesD8
+TreesDP
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDP
+bushlv
+bushl
+bushlP
+TreesD:
+TreesD
+TreesD
+TreesDx
+TreesD(
+TreesDx
+TreesD
+TreesDX
+TreesDx
+TreesD(
+TreesDx
+TreesD
+TreesD<
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesD(
+TreesD(
+TreesD
+TreesD
+TreesD
+TreesDh
+bushl(
+TreesD
+TreesD<
+TreesD
+TreesD
+TreesD
+bushl
+TreesD@
+bushl
+bushl
+bushl
+TreesD
+TreesD
+TreesD@
+TreesD,
+bushl
+bushl8
+TreesDH
+TreesD\
+TreesD4
+bushl
+bushl
+TreesD,
+TreesD
+TreesD@
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+bushl
+bushlx
+bushl
+TreesD8
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+bushl
+bushl
+TreesD
+TreesD(
+TreesD4
+TreesD 
+bushl
+bushl
+bushl
+bushl
+bushl
+bushlx
+bushl
+bushl
+bushl
+bushlP
+bushl
+bushl
+bushlL
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+npc\
+$$n0
+The elder's house has
+a ghost and his grand-
+daughter is haunted.
+$$n0
+I cannot believe a young
+man like you can catch
+ghosts!
+V6Hs001
+urS
+door@
+Village6
+V6V001
+BenchS
+Bed2
+ShellC
+Chair:
+Table
+Bench
+ChairX
+Bench
+Table
+Table
+Chair
+Chair\
+ShellC(
+ShellC-
+ShellC(
+ShellC
+ShellC*
+ShellC
+ShellC
+ShellC
+$$n0
+I believe we are having
+the coldest winter since
+I was born.
+$$n0
+A year ago, a man from south
+came here to hide from his
+enemy. It was in here that
+he ever see snow.
+$$n0
+I have not seen him
+for quite a while. 
+Cold as this year, I
+am afraid he'll freeze
+to death.
+$$n0
+There are three KongFu
+masters in our village.
+$$n0
+I want to be their
+student, but they don't
+accept me.  Why don't
+you try your luck?
+V6Hs002
+Bench:
+Village6
+V6V001
+Bench
+Bench
+Bench
+Table:
+Benchh
+Bench
+Bench
+Table
+Table:
+TableY
+BedA
+BedA
+BedA
+Bench(
+bluex
+$$n0
+Only with magical power,
+can one break the ice
+hill.
+$$n0
+You are really somebody.
+But with your KongFu at
+this level, you cannot
+defeat Monster Water.
+$$n0
+I will check how smart
+you are. There're seven
+boys in the room behind.
+One of them will give
+you a gold flower.
+$$n0
+But if you hit any other
+boy, you are dead!
+$$n0
+You will pay your life
+as the price of no
+thinking.
+Give him the Gold Flower
+$$n0
+You must learn to fly
+Icedart in order to 
+defeat Monster Water.
+Let me show you!
+$$h0
+LuWa learned to fly
+Icedart and got a bag
+of Icedart.
+No&
+$$n0
+You won't defeat
+Monster Water!
+$$n0
+Got the Gold Flower?
+Good. Give it to me.
+$$n0
+Go ahead now!
+green
+$$n0
+We three brothers tried
+different methods to
+remove the ice hill.
+$$n0
+Silver Village owes you
+a lot.
+$$n0
+If you prove that you have
+courage to fight with
+Monster Water, we can teach
+you the strongest KongFu.
+$$n0
+My elder brother teaches
+you the best of his
+KongFu.
+$$n0
+You have to show me
+your ability to learn
+from me.
+$$n0
+Go to fight with the
+Invisible. There is
+a big jar in the 
+kitchen. The Invisible
+is in the cave below.
+$$n0
+Good. I will teach you
+the Blood Magic.
+$$n0
+This Magic uses some of
+your blood, but it will
+end all small monsters
+nearby.
+$$h0
+LuWa learned Blood
+Magic.
+$$n0
+You should be careful
+when using Blood Magic
+and do not use it too
+much.
+red
+$$n0
+The ice hill blocked
+the road to south, 
+which bothers three
+of us for a long time.
+$$n0
+You have opened the
+road.  But there are
+Monster Water and his
+heelers. I don't think
+the villagers dare to
+go south.
+$$n0
+There is a special
+woman living in North
+mountains. She makes
+unique medicines.
+$$n0
+If you can ask a Green
+Bolus from her, I will
+teach you a special
+KongFu.
+$$n0
+It may not easy to
+ask her, because no
+one really knows her.
+Yes
+$$n0
+My brother's wound should
+be cured by this magic bolus.
+As a reward, I will teach
+you Recover Dao.
+$$n0
+Your breath recovers
+very rapidly when you
+learned Recover Dao.
+$$h0
+LuWa learned Recover
+Dao.
+No#
+$$n0
+You should be more
+generous.
+$$n0
+You've got Green Bolus?
+Great! Can you give it
+to me?
+$$n0
+Young man is more capable
+than our old guys.
+Bench
+CaveF
+CaveF201
+Bench2
+Village6
+V6Hs003
+Bench2
+Bench
+Bench
+Bench
+V6Hs003 
+door2
+Village6
+V6Hs002
+rboyd|
+$$n0
+My good friend!  I 
+will give you a Gold
+Flower.
+$$n2
+LuWa got the Gold
+Flower.
+$$n0
+Hi! Why are you hanging
+around this dangerous place?
+StepAD|
+StepAD|
+StepAD|
+StepAD|
+StepAD|
+StepAD|
+V6Hs004
+BedA
+Bench:
+Bench'
+Table6
+Benchr
+Bench
+Village6
+V6V001
+Bench,
+Bench
+Bench
+Bench
+Bench
+Table:
+Benchh
+Bench
+Bench
+Table
+Table:
+TableY
+BedAn
+BedA
+BedA
+BenchA
+Benchn
+old
+$$n0
+The ice hill made all
+villagers upset.  We 
+are going to put an
+advertisement that
+anyone who gets rid
+of the ill hill may 
+have the treasure
+of the village.
+$$n0
+You may have the Dark
+-Silk Armor as the 
+reward for breaking
+the ice hill.
+$$n0
+But...The DarkSilk
+Armor was stolen some
+time ago...How to 
+solve this problem?
+$$n0
+Let's put it this 
+way: if you ever find
+the DarkSilk Armor,
+it will be yours.
+$$n0
+Oh, you found the
+DarkSilk Armor!  We
+Silver Villagers 
+really keep our
+promises, don't we?
+BedA
+Bench
+BedA
+BedA
+BedA
+BedA
+V6HsHotel 
+Bed
+Bed
+Bench
+BenchK
+Bed
+BedSLeep
+Bench
+Bed
+Village6
+V6V001
+Bench
+Bed
+Bench
+Bench?
+BenchP
+Bench
+Bench
+Bench
+npcF
+npc
+npcd
+Benchn
+npcT
+npcm
+npcc
+npcr
+npcK
+npcT
+npc
+Bench
+Bench
+Benchl
+BenchD
+Bench<
+Benchn
+Bench
+BenchZ
+Bench
+Bench|
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+npc
+Yes
+$$n0
+Thank you.
+Leave+
+$$n0
+No problem. You are
+welcome anytime.
+$$n0
+Have a rest for 20
+coins?
+V6HsMed
+doorh
+Village6
+V6V001
+Bed
+SepA
+Chaird
+Bed
+BedF
+Bottle|
+Bottle
+jarh
+Chair
+Chair
+Chair
+Chair(
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+Chair
+SepA
+old(
+old7
+old(
+old;
+oldA
+old(
+old(
+Bottle
+Bottle5
+Bottle!
+BottleI
+SepA.
+jar
+jar
+jar
+jar
+jarB
+jar
+jar+
+Chair
+Chair
+Chair
+docd
+Med Bolus, $10 each
+$$n0
+Thank you.
+Big Med Bolus, $30 each
+$$n0
+Thank you.
+Leave
+$$n0
+What a pity.
+$$n0
+Boluses keep you safe.
+V6HsWeap
+door
+Village6
+V6V001
+Bench
+ShellC
+Table
+Chair-
+Chair
+Chair
+Chaird
+Chair
+jar#
+Chair
+Boy
+10 knives for $20
+$$n0
+Thank you.
+10 arrows for $10
+$$n0
+Thank you.
+Leave
+$$n0
+Bye.
+$$n0
+Have some bullets.
+10 arrows for $10
+$$n0
+Thank you.
+10 knives for $20
+$$n0
+Thank you.
+10 icedarts for $30
+$$n0
+Thank you.
+Leave
+$$n0
+Bye.
+$$n0
+Have some bullets.
+Chair;
+jar
+V6V001@
+bushu(
+bushl(
+Tree
+bushd2
+door8
+World
+WX10Y2
+House1h
+Village6
+V6Hs001
+Road
+Roadh
+npc
+$$n0
+No one went to south
+ever since the big ice
+hill dropped from sky
+last year.
+$$n0
+You have done a 
+wonderful thing
+for us.
+TreesDT
+TreesD
+Road$
+Roadh
+TreesD
+TreesD
+TreesD
+TreesDd
+TreesD
+TreesDx
+TreesD
+TreesD4
+TreesD 
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD<
+TreesD
+TreesD
+TreesDn
+TreesDP
+TreesD
+TreesD
+TreesD
+TreesD@
+TreesD
+TreesDx
+TreesDx
+TreesDd
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDx
+TreesD
+TreesD
+TreesDp
+TreesD
+TreesD
+TreesDd
+TreesDd
+TreesD
+TreesD
+TreesDd
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesDl
+ge,gege
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+TreesD
+House1$
+Village6
+V6HsMed
+House1
+Village6
+V6Hs002
+TreesD
+$$n0
+Silver Village
+bushu<
+Village6
+V6HsHotel
+Road<
+Road,
+Road
+Dun6
+Dun6030
+House1
+Village6
+V6HsWeap
+House1l
+Village6
+V6Hs004
+TreesD
+bushd2x
+TreesDL
+TreesD
+bushd2
+CaveF101 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAD
+World
+WX12Y2
+StepAD
+CaveF
+CaveF102
+BrickD
+CaveF102 
+BrickD
+BrickD
+BrickD
+StepAD
+CaveF
+CaveF101
+BrickD<
+BrickD<
+BrickD<
+BrickD
+$$n0
+It is too cold! The
+Fire Sword does not
+help much. I would
+definitely trade it
+for warmness!
+Trade WarmBall with Fire Sword4
+$$n0
+It is so warm!
+$$h0
+LuWs got the Fire Sword.
+Leave
+$$n0
+You will come back!
+$$n0
+Damn, it's too cold!
+The Fire Sword has 
+little help. Ah, it
+is a lot warmer after
+you came in.
+$$n0
+Would you like to trade
+your precious stone with
+my sword which can master
+fire?
+$$n0
+Good, it is warm now.
+BrickD
+BrickD
+BrickD
+BrickD
+CaveF201 
+BrickD
+BrickD
+BrickD
+StepAD
+Village6
+V6Hs002
+BrickD
+CaveF301 
+BrickD
+BrickD
+BrickD
+StepAD
+World
+WX11Y4
+BrickD
+BrickD
+BrickD
+BrickDP
+BrickD<
+BrickD,
+CaveF401 
+BrickD
+BrickD
+BrickD
+StepAD
+World
+WX12Y3
+BrickD
+BrickDx
+BrickD
+BrickD
+BrickD@
+BrickDP
+BrickD
+BrickDX
+BrickD
+BrickDh
+BrickD<
+BrickD
+BrickDD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+CaveF501 
+BrickD
+BrickD
+BrickD
+StepADP
+World
+WX9Y3
+BrickD
+StepAD
+$$n0
+LuWa got a bag of
+IceBomb.
+BrickDd
+BrickDh
+BrickDh
+BrickDh
+BrickDh
+BrickD
+BrickD|
+BrickD
+CaveF601 
+BrickD
+BrickD
+BrickD
+StepAD
+World
+WX9Y4
+BrickD
+BrickD
+BrickD
+BrickD
+BrickDT
+BrickD
+BrickD0
+BrickD
+rOld
+$$n0
+LuWa got a bag of
+IceDart.
+rOld
+CaveF701 
+BrickD
+BrickD
+BrickD
+StepADP
+World
+WX8Y2
+BrickD
+BrickD<
+BrickD
+BrickD
+BrickD
+BrickD
+$$n0
+LuWa got a key.
+StepAD
+World
+WX9Y2
+BrickD<
+StepAD
+CaveF
+CaveF702
+BrickD
+BrickDB
+BrickD
+BrickDj
+BrickD
+CaveF702 
+BrickD
+BrickD
+BrickD
+StepAD
+CaveF
+CaveF701
+BrickD
+BrickDx
+BrickD
+BrickD
+BrickD
+BrickD@
+BrickD,
+BrickD'
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD0
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD|
+BrickDh
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD1
+BrickD
+BrickDO
+BrickD
+BrickD
+BrickD0
+BrickD
+BrickDr
+BrickDr
+BrickD
+BrickD
+$$n0
+LuWa got a Bolus Hulu.
+CaveC101 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAD
+CaveC
+CaveC102
+StepAUd
+World
+WX2Y8
+BrickD
+BrickD
+BrickD
+BrickD,
+BrickD
+BrickD|
+BrickD
+BrickD
+BrickD
+Xad
+CaveC102 
+BrickD
+BrickD
+BrickD
+StepAU
+CaveC
+CaveC101
+BrickD
+BrickD
+Cateyeh
+$$n0
+LuWa got a CatEye.
+CaveC201 
+BrickD
+BrickD
+BrickD
+StepAUP
+World
+WX1Y7
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD,
+BrickD|
+BrickD
+BrickD
+BrickD
+$$h0
+LuWa got a bag of
+DirtBomb.
+BrickD
+BrickD
+BrickDD
+BrickD
+BrickD,
+BrickD
+medsD
+CaveC301 
+BrickD
+BrickD
+BrickD
+BrickD
+StepAUd
+World
+WX3Y6
+BrickD
+BrickD
+BrickD
+BrickD0
+$$n0
+LuWa got a Bolus Hulu.
+CaveC401 
+BrickD
+BrickD
+BrickD
+StepAU
+World
+WX4Y8
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD,
+BrickD
+BrickD,
+BrickDT
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickDD
+BrickDD
+CaveC501 
+BrickD
+BrickD
+BrickD
+StepAU
+World
+WX3Y8
+BrickD
+BrickD
+BrickD
+BrickD<
+BrickD
+BrickD
+BrickD,
+BrickD
+BrickD
+BrickD
+BrickDD
+BrickDx
+BrickD
+BrickDD
+BrickD
+BrickD
+BrickD
+CaveC601 
+BrickD
+BrickD
+BrickD
+StepAU
+World
+WX5Y6
+BrickD
+BrickDl
+BrickD<
+BrickD<
+BrickD
+BrickD
+BrickD,
+BrickD,
+BrickDl
+g3x
+rat
+rat
+rat
+rat
+rat
+ratD
+ratl
+CaveE101 
+BrickD
+BrickD
+StepAU
+World
+WX10Y6
+BrickD
+BrickD
+BrickD
+BrickDl
+BrickD
+BrickD
+BrickD
+BrickDT
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickDT
+BrickD
+BrickD
+StepAU
+CaveE
+CaveE102
+BrickD
+BrickD
+CaveE102 
+BrickD
+BrickD
+StepAU
+CaveE
+CaveE101
+BrickD
+BrickD
+BrickD
+BrickDP
+BrickD
+BrickD
+BrickD,
+BrickD,
+BrickD
+BrickD
+BrickD
+BrickD
+StepAUP
+CaveE
+CaveE103
+BrickDh
+BrickD
+BrickD0
+BrickD0
+BrickDh
+BrickD
+BrickD
+BrickD
+BrickD
+CaveE103 
+BrickD
+BrickD
+StepAUP
+CaveE
+CaveE102
+BrickD
+BrickD
+BrickD,
+BrickD
+StepAU
+CaveE
+CaveE104
+BrickD
+BrickD
+BrickD
+BrickD<
+BrickD,
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD|
+BrickD
+BrickD
+CaveE104 
+BrickD
+BrickD
+StepAU
+CaveE
+CaveE103
+BrickD
+BrickD
+BrickD<
+BrickD
+BrickDD
+BrickDl
+BrickDP
+BrickD
+key
+$$n0
+LuWa got a key.
+$$n0
+LuWa got the OldSilk
+Boots.
+owl
+CaveE201 
+BrickD
+BrickD
+StepAU
+World
+WX9Y7
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD,
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+CaveE301 
+BrickD
+BrickD
+StepAU
+World
+WX11Y5
+BrickDP
+BrickD
+BrickDT
+BrickD
+BrickD
+BrickD<
+BrickD
+CaveE401
+BrickD
+BrickD
+StepAU
+World
+WX9Y6
+BrickD
+BrickD
+BrickDD
+StepAU
+CaveE
+CaveE402
+BrickD
+BrickD
+BrickD
+BrickDh
+BrickDh
+BrickD
+BrickD
+CaveE402
+BrickD
+BrickD
+StepAU
+CaveE
+CaveE401
+BrickD
+BrickD
+BrickD@
+BrickD 
+item
+$$n0
+LuWa got a piece of
+broken heart!
+BrickD
+BrickD@
+BrickD
+BrickD
+BrickD
+BrickDp
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD0
+BrickD0
+BrickD
+BrickD
+BrickD 
+BrickD
+BrickD@
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD0
+BrickD
+BrickD0
+BrickD
+BrickD
+BrickD
+BrickD 
+BrickDp
+BrickDp
+BrickD
+BrickD@
+BrickD
+BrickD
+BrickD@
+BrickD
+BrickDp
+BrickD
+BrickD
+BrickD
+BrickDp
+BrickD
+BrickD0
+BrickD
+BrickD@
+BrickD
+BrickD
+BrickDP
+BrickD
+BrickDP
+BrickD0
+BrickDP
+BrickDP
+BrickDP
+BrickD
+BrickD
+BrickDP
+BrickD 
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+BrickD
+Stair12
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower02
+StepAUx
+Tower
+Tower01
+Stair23N
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower03
+StepAUx
+Tower
+Tower02
+Stair23S
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower02
+StepAUx
+Tower
+Tower03
+Stair24E
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower02
+StepAUx
+Tower
+Tower04
+Stair24W
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower02
+StepAUx
+Tower
+Tower04
+Stair34E
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower03
+StepAUx
+Tower
+Tower04
+Stair34N
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower03
+StepAUx
+Tower
+Tower04
+Stair34S
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower03
+StepAUx
+Tower
+Tower04
+Stair34W
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower03
+StepAUx
+Tower
+Tower04
+Stair45
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower04
+StepAUx
+Tower
+Tower05
+Stair56
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower05
+StepAUx
+Tower
+Tower06
+Stair67
+BrickD
+BrickD(
+StepAUx
+Tower
+Tower06
+StepAUx
+Tower
+Tower07
+Tower01
+Brick
+Tower
+Stair12
+Brick
+Brick
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickx
+Brick8
+med
+medX
+med
+DoorD
+World
+WX6Y1
+Brick
+Brick
+Brickx
+Brick
+Brickh
+Brickx
+Brick(
+medx
+med}
+med
+med=
+med
+med
+Brick
+Brick
+Brick 
+Brick
+BrickH
+Brick8
+Brick
+Brick
+key11
+$$n0
+LuWa got a Key.
+med
+med
+med
+med
+med
+med
+BrickH
+Brick
+Brick
+m1\
+m1D
+m1$
+m1P
+m1P
+Brick
+Brick
+Brick(
+Brick
+Brickx
+Brick(
+Brick(
+Brick(
+Brick(
+Brick(
+Brick(
+Brick(
+Brick(
+Brick
+Brickx
+Brick
+Brick
+Brick8
+Brick
+Brick
+Tower02
+Brick
+Tower
+Stair12
+Brick
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickx
+Brick8
+Brickx
+med
+medX
+med
+Brick
+Brick
+Brickx
+Brick
+Brickh
+Brickx
+Brick(
+medx
+medx
+med
+med=
+med
+med
+Brickx
+Brick
+BrickH
+Brick
+Brick
+Tower
+Stair23N
+BrickH
+BrickH
+m2`
+Brick
+Tower
+Stair24E
+Brick
+Tower
+Stair23S
+Brickn
+Tower
+Stair24W
+BrickH
+Brick
+m2|
+Brick
+Brick
+Brick
+med
+med(
+med(
+med
+med
+med
+med
+med
+Brick
+Brick
+Brick
+BrickH
+Brick
+m1t
+m1@
+Brick
+Brickx
+Brick(
+Brick(
+Brick(
+Brick(
+Brick
+Brick(
+Brick
+Brickx
+Brick(
+Brick
+m1d
+Tower03
+Brick
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickx
+Brick8
+Brick
+med
+medX
+med
+Brick
+Brick
+Brickx
+Brick
+Brickh
+Brickx
+Brick(
+medx
+med}
+med
+med8
+med
+med
+Brick
+Brick
+Brick
+Tower
+Stair23N
+m2T
+Brick
+Tower
+Stair23S
+Brick
+Tower
+Stair34S
+Brick
+Tower
+Stair34N
+BrickH
+Brick
+Tower
+Stair34E
+Brick8
+Tower
+Stair34W
+Brick
+Brick8
+Brick(
+BrickH
+Brick
+Brick
+Brick
+BrickX
+Brickh
+Brick
+Brick
+Brick
+Brick
+BrickH
+key31x
+$$n0
+LuWa got a key.
+med
+med
+med
+med8
+med
+med
+Brick
+Brick8
+m1L
+m1$
+m1<
+Brick
+Brick(
+Brick
+Brick(
+Brick
+Brickx
+Brick(
+Brick(
+Brick(
+Brick(
+Brickx
+Brick
+Tower04
+med
+medX
+med
+Brick
+Brick
+Brickx
+Brick
+Brickh
+medx
+med}
+med
+med=
+med
+med
+Brick
+Tower
+Stair34S
+Brick
+Tower
+Stair34N
+Brick
+Tower
+Stair34E
+Brick8
+Tower
+Stair34W
+Brickx
+Tower
+Stair24W
+Brickx
+Tower
+Stair24E
+Brick
+Tower
+Stair45
+Brick
+Brick
+Brick
+Brick(
+Brick
+Brick
+Brick(
+Brick
+Brick
+Brick
+Brick
+Brick
+BrickX
+Brick
+Brickh
+Brick
+Brick
+BrickX
+BrickX
+Brick
+Brick
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickx
+Brick8
+Brick
+Brick8
+Brick
+Brick8
+Brick
+Brick
+Brick
+BrickH
+Brick
+m1$
+m1H
+m1L
+m1(
+Brick
+Brick8
+Brick(
+Brick
+Brickx
+Brick
+Brickx
+Brick(
+Brick(
+Brick(
+Brick(
+Brick
+Brick
+Brick
+Brickx
+BrickX
+BrickH
+Brick
+Brick
+Brick
+Brick
+Brickx
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brickh
+Brick
+Brick
+Brick(
+Brickx
+Brick
+Brick8
+Tower05P
+Brick8
+Brickh
+Brick
+Brick
+Brick
+Brick
+Brickx
+Brick
+med8
+med
+medH
+Brick
+Brick
+Brickx
+Brickh
+Brick
+medx
+med
+Brick
+Tower
+Stair45
+Brick
+Tower
+Stair56
+med
+med
+Brick
+Brickh
+Brickh
+Brick
+Brickx
+Brickh
+Brick
+BrickX
+Brick
+Brick
+BrickH
+Brick
+Brick
+Brick
+BrickX
+Brick
+Brickx
+Brickx
+Brick
+Brick
+Brick
+Brick
+Brick8
+Brick
+Brick
+Brick
+Brick
+Brick
+Brick
+Brickx
+BrickH
+Brick
+m1`
+m1\
+m1D
+m1,
+m1 
+Brick(
+Brick(
+Brick
+Brick(
+Brick
+Brick
+Brick(
+Brick(
+Brick
+Brick
+Brick(
+Brick8
+Brick(
+Brick8
+Brick(
+Brick
+Tower06
+Brick
+Brick
+Brick8
+Brick
+Brick
+Brickx
+Brick
+med
+medX
+Brick
+Brick
+Brickx
+Brickh
+Tower
+Stair67
+Brickh
+Brickh
+Brick
+Brick
+Tower
+Stair56
+med
+med
+medx
+med
+med
+GetOut
+$$h0
+Wow!
+BackPlaceH
+GetBack
+$$h0
+Wow!
+m2h
+m2p
+m2X
+m2 
+Brick
+Brick
+Brick(
+Brick(
+Brick
+Brick
+Brick(
+Brick(
+Brick8
+Brick8
+Brick(
+Brick
+Tower07
+BrickH
+Brick
+Brick
+Brickh
+Brick
+Brickx
+Brick
+med
+medl
+Brick
+Brick
+Brickx
+med
+Brickh
+Tower
+Stair67
+$$n0
+I was looking for you for
+a long time. Now you came
+here yourself! It is like
+the saying "Road to heaven
+is open but you don't go,
+door to hell is closed and
+you break in!" Your death
+is at today!
+medH
