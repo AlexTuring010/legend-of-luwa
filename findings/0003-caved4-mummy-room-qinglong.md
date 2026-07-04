@@ -18,6 +18,22 @@ The multi‑level cave next to **QingLong Village** (world tile **WX6Y6**) is **
    whether it respawns.** Kill it normally → it splits → it **respawns** on re‑entry (a bug).
    One‑shot it (Power Magic beams) → it dies for real → **permanent.**
 
+## The problem (the player's catch‑22)
+
+What makes the lower room feel *impossible* on a first playthrough:
+
+- The **mummy is penned on the right**, behind the row of "block walls"; the **"movable thing" (the
+  exit mechanism) is on the left.**
+- The dividing walls **can't be broken and bullets can't pass them** — so you **can't** kill the mummy
+  from the left. To kill it, you have to physically be on the **right** side.
+- But once you're on the right, **getting back to the left means passing through the stairs — which
+  yank you straight back *up* to level 1** (there's no gap to slip under them).
+- And **re‑entering the room respawns the mummy.**
+
+So it reads as a dead‑end loop: you can kill the mummy **or** reach the left exit, but seemingly
+**never both** — every time you cross back, the mummy comes alive again. Everything below is *why*
+that happens and *how* to break the loop.
+
 ## The cave (structure)
 
 - **QingLong Village = `Village4`, world coord `WX6Y6`** (name @ `539299`, `WX6Y6` @ `538886`). `CaveD4`
@@ -75,13 +91,6 @@ blow strong enough to kill her before she divides. She dies permanently; then cr
 "movable thing" is a **sliding/pushable block, `eBrickDBSld`**, that becomes pushable once monsters are
 dead) and reach the exit. **The normal split‑kill is the trap; the overkill is the intended path.**
 *(Also viable: the up‑and‑back route — one‑shot her, go up, re‑clear level 1, come back — she stays dead.)*
-
-## Room mechanics recap
-
-- Mummy sits behind the `mBrickHA` divider; reachable on foot from the right, but the **`StepAU` ladder**
-  yanks you back **up** if you try to return left.
-- The **"movable thing"** = `eBrickDBSld` (sliding block), pushable only once all monsters are dead.
-- The divider (`mBrickHA`) cannot be removed, and bullets cannot pass it.
 
 ## Open questions
 
