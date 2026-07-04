@@ -153,4 +153,4 @@ Edit two bytes, player reloads slot (don't Save first if the game's running, or 
   is immune — nail the flag so we can predict what breaks any given wall).
 - Locate per‑room world position to stitch full floor‑plans (world coords aren't per‑room in `Area.add`).
 - Decode `Pic.add` (sprites) for the wiki.
-- Find the monster **respawn** rule (room‑reload vs persistent flag) — see [#0004](../findings/0004-caveD-mummy-room-mbrickha.md).
+- Monster **respawn** rule — **answered** (it's the splitter‑death bug; see [#0003](../findings/0003-caved4-mummy-room-qinglong.md)). Still open: the exact permanent‑kill flag location in the `.sav`.

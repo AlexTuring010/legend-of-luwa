@@ -60,6 +60,18 @@ Each finding in [`findings/`](findings/) carries its own byte-offset evidence. T
 - **#0001 — The Warm Ball.** A quest "precious stone" you trade to a freezing-cave NPC to obtain the **Fire Sword** (attack 60, the fourth of five blades). It's the reward for saving an old man's granddaughter — a choice between 1000 coins or the Warm Ball (the data shows you can even swap the coins for it later). Proven from `Area.add` dialog at byte offsets **663098** and **708672**.
 - **#0002 — The doorless secret room.** After the Golden Monster boss (**Monster Gold**), map `Dun4021` is the grandmother's cell, holding the **Ex-Jade** — the magical item Monster Gold kidnapped her for. The room has **no normal door**; the entrance is a walk-through **fake wall** on its top edge (which is why DirtBombs don't work on it). It was located by scanning the room's edge type IDs and spotting the one edge tile that isn't an ordinary wall (`0x7e`–`0x81`).
 
+## Bugs found
+
+Reverse-engineering the game surfaces genuine **bugs in its code**. Each is documented in [`findings/`](findings/) with root-cause analysis, and each is a **candidate for a future binary fix**.
+
+**So far: 1 bug found — low severity.**
+
+| # | Bug | Severity | Why it's low-impact |
+|---|---|---|---|
+| 1 | **Mummy respawn bug** — in the CaveD cave near QingLong, killing the "mom mummy" (`mZummyB`) *normally* makes it **split into children** instead of dying, and the split code path **never registers the kill**, so the mummy **respawns** every time you re-enter. Confirmed in the **decompiled code** ([finding #0003](findings/0003-caved4-mummy-room-qinglong.md)). | 🟢 **Low** | Doesn't block progression, doesn't corrupt your save, and has an in-game workaround (**one-shot her with Power Magic** so she can't split → permanent kill). It only *wastes time* if you don't realize the trick. |
+
+Every confirmed bug like this is a potential candidate for a **binary patch** down the line.
+
 ## How to read it
 
 - **Just want to play through?** Start with the highlights above, then browse [`wiki/`](wiki/) for the item and area pages.
