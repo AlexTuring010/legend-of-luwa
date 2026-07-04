@@ -19,6 +19,8 @@ This is what makes the wiki trustworthy instead of guesswork.
 |---|---|---|---|
 | [0001](0001-warm-ball.md) | Warm Ball — trade item for the Fire Sword | Confirmed | item, trade, fire-sword |
 | [0002](0002-hidden-room-dun4021-grandma-cell.md) | Hidden room after Monster Gold (grandma's cell, `Dun4021`) | Confirmed (data) / Plausible (exact tile) | secret-room, castle, ex-jade, fake-wall |
+| [0003](0003-caved4-bomb-gated-secret-qinglong.md) | CaveD4 near QingLong — cave structure + hidden bomb shop | ⚠️ Partly retracted (wall-break theory wrong → see #0004) | cave, icebomb, merchant, retracted |
+| [0004](0004-caveD-mummy-room-mbrickha.md) | CaveD mummy room — "ding walls" are `mBrickHA`, an unbreakable brick-MONSTER divider | Confirmed (verified in-game) | cave, mummy, mBrickHA, invincible-wall, monster-gate |
 
 ## Conventions
 
