@@ -22,17 +22,18 @@ The multi‑level cave next to **QingLong Village** (world tile **WX6Y6**) is **
 
 What makes the lower room feel *impossible* on a first playthrough:
 
-- The **mummy is penned on the right**, behind the row of "block walls"; the **"movable thing" (the
-  exit mechanism) is on the left.**
-- The dividing walls **can't be broken and bullets can't pass them** — so you **can't** kill the mummy
-  from the left. To kill it, you have to physically be on the **right** side.
-- But once you're on the right, **getting back to the left means passing through the stairs — which
-  yank you straight back *up* to level 1** (there's no gap to slip under them).
+- The way out is a **"movable thing" on the left** (a push‑block) — and it **only unlocks once every
+  monster in the room is dead.** So to escape you need the mummy **dead** *and* to be standing on the **left**.
+- But you **can't kill the mummy from the left**: the dividing "block walls" can't be broken and bullets
+  can't pass them. You have to physically be on the **right** to kill it.
+- And once you're on the right, **getting back left means passing through the stairs — which yank you
+  straight back *up* to level 1** (there's no gap to slip under them).
 - And **re‑entering the room respawns the mummy.**
 
-So it reads as a dead‑end loop: you can kill the mummy **or** reach the left exit, but seemingly
-**never both** — every time you cross back, the mummy comes alive again. Everything below is *why*
-that happens and *how* to break the loop.
+So the two requirements — *mummy dead* **and** *you on the left* — look mutually exclusive: you kill it
+on the right, but the instant you head back left you're bounced up, and coming back down revives it.
+Kill it, **or** reach the exit — seemingly never both. Everything below is *why* that happens and *how*
+to break the loop.
 
 ## The cave (structure)
 
@@ -87,9 +88,9 @@ getter. Ghidra project + decompiled listing are a local RE artifact, not in this
 ## The solution
 
 **Kill the mom with a no‑split power attack** — Power Magic at full breath (sword fires beams), or any
-blow strong enough to kill her before she divides. She dies permanently; then cross to the left (the
-"movable thing" is a **sliding/pushable block, `eBrickDBSld`**, that becomes pushable once monsters are
-dead) and reach the exit. **The normal split‑kill is the trap; the overkill is the intended path.**
+blow strong enough to kill her before she divides. Because she stays **permanently** dead, the room
+stays cleared and the left push‑block (**`eBrickDBSld`**) stays unlocked — so you can now cross over,
+push it, and reach the exit. **The normal split‑kill is the trap; the overkill is the intended path.**
 *(Also viable: the up‑and‑back route — one‑shot her, go up, re‑clear level 1, come back — she stays dead.)*
 
 ## Open questions
