@@ -85,6 +85,18 @@ Every confirmed bug like this is a potential candidate for a **binary patch** do
 
 Work in progress. The data-extraction tooling and the `Area.add` format are decoded and documented, findings are being logged one at a time with evidence, and the wiki pages are being seeded from those findings.
 
+## Afterword — after finishing it
+
+I finished the game while building this, and I want to set down how it actually felt, because it's part of the story.
+
+The ending is quiet. You climb all the way up Xuan Tower, beat Monster WuXing, and save the **Green Angel** — she recovers peace, *The End.* Nothing more. After everything, it lands smaller than I expected. Which fits what the data shows: the final act was clearly rushed — reused bosses, a maze padded with invisible walls, an abandoned five-element gauntlet.
+
+But the stranger, more honest part isn't that the ending was thin. For most of my life *Legend of LuWa* was a **childhood memory** — a world of mystery and depth, half-remembered, lost media I figured I'd never get to play again. That version was enormous, because a kid's imagination fills every gap. Finding it again, replaying it, reverse-engineering it, beating it, seeing *all* of it — and the mystery was gone. It turned out smaller than I remembered.
+
+So part of me feels like I ruined it a little. Maybe some childhood memories are better left as they were — LuWa as a vast, unreachable world of depth — instead of chased down and fully known. I don't entirely regret it, but I feel the loss. The LuWa I can never play again isn't the one on the disk; it's the one that used to live in my head.
+
+Either way — it's understood now, and written down. Whatever it really was, it won't just vanish again.
+
 ## Legal & preservation
 
 Legend of LuWa is treated here as **abandonware**: it dates to 2002 and has no active publisher (both Loowa Software Company and Beijing PingYi Software Co. Ltd. are defunct). The installer and data files are included strictly for **preservation and research**. If you own the rights and would like something removed, open an issue and it will be taken down on request.
