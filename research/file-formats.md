@@ -97,6 +97,27 @@ Rooms are **31×26 tiles**, tile = **40 px** → `col = x/40`, `row = y/40`.
 - `mBrickHA` is a **monster**, so it can't be "made passable" as a wall type sensibly — but flipping
   its `type` to `0x6d` in a data overlay does neutralise it (used to *confirm* it was the divider).
 
+## Engine / gameplay quirks (reusable for solving puzzles)
+
+Behaviors of the *running game* (not file structure) that keep cracking level puzzles:
+
+- **Ding "walls" are often invincible monsters, not walls.** `mBrickHA` (`0x133`) dings when hit and
+  never breaks; **a visible gap in a ding wall is cosmetic** — one object renders as a whole multi‑tile
+  barrier and collision fills every 40 px tile, so the "gap" is not walkable and not "too thin." Route
+  around it (fake wall / hole), never through. (Findings
+  [#0003](../findings/0003-caved4-mummy-room-qinglong.md),
+  [#0005](../findings/0005-cavef7-ding-gap-key-dirtbomb.md).)
+- **Fake walls:** `eBrickHAFls` (`0x6d`) looks solid but you walk straight through it — the standard way
+  past a barrier with no visible door (findings [#0002], [#0005]).
+- **Hitting an item collects it.** Item pickups fire on contact with LuWa's *projectiles/attacks*, not
+  only his body — so a **walled‑off item can be grabbed with a bullet/bomb** you can't physically reach.
+  A **DirtBomb splits into side dirt‑balls**; one split's rock can strike an item across a gap and pick it
+  up. Player‑verified in‑game ([#0005]); the pickup‑on‑projectile‑contact function isn't traced in the
+  decomp yet. Reach for this on any "I can see the item but can't get to it" spot.
+- **Monsters chase, NPCs wander.** `m*` types run homing/aggro AI (walk toward LuWa); `r*`/`npc*` types
+  are passive and wander. That *behavioral* difference is a reliable in‑game tell for which of two
+  identical‑looking sprites is the friendly one — e.g. the Village6 "seven boys" ([#0004]).
+
 ## Modding technique — the VirtualStore overlay
 
 The game is a legacy **virtualized** app (its saves land in VirtualStore). So:
